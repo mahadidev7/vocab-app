@@ -1,0 +1,11 @@
+// {
+//     word: '',
+//     meaning: [''],
+//     partOfSpeech: [''],
+//     simpleDefinition: [''],
+//     examples: [''],
+//     synonyms: [''],
+//     antonyms: [''],
+//     shortStory: '',
+//     nearByWords: [''],
+//   },
