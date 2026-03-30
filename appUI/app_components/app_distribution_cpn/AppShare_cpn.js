@@ -5,7 +5,7 @@ import tw from 'twrnc';
 import App from '../../../App';
 import AppText from './AppText';
 
-export const Logo_cpn = ({ imageURL, style = '' }) => {
+export const Logo_cpn = ({style = '' }) => {
   return (
     <Image
       style={tw`w-[55px] h-[55px] ${style}`}
@@ -47,3 +47,7 @@ export const DictionaryAndBMark_area = ({}) => {
     </View>
   );
 };
+
+
+
+
