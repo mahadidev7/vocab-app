@@ -1,21 +1,18 @@
-/* eslint-disable react/no-unstable-nested-components */
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import React from 'react';
 import { PaperProvider } from 'react-native-paper';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import AppNavigators from './appUI/AppNavigators';
+import { StoreRoom } from './appUI/redux/StoreRoom';
+
+import { Provider } from 'react-redux';
 function App() {
   return (
     <SafeAreaProvider>
-      <PaperProvider>
-        <AppNavigators />
-      </PaperProvider>
+      <Provider store={StoreRoom}>
+        <PaperProvider>
+          <AppNavigators />
+        </PaperProvider>
+      </Provider>
     </SafeAreaProvider>
   );
 }

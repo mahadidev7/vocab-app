@@ -3,9 +3,12 @@ import React, { useEffect, useState } from 'react';
 import tw from 'twrnc';
 import AppText from '../app_distribution_cpn/AppText';
 import { useNavigation } from '@react-navigation/native';
+import { useDispatch } from 'react-redux';
+import { setReadVocabData } from '../../redux/slices/basketSlice';
 const CategoryBox = ({ name, arrayData }) => {
   const [allPage, setAllPage] = useState();
   const navigation = useNavigation();
+  const dispatch = useDispatch();
 
   function paginate(array, pageNumber, itemsPerPage = 15) {
     const startIndex = (pageNumber - 1) * itemsPerPage;
@@ -24,9 +27,8 @@ const CategoryBox = ({ name, arrayData }) => {
 
   const keepVocabHandler = currentPageNumber => {
     const getVocabArray = paginate(arrayData, currentPageNumber, 15);
-    navigation.navigate('Learn', {
-      data: getVocabArray,
-    });
+    dispatch(setReadVocabData(getVocabArray));
+    navigation.navigate('Learn');
   };
 
   useEffect(() => {

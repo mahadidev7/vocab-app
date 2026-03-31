@@ -2,25 +2,27 @@ import React, { useEffect, useState } from 'react';
 import AppScreen from '../app_components/app_distribution_cpn/AppScreen';
 import AppHeader from '../app_components/app_distribution_cpn/AppHeader';
 import VocabularyWrapper from '../app_components/app_my_cpn/VocabularyWrapper';
+import { useSelector } from 'react-redux';
+import { CatchReadVocabData } from '../redux/slices/basketSlice';
 
 const ScreenLearn = ({ route }) => {
-  const [vocabData, setVocabData] = useState(null);
+  const [vocabData, setVocabData] = useState([]);
   const [showVocabNumberOfArray, setShowVocabNumberOfArray] = useState(0);
+  const CatchReadVocabDataFromRedux = useSelector(CatchReadVocabData);
 
   useEffect(() => {
-    if (route?.params?.data) {
-      setVocabData(route?.params?.data || null);
-    } else {
-      setVocabData(null);
-    }
-  }, [route.params]);
+    setVocabData(CatchReadVocabDataFromRedux || []);
+  }, [CatchReadVocabDataFromRedux]);
 
   return (
     <AppScreen>
       <AppHeader {...route.params} />
-      {!!vocabData && (
+      {!!vocabData?.length > 0 && (
         <VocabularyWrapper
-          vocabData={route?.params?.data}
+          vocabData={vocabData}
+          vocabSingleItem={vocabData[showVocabNumberOfArray]}
+          showVocabNumberOfArray={showVocabNumberOfArray}
+          setShowVocabNumberOfArray={setShowVocabNumberOfArray}
         />
       )}
     </AppScreen>
