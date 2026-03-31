@@ -1,6 +1,6 @@
 export const PageTwoOfWritingSingle = [
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'contain',
     meaning: [
       'to have or hold within',
@@ -20,7 +20,7 @@ export const PageTwoOfWritingSingle = [
       'Ancient urn contained priceless scrolls. Perfect preservation revealed lost history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'content',
     meaning: [
       'what is contained inside',
@@ -36,7 +36,7 @@ export const PageTwoOfWritingSingle = [
       'Rich content filled museum exhibits. Visitors stayed hours absorbing knowledge.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'contrast',
     meaning: [
       'difference between things',
@@ -52,7 +52,7 @@ export const PageTwoOfWritingSingle = [
       'Bright contrast revealed hidden painting. Dark restoration uncovered masterpiece.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'criterion',
     meaning: [
       'standard for judging',
@@ -68,7 +68,7 @@ export const PageTwoOfWritingSingle = [
       'Single criterion decided scholarship. Academic excellence trumped all others.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'critical',
     meaning: [
       'essential or decisive',
@@ -84,7 +84,7 @@ export const PageTwoOfWritingSingle = [
       'Critical decision saved company. Bold leadership averted bankruptcy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'cycle',
     meaning: ['series of events repeating', 'bicycle', 'recurring process'],
     partOfSpeech: ['noun'],
@@ -96,7 +96,7 @@ export const PageTwoOfWritingSingle = [
       'Breaking poverty cycle changed generations. Education lifted entire family.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'decrease',
     meaning: ['to become less', 'reduction in amount', 'to make smaller'],
     partOfSpeech: ['verb', 'noun'],
@@ -108,7 +108,7 @@ export const PageTwoOfWritingSingle = [
       'Dramatic decrease saved ecosystem. Conservation efforts restored balance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'demonstrate',
     meaning: ['to show clearly', 'to prove', 'to protest publicly'],
     partOfSpeech: ['verb'],
@@ -124,7 +124,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect demonstration won contract. Live prototype convinced skeptical buyers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'derive',
     meaning: ['to obtain from source', 'to originate', 'to deduce'],
     partOfSpeech: ['verb'],
@@ -136,7 +136,7 @@ export const PageTwoOfWritingSingle = [
       'Modern medicine derived from plants. Ancient wisdom validated scientifically.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'differ',
     meaning: ['to be different', 'to disagree', 'to vary'],
     partOfSpeech: ['verb'],
@@ -148,7 +148,7 @@ export const PageTwoOfWritingSingle = [
       'Theories differed completely. Scientific debate advanced understanding dramatically.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'direct',
     meaning: [
       'to guide or manage',
@@ -164,7 +164,7 @@ export const PageTwoOfWritingSingle = [
       'Direct communication resolved crisis. Honest words built unbreakable trust.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'discussion',
     meaning: ['conversation about subject', 'formal talk', 'debate'],
     partOfSpeech: ['noun'],
@@ -176,7 +176,7 @@ export const PageTwoOfWritingSingle = [
       'Honest discussion healed division. Community found common ground.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'domain',
     meaning: ['area of knowledge', 'territory', 'website address'],
     partOfSpeech: ['noun'],
@@ -188,7 +188,7 @@ export const PageTwoOfWritingSingle = [
       'New domain discovered physics. Unknown territory revolutionized science.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'education',
     meaning: [
       'process of learning',
@@ -204,7 +204,7 @@ export const PageTwoOfWritingSingle = [
       'Single teacher transformed education. Innovative methods created generations of scholars.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'ensure',
     meaning: ['to make certain', 'to guarantee', 'to protect'],
     partOfSpeech: ['verb'],
@@ -216,7 +216,7 @@ export const PageTwoOfWritingSingle = [
       'Double-checked ensured perfect launch. Flawless execution made history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'estimate',
     meaning: ['rough calculation', 'to calculate approximately', 'judgment'],
     partOfSpeech: ['noun', 'verb'],
@@ -228,7 +228,7 @@ export const PageTwoOfWritingSingle = [
       'Expert estimate valued painting millions. Undiscovered masterpiece authenticated.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'event',
     meaning: ['happening or occurrence', 'planned occasion', 'result'],
     partOfSpeech: ['noun'],
@@ -240,7 +240,7 @@ export const PageTwoOfWritingSingle = [
       'Single event changed history. Assassination triggered world war.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'experience',
     meaning: ['knowledge from events', 'to have happen', 'length of practice'],
     partOfSpeech: ['noun', 'verb'],
@@ -257,7 +257,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'internal',
     meaning: ['existing within', 'inside the body', 'of an organization'],
     partOfSpeech: ['adjective'],
@@ -269,7 +269,7 @@ export const PageTwoOfWritingSingle = [
       'Internal conflict drove dramatic change. Personal struggle birthed reinvention.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'interpretation',
     meaning: [
       'explanation of meaning',
@@ -289,7 +289,7 @@ export const PageTwoOfWritingSingle = [
       'Bold interpretation shocked critics. Revolutionary reading redefined classic.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'interview',
     meaning: [
       'formal meeting for assessment',
@@ -305,7 +305,7 @@ export const PageTwoOfWritingSingle = [
       'Nerve-wracking interview became breakthrough. Honest answers landed dream position.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'language',
     meaning: ['system of communication', 'words used', 'style of expression'],
     partOfSpeech: ['noun'],
@@ -317,7 +317,7 @@ export const PageTwoOfWritingSingle = [
       'Dead language decoded revealed secrets. Lost civilization spoke through stone.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'legal',
     meaning: ['permitted by law', 'connected with law', 'lawful'],
     partOfSpeech: ['adjective'],
@@ -329,7 +329,7 @@ export const PageTwoOfWritingSingle = [
       'Legal loophole saved fortune. Clever lawyer preserved family legacy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'less',
     meaning: ['smaller amount', 'not as much', 'minus'],
     partOfSpeech: ['adjective', 'adverb'],
@@ -341,7 +341,7 @@ export const PageTwoOfWritingSingle = [
       'Less became more through simplicity. Minimalist design revolutionized industry.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'limit',
     meaning: ['maximum amount', 'boundary', 'to restrict'],
     partOfSpeech: ['noun', 'verb'],
@@ -353,7 +353,7 @@ export const PageTwoOfWritingSingle = [
       'Pushing limits birthed innovation. Extreme challenge created breakthrough technology.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'literature',
     meaning: ['written works', 'body of writings', 'academic field'],
     partOfSpeech: ['noun'],
@@ -369,7 +369,7 @@ export const PageTwoOfWritingSingle = [
       'Forgotten literature rediscovered changed history. Ancient manuscript rewrote timeline.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'local',
     meaning: [
       'relating to place nearby',
@@ -385,7 +385,7 @@ export const PageTwoOfWritingSingle = [
       'Local hero saved town from flood. Community champion became legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'major',
     meaning: [
       'important or large',
@@ -401,7 +401,7 @@ export const PageTwoOfWritingSingle = [
       'Major discovery revolutionized medicine. Single breakthrough cured millions.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'material',
     meaning: ['substance or matter', 'information for use', 'important'],
     partOfSpeech: ['noun', 'adjective'],
@@ -413,7 +413,7 @@ export const PageTwoOfWritingSingle = [
       'Rare material created wonder weapon. Game-changing alloy won the war.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'meaning',
     meaning: ['what something signifies', 'purpose', 'importance'],
     partOfSpeech: ['noun'],
@@ -425,7 +425,7 @@ export const PageTwoOfWritingSingle = [
       'Cryptic meaning unlocked treasure vault. Ancient riddle solved perfectly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'media',
     meaning: ['communication channels', 'storage devices', 'plural of medium'],
     partOfSpeech: ['noun'],
@@ -437,7 +437,7 @@ export const PageTwoOfWritingSingle = [
       'Media frenzy followed royal scandal. Global coverage created modern legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'multiple',
     meaning: ['more than one', 'many', 'having several parts'],
     partOfSpeech: ['adjective'],
@@ -453,7 +453,7 @@ export const PageTwoOfWritingSingle = [
       'Multiple talents created superstar. Diverse skills dominated every field.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'necessary',
     meaning: ['required or essential', 'unavoidable', 'compulsory'],
     partOfSpeech: ['adjective'],
@@ -469,7 +469,7 @@ export const PageTwoOfWritingSingle = [
       'Necessary sacrifice saved mission. Heroic choice ensured victory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'need',
     meaning: ['require or must have', 'necessity', 'urgent requirement'],
     partOfSpeech: ['verb', 'noun'],
@@ -481,7 +481,7 @@ export const PageTwoOfWritingSingle = [
       'Desperate need sparked invention. Crisis birthed life-saving technology.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'note',
     meaning: ['short record', 'single sound', 'to notice'],
     partOfSpeech: ['noun', 'verb'],
@@ -493,7 +493,7 @@ export const PageTwoOfWritingSingle = [
       'Single note unlocked musical genius. Perfect pitch changed concert history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'obtain',
     meaning: ['to get or acquire', 'to gain possession', 'to procure'],
     partOfSpeech: ['verb'],
@@ -506,7 +506,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'order',
     meaning: [
       'sequence or arrangement',
@@ -522,7 +522,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect order emerged from chaos. Organized filing revealed missing evidence.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'overall',
     meaning: [
       'total or including everything',
@@ -538,7 +538,7 @@ export const PageTwoOfWritingSingle = [
       'Overall strategy won the war. Brilliant coordination defeated superior numbers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'perform',
     meaning: ['to carry out or execute', 'to entertain', 'to function'],
     partOfSpeech: ['verb'],
@@ -550,7 +550,7 @@ export const PageTwoOfWritingSingle = [
       'Flawless performance saved the mission. Precision execution became legendary.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'performance',
     meaning: [
       'act of performing',
@@ -566,7 +566,7 @@ export const PageTwoOfWritingSingle = [
       'Record-breaking performance stunned spectators. Athletic feat rewrote record books.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'period',
     meaning: ['length of time', 'punctuation mark', 'historical era'],
     partOfSpeech: ['noun'],
@@ -578,7 +578,7 @@ export const PageTwoOfWritingSingle = [
       'Golden period produced greatest art. Creative explosion defined generation.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'phase',
     meaning: ['stage of process', 'distinct period', 'moon appearance'],
     partOfSpeech: ['noun'],
@@ -590,7 +590,7 @@ export const PageTwoOfWritingSingle = [
       'Critical phase determined mission success. Perfect timing achieved impossible.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'present',
     meaning: ['current time', 'to show or offer', 'gift'],
     partOfSpeech: ['adjective', 'verb', 'noun'],
@@ -602,7 +602,7 @@ export const PageTwoOfWritingSingle = [
       'Present moment revealed deepest truth. Living now unlocked enlightenment.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'probability',
     meaning: ['likelihood of happening', 'chance', 'mathematical likelihood'],
     partOfSpeech: ['noun'],
@@ -614,7 +614,7 @@ export const PageTwoOfWritingSingle = [
       'Low probability event changed history. Lightning strike discovered oil field.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'project',
     meaning: ['planned undertaking', 'to throw forward', 'to protrude'],
     partOfSpeech: ['noun', 'verb'],
@@ -626,7 +626,7 @@ export const PageTwoOfWritingSingle = [
       'Ambitious project transformed city. Urban renewal created modern marvel.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'question',
     meaning: ['sentence asking information', 'to doubt', 'problem or issue'],
     partOfSpeech: ['noun', 'verb'],
@@ -638,7 +638,7 @@ export const PageTwoOfWritingSingle = [
       'Single question unlocked conspiracy. Simple inquiry exposed massive fraud.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'ratio',
     meaning: [
       'relationship between quantities',
@@ -654,7 +654,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect ratio created architectural wonder. Mathematical beauty stood eternal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'reaction',
     meaning: ['response to stimulus', 'chemical change', 'immediate response'],
     partOfSpeech: ['noun'],
@@ -666,7 +666,7 @@ export const PageTwoOfWritingSingle = [
       'Chain reaction saved nuclear plant. Quick thinking prevented meltdown.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'reduction',
     meaning: ['act of making smaller', 'decrease', 'simplification'],
     partOfSpeech: ['noun'],
@@ -678,7 +678,7 @@ export const PageTwoOfWritingSingle = [
       'Massive reduction transformed bloated company. Streamlined operations restored profitability.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'reference',
     meaning: ['source of information', 'mention', 'recommendation'],
     partOfSpeech: ['noun'],
@@ -690,7 +690,7 @@ export const PageTwoOfWritingSingle = [
       'Obscure reference solved ancient mystery. Forgotten text provided crucial clue.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'reflect',
     meaning: ['to think deeply', 'to mirror image', 'to show or express'],
     partOfSpeech: ['verb'],
@@ -702,7 +702,7 @@ export const PageTwoOfWritingSingle = [
       'Quiet reflection brought clarity. Deep thought revealed perfect solution.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'requirement',
     meaning: ['something needed or demanded', 'condition', 'essential need'],
     partOfSpeech: ['noun'],
@@ -714,7 +714,7 @@ export const PageTwoOfWritingSingle = [
       'Single requirement changed everything. Strict standard created elite organization.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'researcher',
     meaning: ['person conducting research', 'investigator', 'scientist'],
     partOfSpeech: ['noun'],
@@ -726,7 +726,7 @@ export const PageTwoOfWritingSingle = [
       'Unknown researcher won Nobel. Humble genius revolutionized medicine.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'right',
     meaning: ['correct', 'entitlement', 'direction opposite left'],
     partOfSpeech: ['adjective', 'noun'],
@@ -738,7 +738,7 @@ export const PageTwoOfWritingSingle = [
       'Moral right guided impossible choice. Ethical stand changed history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'service',
     meaning: ['help or assistance', 'work for others', 'religious ceremony'],
     partOfSpeech: ['noun'],
@@ -750,7 +750,7 @@ export const PageTwoOfWritingSingle = [
       'Outstanding service earned loyalty. Exceptional care created lifetime customers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'set',
     meaning: ['collection of items', 'to place', 'fixed or determined'],
     partOfSpeech: ['noun', 'verb', 'adjective'],
@@ -763,7 +763,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'significantly',
     meaning: ['to a great degree', 'importantly', 'considerably'],
     partOfSpeech: ['adverb'],
@@ -779,7 +779,7 @@ export const PageTwoOfWritingSingle = [
       'Significantly improved design revolutionized industry. Simple change created market dominance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'society',
     meaning: [
       'organized human community',
@@ -795,7 +795,7 @@ export const PageTwoOfWritingSingle = [
       'Broken society healed through unity. Collective compassion rebuilt stronger community.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'standard',
     meaning: ['level of quality', 'established norm', 'flag or banner'],
     partOfSpeech: ['noun', 'adjective'],
@@ -807,7 +807,7 @@ export const PageTwoOfWritingSingle = [
       'Uncompromising standards created legend. Perfection forged unbreakable reputation.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'status',
     meaning: ['social position', 'condition or state', 'prestige'],
     partOfSpeech: ['noun'],
@@ -819,7 +819,7 @@ export const PageTwoOfWritingSingle = [
       'Low status worker changed history. Humble origins birthed global empire.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'survey',
     meaning: ['general study or review', 'to examine', 'questionnaire'],
     partOfSpeech: ['noun', 'verb'],
@@ -831,7 +831,7 @@ export const PageTwoOfWritingSingle = [
       'Comprehensive survey revealed hidden trends. Data insights predicted market crash.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'technique',
     meaning: ['method or way of doing', 'skill or ability', 'technical method'],
     partOfSpeech: ['noun'],
@@ -843,7 +843,7 @@ export const PageTwoOfWritingSingle = [
       'Revolutionary technique saved endangered craft. Ancient skill preserved for future.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'tend',
     meaning: ['to be inclined', 'to care for', 'to move toward'],
     partOfSpeech: ['verb'],
@@ -855,7 +855,7 @@ export const PageTwoOfWritingSingle = [
       'People tend toward familiar. Breaking habit created extraordinary success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'text',
     meaning: ['written words', 'message', 'main body of book'],
     partOfSpeech: ['noun', 'verb'],
@@ -867,7 +867,7 @@ export const PageTwoOfWritingSingle = [
       'Ancient text decoded changed history. Cryptic writing revealed lost continent.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'traditional',
     meaning: [
       'following long-established customs',
@@ -887,7 +887,7 @@ export const PageTwoOfWritingSingle = [
       'Traditional methods outperformed technology. Ancient wisdom proved superior.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'understanding',
     meaning: ['knowledge of situation', 'agreement', 'ability to understand'],
     partOfSpeech: ['noun'],
@@ -903,7 +903,7 @@ export const PageTwoOfWritingSingle = [
       'Mutual understanding ended feud. Simple conversation healed generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'useful',
     meaning: ['able to help', 'practical', 'having utility'],
     partOfSpeech: ['adjective'],
@@ -915,7 +915,7 @@ export const PageTwoOfWritingSingle = [
       'Simple tool proved most useful. Basic invention changed daily life.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'vary',
     meaning: ['to differ', 'to change', 'to be different'],
     partOfSpeech: ['verb'],
@@ -927,7 +927,7 @@ export const PageTwoOfWritingSingle = [
       'Conditions vary greatly by region. Local adaptation created diverse solutions.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'account',
     meaning: ['record of money', 'description', 'to consider'],
     partOfSpeech: ['noun', 'verb'],
@@ -939,7 +939,7 @@ export const PageTwoOfWritingSingle = [
       'Detailed account solved mystery. Witness testimony convicted criminal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'alternative',
     meaning: ['choice between options', 'different approach', 'substitute'],
     partOfSpeech: ['noun', 'adjective'],
@@ -955,7 +955,7 @@ export const PageTwoOfWritingSingle = [
       'Alternative path led to treasure. Unexplored route revealed riches.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'among',
     meaning: ['surrounded by', 'in the group of', 'shared by'],
     partOfSpeech: ['preposition'],
@@ -970,7 +970,7 @@ export const PageTwoOfWritingSingle = [
     shortStory: 'Hidden among plain sight. Perfect camouflage fooled experts.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'amount',
     meaning: ['quantity of something', 'sum of money', 'total'],
     partOfSpeech: ['noun'],
@@ -982,7 +982,7 @@ export const PageTwoOfWritingSingle = [
       'Small amount sparked revolution. Tiny investment created global empire.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'arise',
     meaning: ['to occur', 'to come into being', 'to result from'],
     partOfSpeech: ['verb'],
@@ -998,7 +998,7 @@ export const PageTwoOfWritingSingle = [
       'Unexpected opportunity arose from crisis. Disaster birthed greatest innovation.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'association',
     meaning: ['group of people', 'connection or relationship', 'mental link'],
     partOfSpeech: ['noun'],
@@ -1014,7 +1014,7 @@ export const PageTwoOfWritingSingle = [
       'Strategic association created powerhouse. Perfect partnership dominated market.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'average',
     meaning: ['typical or normal', 'mathematical mean', 'mediocre'],
     partOfSpeech: ['adjective', 'noun'],
@@ -1026,7 +1026,7 @@ export const PageTwoOfWritingSingle = [
       'Average worker achieved extraordinary. Consistent excellence beat natural talent.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'belief',
     meaning: ['acceptance of truth', 'conviction', 'religious faith'],
     partOfSpeech: ['noun'],
@@ -1038,7 +1038,7 @@ export const PageTwoOfWritingSingle = [
       'Unshakable belief conquered impossible. Faith moved metaphorical mountains.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'capacity',
     meaning: ['ability to hold or do', 'maximum amount', 'role or position'],
     partOfSpeech: ['noun'],
@@ -1051,7 +1051,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'century',
     meaning: [
       'period of 100 years',
@@ -1067,7 +1067,7 @@ export const PageTwoOfWritingSingle = [
       '21st century discovery decoded ancient text. Lost language revealed forgotten empire.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'certain',
     meaning: ['definitely known', 'specific but not named', 'confident'],
     partOfSpeech: ['adjective'],
@@ -1079,7 +1079,7 @@ export const PageTwoOfWritingSingle = [
       'Certain knowledge guided rescue. Unerring instinct saved trapped miners.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'challenge',
     meaning: ['difficult task', 'invitation to compete', 'to question'],
     partOfSpeech: ['noun', 'verb'],
@@ -1091,7 +1091,7 @@ export const PageTwoOfWritingSingle = [
       'Impossible challenge conquered through persistence. Relentless effort achieved unthinkable.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'characterize',
     meaning: ['to describe character', 'to be typical of', 'to distinguish'],
     partOfSpeech: ['verb'],
@@ -1107,7 +1107,7 @@ export const PageTwoOfWritingSingle = [
       'Unique traits characterized genius inventor. Eccentric habits birthed world-changing devices.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'claim',
     meaning: ['to state as true', 'demand as right', 'assertion'],
     partOfSpeech: ['verb', 'noun'],
@@ -1119,7 +1119,7 @@ export const PageTwoOfWritingSingle = [
       'Bold claim proved true dramatically. Inventor demonstrated impossible machine publicly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'climate',
     meaning: [
       'weather conditions',
@@ -1135,7 +1135,7 @@ export const PageTwoOfWritingSingle = [
       'Changing climate forced adaptation. Ancient city thrived through ingenuity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'comparison',
     meaning: ['act of comparing', 'similarity or difference', 'analogy'],
     partOfSpeech: ['noun'],
@@ -1147,7 +1147,7 @@ export const PageTwoOfWritingSingle = [
       'Startling comparison revealed pattern. Historical parallels predicted future crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'competition',
     meaning: [
       'contest between rivals',
@@ -1167,7 +1167,7 @@ export const PageTwoOfWritingSingle = [
       'Healthy competition drove innovation. Rivals collaborated creating industry standard.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'concern',
     meaning: ['worry or anxiety', 'business or interest', 'to worry about'],
     partOfSpeech: ['noun', 'verb'],
@@ -1179,7 +1179,7 @@ export const PageTwoOfWritingSingle = [
       'Growing concern forced action. Community united solving environmental crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'conduct',
     meaning: ['to carry out', 'behavior', 'electrical transmission'],
     partOfSpeech: ['verb', 'noun'],
@@ -1191,7 +1191,7 @@ export const PageTwoOfWritingSingle = [
       'Flawless conduct won admiration. Professional demeanor secured major contract.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consideration',
     meaning: ['careful thought', 'factor in decision', 'money payment'],
     partOfSpeech: ['noun'],
@@ -1207,7 +1207,7 @@ export const PageTwoOfWritingSingle = [
       'Thoughtful consideration saved project. Critical factor prevented costly mistake.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consist',
     meaning: ['to be made up of', 'to be composed of', 'to reside or exist in'],
     partOfSpeech: ['verb'],
@@ -1223,7 +1223,7 @@ export const PageTwoOfWritingSingle = [
       'Success consisted of simple habits. Daily discipline created extraordinary results.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consistent',
     meaning: ['always same way', 'agreeing with facts', 'reliable'],
     partOfSpeech: ['adjective'],
@@ -1239,7 +1239,7 @@ export const PageTwoOfWritingSingle = [
       'Consistent practice created mastery. Daily repetition forged world-class skill.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'constitute',
     meaning: ['to be the parts of', 'to make up', 'to establish formally'],
     partOfSpeech: ['verb'],
@@ -1255,7 +1255,7 @@ export const PageTwoOfWritingSingle = [
       'Few ingredients constituted gourmet dish. Simple combination created culinary masterpiece.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consumption',
     meaning: ['using up goods', 'amount consumed', 'eating or drinking'],
     partOfSpeech: ['noun'],
@@ -1271,7 +1271,7 @@ export const PageTwoOfWritingSingle = [
       'Reduced consumption saved planet. Simple lifestyle transformed global impact.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'create',
     meaning: ['to bring into existence', 'to make', 'to invent'],
     partOfSpeech: ['verb'],
@@ -1283,7 +1283,7 @@ export const PageTwoOfWritingSingle = [
       'Single idea created billion-dollar empire. Creative spark ignited global phenomenon.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'difficult',
     meaning: ['hard to do', 'troublesome', 'not easy'],
     partOfSpeech: ['adjective'],
@@ -1295,7 +1295,7 @@ export const PageTwoOfWritingSingle = [
       'Difficult journey forged unbreakable spirit. Hardship created legendary resilience.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'dimension',
     meaning: [
       'measurement in one direction',
@@ -1311,7 +1311,7 @@ export const PageTwoOfWritingSingle = [
       'New dimension revolutionized physics. Extra spatial layer explained universe.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'equal',
     meaning: ['same in amount', 'having same rights', 'to be the same as'],
     partOfSpeech: ['adjective', 'verb'],
@@ -1323,7 +1323,7 @@ export const PageTwoOfWritingSingle = [
       'Equal opportunity transformed community. Fair access created generational wealth.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'error',
     meaning: ['mistake', 'wrong belief', 'fault'],
     partOfSpeech: ['noun'],
@@ -1336,7 +1336,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'essential',
     meaning: ['absolutely necessary', 'fundamental', 'most important'],
     partOfSpeech: ['adjective'],
@@ -1352,7 +1352,7 @@ export const PageTwoOfWritingSingle = [
       'Essential ingredient missing ruined recipe. Single omission created culinary disaster.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'ethnic',
     meaning: [
       'relating to race or culture',
@@ -1368,7 +1368,7 @@ export const PageTwoOfWritingSingle = [
       'Ethnic festival united diverse community. Cultural celebration forged lasting bonds.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'evaluate',
     meaning: ['to assess value', 'to judge worth', 'to determine quality'],
     partOfSpeech: ['verb'],
@@ -1384,7 +1384,7 @@ export const PageTwoOfWritingSingle = [
       'Expert evaluation authenticated priceless painting. Professional judgment confirmed masterpiece.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'evolution',
     meaning: ['gradual development', 'biological change', 'progression'],
     partOfSpeech: ['noun'],
@@ -1400,7 +1400,7 @@ export const PageTwoOfWritingSingle = [
       'Rapid evolution created new species. Environmental pressure accelerated natural selection.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'experiment',
     meaning: ['scientific test', 'trial or attempt', 'risky venture'],
     partOfSpeech: ['noun', 'verb'],
@@ -1416,7 +1416,7 @@ export const PageTwoOfWritingSingle = [
       'Dangerous experiment succeeded spectacularly. Mad scientist created time machine.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'explore',
     meaning: ['to investigate', 'to travel for discovery', 'to examine'],
     partOfSpeech: ['verb'],
@@ -1428,7 +1428,7 @@ export const PageTwoOfWritingSingle = [
       'Fearless explorer discovered lost city. Ancient ruins revealed forgotten civilization.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'field',
     meaning: ['area of study', 'open land', 'sphere of activity'],
     partOfSpeech: ['noun'],
@@ -1440,7 +1440,7 @@ export const PageTwoOfWritingSingle = [
       'Pioneering field created new science. Unknown territory became established discipline.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'formation',
     meaning: ['act of forming', 'structure or arrangement', 'geological layer'],
     partOfSpeech: ['noun'],
@@ -1452,7 +1452,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect formation won championship. Strategic positioning overwhelmed opponents.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'functional',
     meaning: ['working properly', 'practical', 'designed for use'],
     partOfSpeech: ['adjective'],
@@ -1468,7 +1468,7 @@ export const PageTwoOfWritingSingle = [
       'Functional simplicity revolutionized design. Minimalist approach created iconic product.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'fundamental',
     meaning: ['basic or essential', 'central principle', 'primary'],
     partOfSpeech: ['adjective'],
@@ -1484,7 +1484,7 @@ export const PageTwoOfWritingSingle = [
       'Fundamental discovery changed physics. Basic principle explained universe workings.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'goal',
     meaning: ['aim or purpose', 'sports score', 'destination'],
     partOfSpeech: ['noun'],
@@ -1496,7 +1496,7 @@ export const PageTwoOfWritingSingle = [
       'Clear goal achieved impossible. Focused vision created world record.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'history',
     meaning: ['record of past', 'past events', 'personal experience'],
     partOfSpeech: ['noun'],
@@ -1508,7 +1508,7 @@ export const PageTwoOfWritingSingle = [
       'Forgotten history revealed amazing truth. Ancient records rewrote national origin.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'hypothesis',
     meaning: ['proposed explanation', 'tentative theory', 'assumption to test'],
     partOfSpeech: ['noun'],
@@ -1520,7 +1520,7 @@ export const PageTwoOfWritingSingle = [
       'Bold hypothesis proved revolutionary. Scientific hunch became universal law.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'illustrate',
     meaning: [
       'to provide examples',
@@ -1536,7 +1536,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect illustration convinced skeptics. Clear example proved complex theory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'implement',
     meaning: ['to put into action', 'tool or instrument', 'to carry out'],
     partOfSpeech: ['verb', 'noun'],
@@ -1548,7 +1548,7 @@ export const PageTwoOfWritingSingle = [
       'Swift implementation saved company. Rapid action turned crisis into opportunity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'indeed',
     meaning: ['in truth', 'to emphasize', 'actually'],
     partOfSpeech: ['adverb'],
@@ -1560,7 +1560,7 @@ export const PageTwoOfWritingSingle = [
       'Indeed miraculous recovery stunned doctors. Impossible healing defied medical science.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'independent',
     meaning: ['not influenced by others', 'separate', 'self-governing'],
     partOfSpeech: ['adjective'],
@@ -1576,7 +1576,7 @@ export const PageTwoOfWritingSingle = [
       'Independent research confirmed discovery. Unbiased study validated controversial findings.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'initial',
     meaning: ['first or beginning', 'first letter of name', 'introductory'],
     partOfSpeech: ['adjective'],
@@ -1588,7 +1588,7 @@ export const PageTwoOfWritingSingle = [
       'Initial failure taught most. Early mistakes created ultimate success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'integration',
     meaning: ['combining into whole', 'mixing groups', 'mathematical process'],
     partOfSpeech: ['noun'],
@@ -1604,7 +1604,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect integration created harmony. Diverse elements formed beautiful whole.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'interpret',
     meaning: ['to explain meaning', 'to translate', 'to understand'],
     partOfSpeech: ['verb'],
@@ -1616,7 +1616,7 @@ export const PageTwoOfWritingSingle = [
       'Brilliant interpretation solved mystery. Expert analysis revealed hidden truth.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'item',
     meaning: ['single thing in list', 'article', 'piece of news'],
     partOfSpeech: ['noun'],
@@ -1627,7 +1627,7 @@ export const PageTwoOfWritingSingle = [
     shortStory: 'Single item sparked bidding war. Rare artifact sold millions.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'large',
     meaning: ['big in size', 'great in amount', 'important'],
     partOfSpeech: ['adjective'],
@@ -1640,7 +1640,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'learning',
     meaning: [
       'process of acquiring knowledge',
@@ -1656,7 +1656,7 @@ export const PageTwoOfWritingSingle = [
       'Transformative learning changed career trajectory. Single course unlocked hidden potential.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'loss',
     meaning: ['act of losing', 'decrease in amount', 'death'],
     partOfSpeech: ['noun'],
@@ -1668,7 +1668,7 @@ export const PageTwoOfWritingSingle = [
       'Devastating loss fueled greatest comeback. Tragedy birthed unbreakable determination.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'majority',
     meaning: ['most of a group', 'more than half', 'largest part'],
     partOfSpeech: ['noun'],
@@ -1680,7 +1680,7 @@ export const PageTwoOfWritingSingle = [
       'Narrow majority passed historic law. Close vote changed national policy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'modern',
     meaning: ['current or recent', 'contemporary style', 'advanced'],
     partOfSpeech: ['adjective'],
@@ -1692,7 +1692,7 @@ export const PageTwoOfWritingSingle = [
       'Modern methods revolutionized ancient craft. Tradition met innovation perfectly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'moreover',
     meaning: ['in addition', 'furthermore', 'also'],
     partOfSpeech: ['adverb'],
@@ -1708,7 +1708,7 @@ export const PageTwoOfWritingSingle = [
       'Expensive; moreover, ineffective. Double flaw doomed project completely.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'most',
     meaning: ['greatest amount', 'nearly all', 'superlative'],
     partOfSpeech: ['adjective', 'adverb'],
@@ -1719,7 +1719,7 @@ export const PageTwoOfWritingSingle = [
     shortStory: 'Most unlikely hero saved day. Humble origins birthed legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'natural',
     meaning: ['existing in nature', 'not artificial', 'normal or expected'],
     partOfSpeech: ['adjective'],
@@ -1731,7 +1731,7 @@ export const PageTwoOfWritingSingle = [
       'Natural genius needed no training. Raw talent dazzled experts instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'notion',
     meaning: ['idea or belief', 'concept', 'vague understanding'],
     partOfSpeech: ['noun'],
@@ -1743,7 +1743,7 @@ export const PageTwoOfWritingSingle = [
       'Radical notion changed scientific paradigm. Simple idea revolutionized thinking.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'object',
     meaning: ['physical thing', 'thing to act upon', 'to oppose'],
     partOfSpeech: ['noun', 'verb'],
@@ -1755,7 +1755,7 @@ export const PageTwoOfWritingSingle = [
       'Ordinary object hid secret code. Common item revealed conspiracy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'objective',
     meaning: ['goal or aim', 'not influenced by feelings', 'factual'],
     partOfSpeech: ['noun', 'adjective'],
@@ -1767,7 +1767,7 @@ export const PageTwoOfWritingSingle = [
       'Clear objective achieved impossible. Focused mission created historic success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'observation',
     meaning: ['act of watching', 'remark', 'scientific data'],
     partOfSpeech: ['noun'],
@@ -1783,7 +1783,7 @@ export const PageTwoOfWritingSingle = [
       'Single observation solved mystery. Simple noticing revealed complex truth.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'operate',
     meaning: ['to function', 'to control', 'to perform surgery'],
     partOfSpeech: ['verb'],
@@ -1799,7 +1799,7 @@ export const PageTwoOfWritingSingle = [
       'Perfectly operated under pressure. Crisis performance earned promotion instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'operation',
     meaning: ['organized activity', 'surgery', 'mathematical process'],
     partOfSpeech: ['noun'],
@@ -1815,7 +1815,7 @@ export const PageTwoOfWritingSingle = [
       'Daring operation rescued hostages. Precision teamwork became legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'opportunity',
     meaning: ['favorable chance', 'good situation', 'possibility'],
     partOfSpeech: ['noun'],
@@ -1831,7 +1831,7 @@ export const PageTwoOfWritingSingle = [
       'Seized opportunity changed destiny. Quick decision created lifelong success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'origin',
     meaning: ['beginning or source', 'ancestry', 'starting point'],
     partOfSpeech: ['noun'],
@@ -1843,7 +1843,7 @@ export const PageTwoOfWritingSingle = [
       'Mysterious origin traced to ancient text. Lost manuscript explained phenomenon.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'particularly',
     meaning: ['especially', 'to a great degree', 'specifically'],
     partOfSpeech: ['adverb'],
@@ -1859,7 +1859,7 @@ export const PageTwoOfWritingSingle = [
       'Particularly brilliant solution won prize. Specific approach solved impossible problem.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'perceive',
     meaning: ['to notice or become aware', 'to understand', 'to see'],
     partOfSpeech: ['verb'],
@@ -1871,7 +1871,7 @@ export const PageTwoOfWritingSingle = [
       'Perceived hidden pattern won fortune. Subtle recognition spotted winning numbers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'phenomenon',
     meaning: ['remarkable event', 'observable fact', 'exceptional person'],
     partOfSpeech: ['noun'],
@@ -1888,7 +1888,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'point',
     meaning: [
       'particular place or position',
@@ -1910,7 +1910,7 @@ export const PageTwoOfWritingSingle = [
       'Critical point decided championship. Single score created sporting legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'possibility',
     meaning: [
       'chance something can happen',
@@ -1926,7 +1926,7 @@ export const PageTwoOfWritingSingle = [
       'Remote possibility became reality. Unlikely event changed world history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'power',
     meaning: [
       'ability to do work',
@@ -1948,7 +1948,7 @@ export const PageTwoOfWritingSingle = [
       'Hidden power transformed ordinary man. Latent ability saved entire kingdom.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'predict',
     meaning: ['to say what will happen', 'to forecast', 'to foretell'],
     partOfSpeech: ['verb'],
@@ -1960,7 +1960,7 @@ export const PageTwoOfWritingSingle = [
       'Accurate prediction saved millions. Weather warning prevented catastrophic flood.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'proportion',
     meaning: [
       'relationship between parts',
@@ -1976,7 +1976,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect proportion created masterpiece. Mathematical harmony awed generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'protection',
     meaning: ['act of protecting', 'defense', 'insurance coverage'],
     partOfSpeech: ['noun'],
@@ -1988,7 +1988,7 @@ export const PageTwoOfWritingSingle = [
       'Swift protection saved ancient forest. Conservation effort preserved biodiversity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'purpose',
     meaning: ['reason something exists', 'intention', 'goal'],
     partOfSpeech: ['noun'],
@@ -2000,7 +2000,7 @@ export const PageTwoOfWritingSingle = [
       'Discovered true purpose changed everything. Life mission created lasting legacy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'rather',
     meaning: ['preferably', 'to some extent', 'on the contrary'],
     partOfSpeech: ['adverb'],
@@ -2011,7 +2011,7 @@ export const PageTwoOfWritingSingle = [
     shortStory: 'Rather risky won the race. Bold choice beat safe strategy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'regard',
     meaning: ['consideration or attention', 'respect', 'to consider'],
     partOfSpeech: ['noun', 'verb'],
@@ -2023,7 +2023,7 @@ export const PageTwoOfWritingSingle = [
       'Held in highest regard universally. Unmatched expertise earned global respect.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'regional',
     meaning: [
       'relating to particular area',
@@ -2039,7 +2039,7 @@ export const PageTwoOfWritingSingle = [
       'Regional specialty became global hit. Local dish conquered world cuisine.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'regulation',
     meaning: ['rule or law', 'control or adjustment', 'government directive'],
     partOfSpeech: ['noun'],
@@ -2055,7 +2055,7 @@ export const PageTwoOfWritingSingle = [
       'New regulation saved industry. Safety rule prevented catastrophic failure.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'representation',
     meaning: ['acting on behalf of', 'depiction or symbol', 'proportion'],
     partOfSpeech: ['noun'],
@@ -2071,7 +2071,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect representation won election. True voice captured public will.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'respect',
     meaning: ['admiration for achievement', 'particular aspect', 'to admire'],
     partOfSpeech: ['noun', 'verb'],
@@ -2083,7 +2083,7 @@ export const PageTwoOfWritingSingle = [
       'Earned respect changed everything. Quiet competence commanded universal admiration.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'respectively',
     meaning: ['in that order', 'separately in order mentioned'],
     partOfSpeech: ['adverb'],
@@ -2098,7 +2098,7 @@ export const PageTwoOfWritingSingle = [
       'First and second place finished 10:15 and 10:17 respectively. Photo finish decided winner.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'rise',
     meaning: ['to move upward', 'increase', 'beginning or origin'],
     partOfSpeech: ['verb', 'noun'],
@@ -2110,7 +2110,7 @@ export const PageTwoOfWritingSingle = [
       'Dramatic rise from poverty inspired millions. Rags to riches defined era.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'select',
     meaning: ['to choose carefully', 'chosen for special quality', 'elite'],
     partOfSpeech: ['verb', 'adjective'],
@@ -2123,7 +2123,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'selection',
     meaning: ['act of choosing', 'natural selection', 'assortment available'],
     partOfSpeech: ['noun'],
@@ -2135,7 +2135,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect selection won championship. Strategic picks built unbeatable team.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'similarly',
     meaning: ['in the same way', 'likewise', 'correspondingly'],
     partOfSpeech: ['adverb'],
@@ -2151,7 +2151,7 @@ export const PageTwoOfWritingSingle = [
       'First succeeded; similarly, second thrived. Identical strategies doubled the victory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'situation',
     meaning: ['set of circumstances', 'location', 'state of affairs'],
     partOfSpeech: ['noun'],
@@ -2167,7 +2167,7 @@ export const PageTwoOfWritingSingle = [
       'Dire situation forced innovation. Crisis birthed world-changing invention.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'stage',
     meaning: [
       'period in process',
@@ -2183,7 +2183,7 @@ export const PageTwoOfWritingSingle = [
       'Critical stage determined success. Perfect timing achieved breakthrough.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'target',
     meaning: ['objective or goal', 'object aimed at', 'intended recipient'],
     partOfSpeech: ['noun', 'verb'],
@@ -2195,7 +2195,7 @@ export const PageTwoOfWritingSingle = [
       'Ambitious target achieved record. Focused effort shattered expectations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'theoretical',
     meaning: ['based on theory', 'hypothetical', 'not practical'],
     partOfSpeech: ['adjective'],
@@ -2211,7 +2211,7 @@ export const PageTwoOfWritingSingle = [
       'Theoretical model predicted disaster. Abstract math saved millions.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'tool',
     meaning: ['implement for work', 'software utility', 'means to achieve'],
     partOfSpeech: ['noun'],
@@ -2223,7 +2223,7 @@ export const PageTwoOfWritingSingle = [
       'Simple tool revolutionized agriculture. Basic invention fed civilizations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'transition',
     meaning: ['process of change', 'movement from one state', 'handover'],
     partOfSpeech: ['noun', 'verb'],
@@ -2235,7 +2235,7 @@ export const PageTwoOfWritingSingle = [
       'Smooth transition preserved empire. Graceful change avoided civil war.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'trend',
     meaning: ['general direction', 'fashion or popularity', 'tendency'],
     partOfSpeech: ['noun', 'verb'],
@@ -2247,7 +2247,7 @@ export const PageTwoOfWritingSingle = [
       'Emerging trend predicted fortune. Early recognition built billion-dollar empire.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'typically',
     meaning: ['usually', 'normally', 'in most cases'],
     partOfSpeech: ['adverb'],
@@ -2259,7 +2259,7 @@ export const PageTwoOfWritingSingle = [
       'Typically shy performer dazzled audience. Unexpected talent stunned critics.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'underlying',
     meaning: ['fundamental cause', 'basic', 'hidden beneath'],
     partOfSpeech: ['adjective'],
@@ -2275,7 +2275,7 @@ export const PageTwoOfWritingSingle = [
       'Underlying cause solved mystery. Hidden factor explained strange phenomenon.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'variety',
     meaning: ['assortment of different things', 'type or kind', 'diversity'],
     partOfSpeech: ['noun'],
@@ -2287,7 +2287,7 @@ export const PageTwoOfWritingSingle = [
       'Genetic variety saved species. Diverse traits ensured survival crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'various',
     meaning: ['several different', 'many different kinds', 'diverse'],
     partOfSpeech: ['adjective'],
@@ -2299,7 +2299,7 @@ export const PageTwoOfWritingSingle = [
       'Various approaches solved impossible. Diverse methods conquered complex challenge.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'view',
     opinion: ['opinion or belief', 'sight or scene', 'to look at'],
     partOfSpeech: ['noun', 'verb'],
@@ -2311,7 +2311,7 @@ export const PageTwoOfWritingSingle = [
       'Revolutionary view changed paradigm. New perspective rewrote scientific history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'ability',
     meaning: ['capacity to do something', 'skill or talent', 'capability'],
     partOfSpeech: ['noun'],
@@ -2323,7 +2323,7 @@ export const PageTwoOfWritingSingle = [
       'Hidden ability created legend. Unknown talent won world championship.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'actual',
     meaning: ['real or existing', 'current', 'genuine'],
     partOfSpeech: ['adjective'],
@@ -2336,7 +2336,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'adopt',
     meaning: [
       "to take as one's own",
@@ -2352,7 +2352,7 @@ export const PageTwoOfWritingSingle = [
       'Adopted stray became champion. Loving home created show winner.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'advantage',
     meaning: ['beneficial factor', 'superior position', 'benefit gained'],
     partOfSpeech: ['noun'],
@@ -2364,7 +2364,7 @@ export const PageTwoOfWritingSingle = [
       'Strategic advantage won battle. Perfect positioning defeated larger army.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'age',
     meaning: ['period of time lived', 'historical period', 'to grow older'],
     partOfSpeech: ['noun', 'verb'],
@@ -2376,7 +2376,7 @@ export const PageTwoOfWritingSingle = [
       'Ancient age artifact proved legend. Timeless relic rewrote history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'agreement',
     meaning: ['mutual understanding', 'contract', 'harmony'],
     partOfSpeech: ['noun'],
@@ -2388,7 +2388,7 @@ export const PageTwoOfWritingSingle = [
       'Historic agreement ended war. Peace treaty created lasting alliance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'allow',
     meaning: ['to permit', 'to enable', 'to make possible'],
     partOfSpeech: ['verb'],
@@ -2400,7 +2400,7 @@ export const PageTwoOfWritingSingle = [
       'Single allowance changed destiny. Small permission opened great opportunity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'although',
     meaning: ['in spite of fact', 'even though', 'though'],
     partOfSpeech: ['conjunction'],
@@ -2416,7 +2416,7 @@ export const PageTwoOfWritingSingle = [
       'Although outmatched, won spectacularly. Underdog spirit conquered superior force.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'article',
     meaning: ['written piece', 'object', 'grammar word'],
     partOfSpeech: ['noun'],
@@ -2428,7 +2428,7 @@ export const PageTwoOfWritingSingle = [
       'Single article exposed conspiracy. Investigative journalism toppled government.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'attitude',
     meaning: ['manner of thinking', 'body position', 'approach'],
     partOfSpeech: ['noun'],
@@ -2440,7 +2440,7 @@ export const PageTwoOfWritingSingle = [
       'Right attitude conquered impossible. Positive mindset achieved extraordinary results.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'authority',
     meaning: ['power to command', 'expert source', 'official permission'],
     partOfSpeech: ['noun'],
@@ -2456,7 +2456,7 @@ export const PageTwoOfWritingSingle = [
       'Quiet authority commanded respect. Natural leadership earned universal obedience.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'bias',
     meaning: ['prejudice or preference', 'systematic error', 'slant'],
     partOfSpeech: ['noun', 'verb'],
@@ -2468,7 +2468,7 @@ export const PageTwoOfWritingSingle = [
       'Hidden bias derailed justice. Unconscious prejudice convicted innocent man.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'broad',
     meaning: ['wide or large', 'general not specific', 'extensive'],
     partOfSpeech: ['adjective'],
@@ -2480,7 +2480,7 @@ export const PageTwoOfWritingSingle = [
       'Broad vision created empire. Comprehensive strategy dominated global markets.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'can',
     meaning: ['able to', 'container', 'preserve'],
     partOfSpeech: ['verb', 'noun'],
@@ -2492,7 +2492,7 @@ export const PageTwoOfWritingSingle = [
       'Proved she can when doubted. Capability silenced harshest critics.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'choice',
     meaning: ['act of choosing', 'good option', 'excellent'],
     partOfSpeech: ['noun', 'adjective'],
@@ -2504,7 +2504,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect choice saved company. Strategic decision turned disaster profit.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'circumstance',
     meaning: ['situation or condition', 'event', 'financial state'],
     partOfSpeech: ['noun'],
@@ -2520,7 +2520,7 @@ export const PageTwoOfWritingSingle = [
       'Dire circumstances birthed genius. Adversity created unbreakable resilience.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'clear',
     meaning: ['easy to understand', 'transparent', 'free from obstruction'],
     partOfSpeech: ['adjective', 'verb'],
@@ -2532,7 +2532,7 @@ export const PageTwoOfWritingSingle = [
       'Crystal clear solution ended debate. Perfect clarity convinced everyone.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'combination',
     meaning: ['mixture of elements', 'sequence for lock', 'joining together'],
     partOfSpeech: ['noun'],
@@ -2548,7 +2548,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect combination created hit. Right ingredients made blockbuster.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'combine',
     meaning: ['to join together', 'to mix', 'to unite'],
     partOfSpeech: ['verb'],
@@ -2560,7 +2560,7 @@ export const PageTwoOfWritingSingle = [
       'Combined strengths conquered impossible. Teamwork achieved extraordinary results.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'commonly',
     meaning: ['usually', 'frequently', 'in general'],
     partOfSpeech: ['adverb'],
@@ -2572,7 +2572,7 @@ export const PageTwoOfWritingSingle = [
       'Commonly overlooked detail solved mystery. Ordinary clue revealed extraordinary truth.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'complexity',
     meaning: ['state of being complicated', 'intricacy', 'difficulty'],
     partOfSpeech: ['noun'],
@@ -2589,7 +2589,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'conclude',
     meaning: [
       'to end or finish',
@@ -2609,7 +2609,7 @@ export const PageTwoOfWritingSingle = [
       'Researcher concluded breakthrough discovery. Final analysis confirmed revolutionary theory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'conclusion',
     meaning: ['end result', 'final decision', 'summary'],
     partOfSpeech: ['noun'],
@@ -2621,7 +2621,7 @@ export const PageTwoOfWritingSingle = [
       'Dramatic conclusion solved mystery. Final evidence convicted master criminal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'construct',
     meaning: ['to build or create', 'structure or concept', 'to put together'],
     partOfSpeech: ['verb', 'noun'],
@@ -2637,7 +2637,7 @@ export const PageTwoOfWritingSingle = [
       'Engineers constructed impossible bridge. Engineering marvel connected isolated communities.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'core',
     meaning: [
       'central or most important part',
@@ -2653,7 +2653,7 @@ export const PageTwoOfWritingSingle = [
       'Core principle guided success. Fundamental belief created lasting achievement.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'debate',
     meaning: [
       'formal discussion of argument',
@@ -2669,7 +2669,7 @@ export const PageTwoOfWritingSingle = [
       'Historic debate changed legislation. Brilliant arguments swayed public opinion.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'degree',
     meaning: [
       'unit of measurement',
@@ -2685,7 +2685,7 @@ export const PageTwoOfWritingSingle = [
       'Advanced degree opened elite doors. Academic excellence earned global opportunities.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'design',
     meaning: ['to plan or create', 'planned arrangement', 'pattern or style'],
     partOfSpeech: ['verb', 'noun'],
@@ -2697,7 +2697,7 @@ export const PageTwoOfWritingSingle = [
       'Brilliant design revolutionized industry. Perfect engineering created market leader.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'directly',
     meaning: ['without anyone/anything between', 'immediately', 'exactly'],
     partOfSpeech: ['adverb'],
@@ -2709,7 +2709,7 @@ export const PageTwoOfWritingSingle = [
       'Directly confronted leader changed policy. Bold honesty forced immediate reform.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'distinct',
     meaning: ['clearly different', 'separate', 'unmistakable'],
     partOfSpeech: ['adjective'],
@@ -2725,7 +2725,7 @@ export const PageTwoOfWritingSingle = [
       'Distinct pattern revealed forgery. Subtle differences exposed perfect fake.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'distinction',
     meaning: [
       'difference between',
@@ -2745,7 +2745,7 @@ export const PageTwoOfWritingSingle = [
       'Subtle distinction saved reputation. Critical difference prevented major blunder.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'distinguish',
     meaning: ['to recognize difference', 'to make different', 'to honor'],
     partOfSpeech: ['verb'],
@@ -2761,7 +2761,7 @@ export const PageTwoOfWritingSingle = [
       'Expert distinguished genuine from fake. Trained eye spotted perfect forgery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'dominant',
     meaning: ['most powerful or influential', 'main or primary', 'controlling'],
     partOfSpeech: ['adjective'],
@@ -2773,7 +2773,7 @@ export const PageTwoOfWritingSingle = [
       'Dominant strategy won market. Superior approach crushed competition completely.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'efficiency',
     meaning: [
       'ability to produce with minimal waste',
@@ -2789,7 +2789,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect efficiency revolutionized factory. Minimal waste created maximum profit.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'emerge',
     meaning: ['to come out into view', 'to become known', 'to arise'],
     partOfSpeech: ['verb'],
@@ -2801,7 +2801,7 @@ export const PageTwoOfWritingSingle = [
       'Hidden talent emerged under pressure. Crisis revealed unexpected leadership.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'emphasis',
     meaning: ['special importance or attention', 'stress', 'prominence'],
     partOfSpeech: ['noun'],
@@ -2813,7 +2813,7 @@ export const PageTwoOfWritingSingle = [
       'Strategic emphasis won election. Focused message swayed undecided voters.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'emphasize',
     meaning: ['to give special importance', 'to stress', 'to highlight'],
     partOfSpeech: ['verb'],
@@ -2826,7 +2826,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'empirical',
     meaning: [
       'based on observation and experiment',
@@ -2842,7 +2842,7 @@ export const PageTwoOfWritingSingle = [
       'Empirical proof overturned theory. Real data revolutionized scientific understanding.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'enable',
     meaning: ['to make possible', 'to give ability', 'to activate'],
     partOfSpeech: ['verb'],
@@ -2854,7 +2854,7 @@ export const PageTwoOfWritingSingle = [
       'New technology enabled breakthrough. Simple tool made impossible possible.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'enhance',
     meaning: ['to improve quality', 'to increase value', 'to make better'],
     partOfSpeech: ['verb'],
@@ -2866,7 +2866,7 @@ export const PageTwoOfWritingSingle = [
       'Single enhancement transformed product. Minor improvement created market leader.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'establish',
     meaning: ['to set up firmly', 'to prove', 'to create permanently'],
     partOfSpeech: ['verb'],
@@ -2882,7 +2882,7 @@ export const PageTwoOfWritingSingle = [
       'Established new scientific principle. Solid proof created lasting legacy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'evaluation',
     meaning: ['careful assessment', 'judgment of value', 'analysis'],
     partOfSpeech: ['noun'],
@@ -2898,7 +2898,7 @@ export const PageTwoOfWritingSingle = [
       'Rigorous evaluation confirmed excellence. Thorough review validated top quality.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'exchange',
     meaning: ['to give and receive', 'trade', 'conversation'],
     partOfSpeech: ['verb', 'noun'],
@@ -2910,7 +2910,7 @@ export const PageTwoOfWritingSingle = [
       'Fair exchange transformed economy. Mutual benefit created lasting prosperity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'exclude',
     meaning: ['to leave out', 'to prevent entry', 'to reject'],
     partOfSpeech: ['verb'],
@@ -2922,7 +2922,7 @@ export const PageTwoOfWritingSingle = [
       'Excluded key variable solved equation. Critical omission revealed true pattern.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'expectation',
     meaning: ['belief about future', 'anticipation', 'standard required'],
     partOfSpeech: ['noun'],
@@ -2934,7 +2934,7 @@ export const PageTwoOfWritingSingle = [
       'Exceeded all expectation dramatically. Unexpected excellence created legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'explanation',
     meaning: [
       'statement making clear',
@@ -2954,7 +2954,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect explanation convinced skeptics. Clear logic silenced all doubt.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'facilitate',
     meaning: ['to make easier', 'to help process', 'to enable'],
     partOfSpeech: ['verb'],
@@ -2970,7 +2970,7 @@ export const PageTwoOfWritingSingle = [
       'Smart facilitation solved deadlock. Expert guidance achieved consensus quickly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'fact',
     meaning: ['something known to be true', 'actual event', 'reality'],
     partOfSpeech: ['noun'],
@@ -2982,7 +2982,7 @@ export const PageTwoOfWritingSingle = [
       'Undeniable fact changed history. Ironclad evidence rewrote textbooks.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'failure',
     meaning: ['lack of success', 'not working', 'omission'],
     partOfSpeech: ['noun'],
@@ -2994,7 +2994,7 @@ export const PageTwoOfWritingSingle = [
       'Dramatic failure taught most. Epic flop became greatest comeback.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'female',
     meaning: ['woman or girl', 'sex that bears young', 'feminine'],
     partOfSpeech: ['noun', 'adjective'],
@@ -3007,7 +3007,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'financial',
     meaning: ['relating to money', 'economic matters', 'monetary'],
     partOfSpeech: ['adjective'],
@@ -3019,7 +3019,7 @@ export const PageTwoOfWritingSingle = [
       'Financial genius turned pennies into fortune. Smart investing created empire overnight.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'further',
     meaning: ['additional', 'more distant', 'to a greater extent'],
     partOfSpeech: ['adjective', 'adverb', 'verb'],
@@ -3031,7 +3031,7 @@ export const PageTwoOfWritingSingle = [
       'Further research confirmed theory. Additional study solidified breakthrough discovery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'future',
     meaning: ['time yet to come', 'prospects', 'coming events'],
     partOfSpeech: ['noun', 'adjective'],
@@ -3043,7 +3043,7 @@ export const PageTwoOfWritingSingle = [
       'Predicted future shocked world leaders. Accurate forecast prevented global disaster.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'highly',
     meaning: ['to a great degree', 'very much', 'important position'],
     partOfSpeech: ['adverb'],
@@ -3059,7 +3059,7 @@ export const PageTwoOfWritingSingle = [
       'Highly unlikely succeeded spectacularly. Improbable event became historic triumph.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'implementation',
     meaning: ['act of putting into effect', 'execution', 'carrying out'],
     partOfSpeech: ['noun'],
@@ -3075,7 +3075,7 @@ export const PageTwoOfWritingSingle = [
       'Flawless implementation saved failing project. Perfect execution turned disaster success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'impose',
     meaning: ['to establish by authority', 'to force upon', 'to inflict'],
     partOfSpeech: ['verb'],
@@ -3087,7 +3087,7 @@ export const PageTwoOfWritingSingle = [
       'Imposed strict standards created excellence. Tough requirements built world-class team.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'index',
     meaning: ['list of subjects', 'indicator of change', 'mathematical power'],
     partOfSpeech: ['noun', 'verb'],
@@ -3099,7 +3099,7 @@ export const PageTwoOfWritingSingle = [
       'Secret index revealed hidden pattern. Alphabetical code unlocked ancient mystery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'indicator',
     meaning: ['sign showing condition', 'measuring device', 'signal'],
     partOfSpeech: ['noun'],
@@ -3115,7 +3115,7 @@ export const PageTwoOfWritingSingle = [
       'Single indicator predicted crash. Early warning saved billions in losses.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'interest',
     meaning: ['curiosity', 'money charge', 'stake or share', 'hobby'],
     partOfSpeech: ['noun', 'verb'],
@@ -3127,7 +3127,7 @@ export const PageTwoOfWritingSingle = [
       'Genuine interest sparked partnership. Shared passion created global enterprise.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'investigate',
     meaning: ['to examine thoroughly', 'to inquire', 'to research'],
     partOfSpeech: ['verb'],
@@ -3143,7 +3143,7 @@ export const PageTwoOfWritingSingle = [
       'Relentless investigation exposed corruption. Tireless detective convicted crime lord.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'investigation',
     meaning: ['formal inquiry', 'systematic examination', 'detective work'],
     partOfSpeech: ['noun'],
@@ -3159,7 +3159,7 @@ export const PageTwoOfWritingSingle = [
       'Meticulous investigation solved cold case. Forgotten evidence convicted killer.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'judgement',
     meaning: ['ability to decide', 'opinion formed', 'legal decision'],
     partOfSpeech: ['noun'],
@@ -3171,7 +3171,7 @@ export const PageTwoOfWritingSingle = [
       'Flawless judgement saved company. Wise decision prevented bankruptcy disaster.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'lack',
     meaning: ['absence or shortage', 'to be without'],
     partOfSpeech: ['noun', 'verb'],
@@ -3183,7 +3183,7 @@ export const PageTwoOfWritingSingle = [
       'Lack of resources sparked creativity. Constraints birthed elegant solution.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'limitation',
     meaning: ['restriction or boundary', 'weakness', 'constraint'],
     partOfSpeech: ['noun'],
@@ -3195,7 +3195,7 @@ export const PageTwoOfWritingSingle = [
       'Embraced limitations created masterpiece. Constraints forced innovative genius.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'limited',
     meaning: ['restricted in amount', 'not widespread', 'finite'],
     partOfSpeech: ['adjective'],
@@ -3207,7 +3207,7 @@ export const PageTwoOfWritingSingle = [
       'Limited resources built empire. Scarcity forced brilliant efficiency.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'link',
     meaning: ['connection between', 'relationship', 'hyperlink'],
     partOfSpeech: ['noun', 'verb'],
@@ -3220,7 +3220,7 @@ export const PageTwoOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'location',
     meaning: ['specific place or position', 'geographical site', 'situation'],
     partOfSpeech: ['noun'],
@@ -3232,7 +3232,7 @@ export const PageTwoOfWritingSingle = [
       'Perfect location discovered treasure. Strategic position yielded vast fortune.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'main',
     meaning: ['most important', 'principal', 'largest or central'],
     partOfSpeech: ['adjective', 'noun'],
@@ -3244,7 +3244,7 @@ export const PageTwoOfWritingSingle = [
       'Main factor determined victory. Critical element decided championship outcome.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'maintain',
     meaning: [
       'to keep in existence',
@@ -3260,7 +3260,7 @@ export const PageTwoOfWritingSingle = [
       'Maintained composure won negotiation. Calm presence secured best deal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'male',
     meaning: ['man or boy', 'masculine sex', 'producing sperm'],
     partOfSpeech: ['noun', 'adjective'],
@@ -3272,7 +3272,7 @@ export const PageTwoOfWritingSingle = [
       'Male intuition solved crisis. Unconventional thinking saved entire project.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'many',
     meaning: ['large number of', 'numerous', 'a lot'],
     partOfSpeech: ['adjective', 'pronoun'],
@@ -3284,7 +3284,7 @@ export const PageTwoOfWritingSingle = [
       'Many hands built cathedral. Collective effort created architectural wonder.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'mental',
     meaning: ['relating to mind', 'psychological', 'intellectual'],
     partOfSpeech: ['adjective'],
@@ -3296,7 +3296,7 @@ export const PageTwoOfWritingSingle = [
       'Mental toughness won gold medal. Mind over matter achieved impossible.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'mode',
     meaning: ['way or manner', 'most frequent value', 'setting or condition'],
     partOfSpeech: ['noun'],
@@ -3308,7 +3308,7 @@ export const PageTwoOfWritingSingle = [
       'New mode revolutionized industry. Innovative approach dominated marketplace.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'movement',
     meaning: ['act of moving', 'group with shared aims', 'political campaign'],
     partOfSpeech: ['noun'],
@@ -3320,7 +3320,7 @@ export const PageTwoOfWritingSingle = [
       'Grassroots movement changed nation. Ordinary citizens forced historic reform.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'necessarily',
     meaning: ['in all circumstances', 'as a necessary result'],
     partOfSpeech: ['adverb'],
@@ -3336,7 +3336,7 @@ export const PageTwoOfWritingSingle = [
       "Success didn't necessarily mean happiness. Achievement revealed true life priorities.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'norm',
     meaning: ['standard or typical', 'average or usual', 'accepted pattern'],
     partOfSpeech: ['noun'],
@@ -3348,7 +3348,7 @@ export const PageTwoOfWritingSingle = [
       'Challenged norm created revolution. Breaking convention birthed new era.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'other',
     meaning: ['remaining one', 'different', 'additional'],
     partOfSpeech: ['adjective', 'pronoun'],
@@ -3360,7 +3360,7 @@ export const PageTwoOfWritingSingle = [
       'Other approach succeeded brilliantly. Alternative method solved impossible problem.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'participation',
     meaning: ['act of taking part', 'involvement', 'attendance'],
     partOfSpeech: ['noun'],
@@ -3376,7 +3376,7 @@ export const PageTwoOfWritingSingle = [
       'Full participation transformed community. Collective involvement solved local crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'perception',
     meaning: [
       'act of perceiving',
@@ -3392,7 +3392,7 @@ export const PageTwoOfWritingSingle = [
       'Altered perception solved optical illusion. New viewpoint revealed hidden image.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'prevent',
     meaning: ['to stop from happening', 'to keep from occurring', 'to hinder'],
     partOfSpeech: ['verb'],
@@ -3404,7 +3404,7 @@ export const PageTwoOfWritingSingle = [
       'Quick action prevented disaster. Timely intervention saved entire city.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'prior',
     meaning: ['earlier or previous', 'preceding', 'before'],
     partOfSpeech: ['adjective'],
@@ -3416,7 +3416,7 @@ export const PageTwoOfWritingSingle = [
       'Prior knowledge predicted success. Experience advantage crushed competition.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'propose',
     meaning: ['to suggest for consideration', 'to offer plan', 'to nominate'],
     partOfSpeech: ['verb'],
@@ -3428,7 +3428,7 @@ export const PageTwoOfWritingSingle = [
       'Bold proposal revolutionized industry. Innovative idea transformed marketplace.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'regime',
     meaning: ['system of government', 'ruling authority', 'regular course'],
     partOfSpeech: ['noun'],
@@ -3440,7 +3440,7 @@ export const PageTwoOfWritingSingle = [
       "Oppressive regime fell overnight. People's revolution created new era.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relate',
     meaning: [
       'to connect or associate',
@@ -3456,7 +3456,7 @@ export const PageTwoOfWritingSingle = [
       'Connected unrelated events brilliantly. Pattern recognition solved complex mystery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'rely',
     meaning: ['to depend on', 'to trust', 'to count on'],
     partOfSpeech: ['verb'],
@@ -3468,7 +3468,7 @@ export const PageTwoOfWritingSingle = [
       'Reliable source won case. Trustworthy testimony convicted guilty party.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'resistance',
     meaning: [
       'opposition to change',
@@ -3488,7 +3488,7 @@ export const PageTwoOfWritingSingle = [
       'Resistance crumbled under pressure. Persistent effort overcame strong opposition.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'secondary',
     meaning: ['less important', 'second in position', 'not primary'],
     partOfSpeech: ['adjective'],
@@ -3500,7 +3500,7 @@ export const PageTwoOfWritingSingle = [
       'Secondary clue solved mystery. Overlooked detail revealed master criminal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'seek',
     meaning: ['to try to find', 'to search for', 'to ask for'],
     partOfSpeech: ['verb'],
@@ -3512,7 +3512,7 @@ export const PageTwoOfWritingSingle = [
       'Seek and found lost civilization. Persistent exploration uncovered ancient city.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'simple',
     meaning: ['easy to understand', 'not complicated', 'basic'],
     partOfSpeech: ['adjective'],
@@ -3524,7 +3524,7 @@ export const PageTwoOfWritingSingle = [
       'Simple solution solved complex problem. Elegant approach beat brute force.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'single',
     meaning: ['one only', 'not married', 'individual'],
     partOfSpeech: ['adjective', 'noun'],

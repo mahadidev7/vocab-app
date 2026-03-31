@@ -25,7 +25,7 @@ const AppNavigators = () => {
           name="Learn"
           component={ScreenLearn}
           options={{ title: 'Learn' }}
-          initialParams={{ pageName: 'Learn', rightSide: true, menuBar: false, dictionary: true } }
+          initialParams={{ pageName: ' ', rightSide: true, menuBar: false, dictionary: true } }
         />
         <Stack.Screen
           name="Menu"

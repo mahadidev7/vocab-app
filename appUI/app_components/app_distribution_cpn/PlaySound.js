@@ -4,7 +4,7 @@ import tw from 'twrnc';
 
 const PlaySound = () => {
   return (
-    <TouchableOpacity>
+    <TouchableOpacity onPress={()=> {}}>
       <Image
         style={tw`w-[45px] h-[45px]`}
         source={require('../../app_assets/img/speakerIcon.png')}

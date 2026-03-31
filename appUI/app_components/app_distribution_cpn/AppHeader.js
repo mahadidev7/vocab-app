@@ -7,7 +7,12 @@ import { Appbar } from 'react-native-paper';
 import AppText from './AppText';
 import { Menu_cpn, DictionaryAndBMark_area } from './AppShare_cpn';
 
-const AppHeader = ({ pageName = ' ', rightSide = true, menuBar= false, dictionary= false }) => {
+const AppHeader = ({
+  pageName = ' ',
+  rightSide = true,
+  menuBar = false,
+  dictionary = false,
+}) => {
   // const navigation = useNavigation();
 
   return (
@@ -18,12 +23,12 @@ const AppHeader = ({ pageName = ' ', rightSide = true, menuBar= false, dictionar
         <BackAction />
         <AppText text={pageName} style="text-[20px] text-white" />
       </View>
-      {rightSide && 
+      {rightSide && (
         <View>
           {menuBar && <Menu_cpn />}
           {dictionary && <DictionaryAndBMark_area />}
         </View>
-      }
+      )}
     </View>
   );
 };

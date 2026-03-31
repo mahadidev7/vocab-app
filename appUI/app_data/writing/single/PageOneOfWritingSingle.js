@@ -1,6 +1,6 @@
 export const PageOneOfWritingSingle = [
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'activity',
     meaning: [
       'a thing that you spend time doing',
@@ -20,7 +20,7 @@ export const PageOneOfWritingSingle = [
       'In the quiet village, the annual harvest activity brought everyone together. Neighbors worked side by side, laughing as they picked ripe fruits under the golden sun. By evening, their shared efforts filled the air with joy and abundance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'affect',
     meaning: [
       'to influence or cause a change in someone or something',
@@ -40,7 +40,7 @@ export const PageOneOfWritingSingle = [
       'The sudden storm affected the small town profoundly. Crops wilted, but the community rallied, sharing resources and stories by candlelight. In time, their unity turned hardship into a stronger bond.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'analysis',
     meaning: [
       'detailed examination of the elements or structure of something',
@@ -60,7 +60,7 @@ export const PageOneOfWritingSingle = [
       "Detective Lena's analysis of the clues uncovered the thief's clever ruse. Each footprint and fiber told a story, leading her through the misty streets. Justice prevailed when the final piece clicked into place.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'apply',
     meaning: [
       'to make a formal request for something',
@@ -80,7 +80,7 @@ export const PageOneOfWritingSingle = [
       'Eager to learn, young Aria decided to apply to the art academy. She poured her heart into her portfolio, each sketch a dream on paper. Acceptance came, opening doors to her vibrant future.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'approach',
     meaning: [
       'a way of dealing with something',
@@ -100,7 +100,7 @@ export const PageOneOfWritingSingle = [
       'As the ship approached the foggy shore, Captain Ellis felt a mix of excitement and caution. His careful approach through the rocks led to the discovery of a hidden cove, rich with treasures untold.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'area',
     meaning: [
       'a part of a place or surface',
@@ -120,7 +120,7 @@ export const PageOneOfWritingSingle = [
       'The forbidden area of the forest whispered secrets to brave explorer Tom. Vines parted to reveal ancient ruins, where he uncovered artifacts that rewrote local history. Adventure awaited in every shadow.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'associate',
     meaning: [
       'to connect someone or something in your mind',
@@ -140,7 +140,7 @@ export const PageOneOfWritingSingle = [
       'In the bustling office, Mia began to associate success with late nights and teamwork. Her new associate, Raj, shared her drive, and together they turned a failing project into a shining triumph.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'available',
     meaning: [
       'able to be used or obtained',
@@ -160,7 +160,7 @@ export const PageOneOfWritingSingle = [
       'When the rare book became available at the library, scholar Elena rushed to claim it. Pages filled with forgotten lore sparked her imagination, leading to a groundbreaking discovery that captivated the world.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'based',
     meaning: [
       'used in the formation of compound adjectives',
@@ -180,7 +180,7 @@ export const PageOneOfWritingSingle = [
       'The research team, based in the mountains, uncovered fossils that changed our understanding of evolution. Daily hikes through rugged terrain fueled their passion, blending science with the beauty of nature.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'behaviour',
     meaning: [
       'the way that someone behaves',
@@ -200,7 +200,7 @@ export const PageOneOfWritingSingle = [
       "Observing animal behaviour in the wild taught Zoe profound lessons in patience. A lone wolf's gentle care for her pups mirrored human bonds, inspiring Zoe's award-winning wildlife documentary.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'between',
     meaning: [
       'in or into the space separating two or more points',
@@ -220,7 +220,7 @@ export const PageOneOfWritingSingle = [
       "Caught between duty and desire, Prince Liam pondered his fate in the castle gardens. A wise owl's hoot guided him to balance both paths, forging a legacy of harmony for his kingdom.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'case',
     meaning: [
       'an instance of a particular situation',
@@ -240,7 +240,7 @@ export const PageOneOfWritingSingle = [
       "The detective cracked the mysterious case with a single overlooked clue. Hidden in an old suitcase, it revealed the thief's identity, bringing closure to the anxious town at last.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'change',
     meaning: [
       'to make or become different',
@@ -260,7 +260,7 @@ export const PageOneOfWritingSingle = [
       'Embracing change, Sara quit her job to pursue painting. Each brushstroke captured her evolving spirit, turning a small studio into a gallery of colorful reinvention and newfound purpose.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'community',
     meaning: [
       'a group of people living in the same place',
@@ -280,7 +280,7 @@ export const PageOneOfWritingSingle = [
       'The flood devastated the riverside community, but neighbors united to rebuild. Shared meals and helping hands wove tighter bonds, transforming tragedy into a testament of unbreakable solidarity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'compare',
     meaning: [
       'to examine similarities and differences',
@@ -300,7 +300,7 @@ export const PageOneOfWritingSingle = [
       'Comparing ancient maps to modern ones, explorer Kai discovered lost trade routes. The parallels guided him through deserts to ruins whispering tales of forgotten civilizations and commerce.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'condition',
     meaning: [
       'the state of something',
@@ -320,7 +320,7 @@ export const PageOneOfWritingSingle = [
       'The old violin was in poor condition, yet its melody enchanted all. Restored with care, it sang anew at the concert, proving beauty endures beyond surface flaws.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'context',
     meaning: [
       'the circumstances surrounding an event',
@@ -340,7 +340,7 @@ export const PageOneOfWritingSingle = [
       'Without context, the ancient scroll seemed gibberish, but linguist Nora pieced together its era. Revealed as a love poem from warriors, it touched hearts across millennia.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'country',
     meaning: [
       'a nation with its own government',
@@ -360,7 +360,7 @@ export const PageOneOfWritingSingle = [
       'Wandering her country’s vast plains, Lila reconnected with her roots. Village festivals and starry nights reminded her why home, with its simple joys, was the greatest treasure.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'cultural',
     meaning: [
       'relating to the ideas, customs, and social behaviour of a society',
@@ -379,7 +379,7 @@ export const PageOneOfWritingSingle = [
       "The cultural exchange program bridged worlds for teens from distant lands. Dances, foods, and stories blended, forging friendships that celebrated humanity's rich, shared tapestry.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'culture',
     meaning: [
       'the arts and other manifestations of human intellectual achievement',
@@ -395,7 +395,7 @@ export const PageOneOfWritingSingle = [
       "Immersed in island culture, traveler Ben learned dances by firelight. Elders' tales of sea spirits wove tradition into his soul, changing him forever.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'data',
     meaning: [
       'facts and statistics collected for reference or analysis',
@@ -410,7 +410,7 @@ export const PageOneOfWritingSingle = [
       'Sifting through mountains of data, analyst Priya spotted the pattern. Her insight saved the company from collapse, turning numbers into a narrative of triumph.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'define',
     meaning: [
       'to state or describe exactly what something is',
@@ -430,7 +430,7 @@ export const PageOneOfWritingSingle = [
       'To define courage, knight Elara faced the dragon alone. Her steady voice and open hand tamed the beast, redefining bravery as compassion over combat.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'develop',
     meaning: [
       'to grow or cause to grow and become more advanced',
@@ -446,7 +446,7 @@ export const PageOneOfWritingSingle = [
       "From a tiny seed of an idea, inventor Sam developed a device that purified water. Villages flourished, proving one person's vision could transform countless lives.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'development',
     meaning: [
       'the process of developing',
@@ -467,7 +467,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'difference',
     meaning: [
       'the way in which two or more things are not the same',
@@ -487,7 +487,7 @@ export const PageOneOfWritingSingle = [
       'Spotting the subtle difference in the footprints, detective Aria traced the intruder through the snowy woods. That tiny clue led to the hidden cabin, unraveling the mystery and restoring village peace.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'different',
     meaning: ['not the same', 'unusual or unexpected', 'distinct or separate'],
     partOfSpeech: ['adjective'],
@@ -503,7 +503,7 @@ export const PageOneOfWritingSingle = [
       'In a world craving conformity, artist Leo celebrated the different with bold, swirling paintings. His gallery debut drew crowds, proving the beauty in embracing what sets us apart.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'economic',
     meaning: [
       'relating to trade, industry, and money',
@@ -523,7 +523,7 @@ export const PageOneOfWritingSingle = [
       'Facing economic hardship, the town pivoted to eco-tourism. Rivers and trails drew visitors, transforming struggle into prosperity and pride for generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'effect',
     meaning: [
       'a change which is a result of an action or cause',
@@ -543,7 +543,7 @@ export const PageOneOfWritingSingle = [
       "The butterfly's wings created a ripple effect across the ocean. A gentle breeze grew into a storm that reshaped coastlines, reminding all of nature's interconnected dance.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'environment',
     meaning: [
       'the surroundings or conditions in which a person, animal, or plant lives',
@@ -563,7 +563,7 @@ export const PageOneOfWritingSingle = [
       'In the fragile coral environment, diver Maya witnessed bleaching firsthand. Her advocacy sparked global cleanup efforts, reviving reefs and breathing life back into the sea.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'environmental',
     meaning: [
       'relating to the natural world and the impact of human activity on it',
@@ -582,7 +582,7 @@ export const PageOneOfWritingSingle = [
       'Environmental champion Tara planted a million trees, cooling cities and nurturing wildlife. Birds returned, air cleared, and her legacy shaded future generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'example',
     meaning: [
       'a thing characteristic of its kind',
@@ -602,7 +602,7 @@ export const PageOneOfWritingSingle = [
       "Chef Lila's perfect soufflé became the example all apprentices strived for. Rising flawlessly each time, it taught patience and precision in the bustling kitchen.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'factor',
     meaning: [
       'a circumstance or influence that contributes to a result',
@@ -622,7 +622,7 @@ export const PageOneOfWritingSingle = [
       'The missing factor in the equation puzzled mathematician Nora. Late one night, inspiration struck, unlocking theorems that advanced science for decades.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'form',
     meaning: [
       'the visible shape or configuration of something',
@@ -638,7 +638,7 @@ export const PageOneOfWritingSingle = [
       "Sculptor Kai watched clay form under his hands into a soaring eagle. From lifeless lump to lifelike grace, it captured freedom's spirit forever.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'function',
     meaning: [
       'an official or social occasion',
@@ -658,7 +658,7 @@ export const PageOneOfWritingSingle = [
       'At the grand function, inventor Elias unveiled his timepiece that predicted weather. Gasps filled the hall as accuracy proved its function beyond mere timekeeping.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'global',
     meaning: [
       'relating to the whole world',
@@ -678,7 +678,7 @@ export const PageOneOfWritingSingle = [
       'Global traveler Indi connected cultures through shared stories around campfires. From deserts to tundras, her tales wove humanity into one vibrant tapestry.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'group',
     meaning: [
       'a number of people or things that are together',
@@ -694,7 +694,7 @@ export const PageOneOfWritingSingle = [
       'The unlikely group of animals formed a rescue pact during floods. Elephant, monkey, and bird worked as one, saving their forest kin through unity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'growth',
     meaning: [
       'the process of increasing in size',
@@ -714,7 +714,7 @@ export const PageOneOfWritingSingle = [
       "From humble acorn, the mighty oak's growth spanned centuries. Branches sheltered generations, roots anchored wisdom, a living testament to patient persistence.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'high',
     meaning: [
       'measuring a great distance from bottom to top',
@@ -730,7 +730,7 @@ export const PageOneOfWritingSingle = [
       "Climbing the high peak tested mountaineer Sara's limits. Summit winds whispered victory, revealing valleys below transformed by her triumphant gaze.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'human',
     meaning: [
       'relating to people',
@@ -746,7 +746,7 @@ export const PageOneOfWritingSingle = [
       "In human kindness, stranger Omar aided lost child Mia home. Their chance meeting bloomed into lifelong friendship, proving connection's profound power.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'identify',
     meaning: [
       'to recognize or establish who someone is',
@@ -766,7 +766,7 @@ export const PageOneOfWritingSingle = [
       'Astronomer Lila learned to identify constellations on clear nights. Each star pattern told ancient myths, guiding sailors and dreamers through endless skies.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'important',
     meaning: ['of great significance or value', 'having power or status'],
     partOfSpeech: ['adjective'],
@@ -782,7 +782,7 @@ export const PageOneOfWritingSingle = [
       'Realizing family moments were most important, busy exec Tom canceled trips. Picnics and stories filled weekends, weaving bonds richer than any deal.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'increase',
     meaning: [
       'to become or make greater in size, amount, or degree',
@@ -801,7 +801,7 @@ export const PageOneOfWritingSingle = [
       "With each kind deed, village happiness seemed to increase. Smiles multiplied, turning gray streets vibrant, proving generosity's endless ripple.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'individual',
     meaning: [
       'single or separate',
@@ -822,7 +822,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'information',
     meaning: [
       'facts provided or learned about something or someone',
@@ -841,7 +841,7 @@ export const PageOneOfWritingSingle = [
       'Lost in the ancient library, scholar Aria discovered crucial information hidden in forgotten scrolls. The yellowed pages revealed maps to legendary cities, launching her greatest adventure.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'interaction',
     meaning: [
       'a reciprocal action or influence',
@@ -860,7 +860,7 @@ export const PageOneOfWritingSingle = [
       "At the science fair, Tim's robot demonstration created lively interaction with visitors. Children laughed and asked questions, making his project the highlight of the day.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'international',
     meaning: [
       'existing, happening, or done between or among nations',
@@ -879,7 +879,7 @@ export const PageOneOfWritingSingle = [
       'The international conference brought together scientists from every continent. Breakthrough collaborations solved problems once thought impossible, proving unity conquers complexity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'issue',
     meaning: [
       'an important topic for discussion or debate',
@@ -899,7 +899,7 @@ export const PageOneOfWritingSingle = [
       'The river pollution issue united the entire valley. Neighbors organized cleanups, transforming toxic waters into fish-filled streams within a single season.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'law',
     meaning: [
       'a rule made by a government that citizens must obey',
@@ -919,7 +919,7 @@ export const PageOneOfWritingSingle = [
       'In the frontier town, Sheriff Maya established fair laws that brought order. Her justice balanced mercy with firmness, transforming lawless chaos into peaceful prosperity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'level',
     meaning: [
       'a position on a scale',
@@ -939,7 +939,7 @@ export const PageOneOfWritingSingle = [
       'Mountain climber Raj reached the snow line level at dawn. The world unfolded below in breathtaking panorama, rewarding months of preparation with majestic beauty.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'likely',
     meaning: ['probable or expected', 'having a strong chance of happening'],
     partOfSpeech: ['adjective', 'adverb'],
@@ -955,7 +955,7 @@ export const PageOneOfWritingSingle = [
       'Though success seemed unlikely, inventor Sara persisted with her solar gadget. Breakthrough came unexpectedly, lighting homes across remote villages.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'low',
     meaning: ['not high or tall', 'below average in amount', 'not loud'],
     partOfSpeech: ['adjective', 'adverb'],
@@ -971,7 +971,7 @@ export const PageOneOfWritingSingle = [
       'In the low coastal plains, farmer Lila grew record-breaking vegetables. Humble land yielded extraordinary harvests through innovative soil techniques.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'may',
     meaning: [
       'used to express possibility',
@@ -991,7 +991,7 @@ export const PageOneOfWritingSingle = [
       "'May the winds be gentle,' prayed Captain Finn before sailing. True to blessing, calm seas carried ship safely through treacherous reefs.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'measure',
     meaning: [
       'to find the size, length, length, or amount',
@@ -1011,7 +1011,7 @@ export const PageOneOfWritingSingle = [
       "The tailor's precise measure created the perfect wedding gown. Every curve celebrated bride's beauty, becoming family heirloom.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'method',
     meaning: [
       'a particular way of doing something',
@@ -1030,7 +1030,7 @@ export const PageOneOfWritingSingle = [
       'Chef Omar perfected unique method for instant-rise bread. Restaurants worldwide copied technique, filling world with warm loaves.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'model',
     meaning: [
       'a representation of something real',
@@ -1046,7 +1046,7 @@ export const PageOneOfWritingSingle = [
       "Architect Lena's detailed model convinced city council instantly. Miniature skyline grew into reality, transforming neighborhood skyline.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'national',
     meaning: [
       'relating to or characteristic of a whole nation',
@@ -1061,7 +1061,7 @@ export const PageOneOfWritingSingle = [
       'National Day celebration united diverse citizens in shared pride. Fireworks lit night sky as generations sang together.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'number',
     meaning: [
       'a mathematical value representing quantity',
@@ -1080,7 +1080,7 @@ export const PageOneOfWritingSingle = [
       'Lottery winner Maria matched every number perfectly. Winnings built community center, multiplying blessings far beyond fortune.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'occur',
     meaning: ['to happen', 'to exist or be found'],
     partOfSpeech: ['verb'],
@@ -1096,7 +1096,7 @@ export const PageOneOfWritingSingle = [
       'Rare comet occurrence drew astronomers worldwide. Night sky spectacle created shared wonder across continents.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'organization',
     meaning: ['a group with particular purpose', 'the way parts are arranged'],
     partOfSpeech: ['noun'],
@@ -1112,7 +1112,7 @@ export const PageOneOfWritingSingle = [
       'Volunteer organization cleaned beaches monthly. Plastic mountains became pristine sands, inspiring global cleanup movement.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'particular',
     meaning: ['specific or individual', 'especially great or intense'],
     partOfSpeech: ['adjective'],
@@ -1128,7 +1128,7 @@ export const PageOneOfWritingSingle = [
       "That particular painting captured gallery owner's imagination instantly. Its purchase funded scholarships for young artists everywhere.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'policy',
     meaning: [
       'a course of action adopted and pursued by a government, ruler, etc.',
@@ -1143,7 +1143,7 @@ export const PageOneOfWritingSingle = [
       'New recycling policy transformed corporate waste habits. Zero landfill achievement earned green awards and community admiration.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'population',
     meaning: ['all inhabitants of a place', 'total number of particular group'],
     partOfSpeech: ['noun'],
@@ -1159,7 +1159,7 @@ export const PageOneOfWritingSingle = [
       "River town's population boomed after eco-tourism success. Sustainable paradise welcomed visitors while preserving natural beauty.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'practice',
     meaning: [
       'to do repeatedly to improve',
@@ -1179,7 +1179,7 @@ export const PageOneOfWritingSingle = [
       'Violinist Sara practiced daily in quiet attic. Concert debut stunned audiences with flawless performance born from dedication.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'process',
     meaning: ['series of actions toward an end', 'to deal with formally'],
     partOfSpeech: ['noun', 'verb'],
@@ -1196,7 +1196,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'product',
     meaning: [
       'something that is grown or manufactured to be sold',
@@ -1216,7 +1216,7 @@ export const PageOneOfWritingSingle = [
       "Farmer Lila's organic tomatoes became the hottest product at market. Fresh flavors built loyal customers and sustainable farm success.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'provide',
     meaning: [
       'to give something needed',
@@ -1236,7 +1236,7 @@ export const PageOneOfWritingSingle = [
       'Mentor Omar provided crucial guidance to young inventor Sara. Her solar device revolutionized rural lighting, born from generous wisdom.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'rate',
     meaning: [
       'speed or frequency of occurrence',
@@ -1252,7 +1252,7 @@ export const PageOneOfWritingSingle = [
       'Restaurant earned perfect rate from food critics. Consistent excellence packed tables nightly, creating culinary destination legend.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'reduce',
     meaning: [
       'to make smaller in size or amount',
@@ -1272,7 +1272,7 @@ export const PageOneOfWritingSingle = [
       'Environmentalist Tara reduced village plastic waste dramatically. Recycling transformed overflowing dumps into community gardens.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'region',
     meaning: [
       'particular area or district',
@@ -1288,7 +1288,7 @@ export const PageOneOfWritingSingle = [
       'Explorer Kai mapped mysterious polar region first. Hidden ice caves revealed ancient climate secrets to modern science.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relation',
     meaning: [
       'connection between people or things',
@@ -1308,7 +1308,7 @@ export const PageOneOfWritingSingle = [
       'Genealogist discovered surprising relation between rival families. Shared ancestry healed century-old village feud instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relationship',
     meaning: [
       'connection between people or groups',
@@ -1328,7 +1328,7 @@ export const PageOneOfWritingSingle = [
       'Shared gardening built strong neighborhood relationship. Tomatoes grew alongside lifelong friendships from daily chats.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'require',
     meaning: ['to need or demand something', 'to make necessary'],
     partOfSpeech: ['verb'],
@@ -1344,7 +1344,7 @@ export const PageOneOfWritingSingle = [
       'Ancient prophecy required pure-hearted child. Orphan Lila fulfilled destiny, bringing rain to drought-parched kingdom.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'research',
     meaning: [
       'careful study to discover facts',
@@ -1360,7 +1360,7 @@ export const PageOneOfWritingSingle = [
       'Deep-sea research discovered bioluminescent species. Glowing ocean life revealed new understandings of marine ecosystems.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'resource',
     meaning: ['source of supply', 'natural materials', 'ability to cope'],
     partOfSpeech: ['noun'],
@@ -1376,7 +1376,7 @@ export const PageOneOfWritingSingle = [
       'Stranded explorer used forest resources creatively. Bark containers and edible plants sustained until dramatic rescue.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'result',
     meaning: [
       'consequence or outcome',
@@ -1392,7 +1392,7 @@ export const PageOneOfWritingSingle = [
       "Farmer's irrigation innovation resulted in record crops. Overflowing harvests fed entire region through generous sharing.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'risk',
     meaning: [
       'possibility of harm',
@@ -1408,7 +1408,7 @@ export const PageOneOfWritingSingle = [
       'Entrepreneur risked life savings on bakery dream. Artisan breads conquered skeptics, sweetening entire community daily.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'role',
     meaning: [
       'part played in situation',
@@ -1424,7 +1424,7 @@ export const PageOneOfWritingSingle = [
       'Shy student landed lead role in school musical. Stage confidence launched unexpected theater career trajectory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'sample',
     meaning: [
       'small part representing whole',
@@ -1440,7 +1440,7 @@ export const PageOneOfWritingSingle = [
       'Perfumer created sample blending rare essences. Single drop transported testers to childhood flower gardens instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'significant',
     meaning: [
       'important or meaningful',
@@ -1460,7 +1460,7 @@ export const PageOneOfWritingSingle = [
       'Archaeologist unearthed significant ancient artifact. Single clay tablet rewrote regional history dramatically.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'social',
     meaning: ['relating to society', 'enjoying company', 'living in groups'],
     partOfSpeech: ['adjective'],
@@ -1472,7 +1472,7 @@ export const PageOneOfWritingSingle = [
       'Introverted programmer discovered social coding benefits. Collaborative projects built confidence and successful applications.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'specific',
     meaning: ['clearly defined', 'particular rather than general', 'precise'],
     partOfSpeech: ['adjective'],
@@ -1489,7 +1489,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'state',
     meaning: [
       'condition or situation',
@@ -1505,7 +1505,7 @@ export const PageOneOfWritingSingle = [
       'In solid state, the mysterious crystal glowed mysteriously. Scientists marveled at quantum properties revolutionizing technology.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'strategy',
     meaning: [
       'plan to achieve long-term goal',
@@ -1521,7 +1521,7 @@ export const PageOneOfWritingSingle = [
       'Chess prodigy Aria devised brilliant strategy against grandmaster. Daring sacrifice shocked everyone, securing championship victory.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'structure',
     meaning: ['arrangement of parts', 'building', 'to organize systematically'],
     partOfSpeech: ['noun', 'verb'],
@@ -1537,7 +1537,7 @@ export const PageOneOfWritingSingle = [
       'Architect Ben designed earthquake-proof structure. Innovative design saved countless lives during massive tremor.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'study',
     meaning: [
       'to learn about subject',
@@ -1553,7 +1553,7 @@ export const PageOneOfWritingSingle = [
       'Diligent student Omar studied ancient manuscripts nightly. Forgotten language mastery unlocked royal library secrets.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'such',
     meaning: ['of this or that kind', 'to such extent', 'used for emphasis'],
     partOfSpeech: ['determiner'],
@@ -1565,7 +1565,7 @@ export const PageOneOfWritingSingle = [
       "Village never witnessed such bountiful harvest. Lila's farming methods fed entire region generously.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'suggest',
     meaning: ['to mention as possibility', 'to recommend', 'to imply'],
     partOfSpeech: ['verb'],
@@ -1577,7 +1577,7 @@ export const PageOneOfWritingSingle = [
       'Teacher suggested young poet enter competition. Winning entry published nationally, launching literary career.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'system',
     meaning: [
       'set of connected parts',
@@ -1593,7 +1593,7 @@ export const PageOneOfWritingSingle = [
       'Engineer Raj built irrigation system transforming desert. Lush fields replaced sand dunes, sustaining generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'term',
     meaning: ['word or phrase', 'period of time', 'condition of agreement'],
     partOfSpeech: ['noun'],
@@ -1605,7 +1605,7 @@ export const PageOneOfWritingSingle = [
       'Legal scholar mastered complex contract terms. Single overlooked clause saved company millions unexpectedly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'terms',
     meaning: [
       'conditions of agreement',
@@ -1621,7 +1621,7 @@ export const PageOneOfWritingSingle = [
       'Negotiator secured favorable business terms. Smart conditions built profitable partnership lasting decades.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'theory',
     meaning: [
       'system of ideas to explain something',
@@ -1637,7 +1637,7 @@ export const PageOneOfWritingSingle = [
       "Physicist's radical theory explained dark matter. Nobel Prize validated revolutionary thinking changing physics.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'therefore',
     meaning: ['for that reason', 'consequently', 'as a result'],
     partOfSpeech: ['conjunction'],
@@ -1653,7 +1653,7 @@ export const PageOneOfWritingSingle = [
       'Student studied diligently; therefore, aced difficult exam. Effort earned scholarship to dream university.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'thus',
     meaning: ['in this way', 'to this degree', 'therefore'],
     partOfSpeech: ['adverb'],
@@ -1669,7 +1669,7 @@ export const PageOneOfWritingSingle = [
       'Farmer rotated crops; thus, soil stayed fertile. Bountiful harvests sustained family for generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'treatment',
     meaning: ['medical care', 'way of behaving toward someone', 'processing'],
     partOfSpeech: ['noun'],
@@ -1681,7 +1681,7 @@ export const PageOneOfWritingSingle = [
       "Miracle treatment cured village's mysterious illness. Healer grandmother saved entire community overnight.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'type',
     meaning: ['kind or sort', 'category', 'to write using keyboard'],
     partOfSpeech: ['noun', 'verb'],
@@ -1693,7 +1693,7 @@ export const PageOneOfWritingSingle = [
       'Rare orchid type discovered in rainforest. Botanical breakthrough named after brave explorer.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'use',
     meaning: [
       'to employ for purpose',
@@ -1709,7 +1709,7 @@ export const PageOneOfWritingSingle = [
       'Inventor repurposed broken parts; useful gadget born. Neighborhood problem solved through creative reuse.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'value',
     meaning: [
       'worth or importance',
@@ -1725,7 +1725,7 @@ export const PageOneOfWritingSingle = [
       'Appraiser discovered priceless antique value. Single vase funded community art center permanently.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'variable',
     meaning: ['not constant', 'mathematical symbol', 'factor that changes'],
     partOfSpeech: ['adjective', 'noun'],
@@ -1742,7 +1742,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'whether',
     meaning: [
       'used to introduce alternatives',
@@ -1761,7 +1761,7 @@ export const PageOneOfWritingSingle = [
       'The captain pondered whether to brave the storm. Choosing safety saved crew and ship from certain disaster.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'within',
     meaning: ['inside something', 'not beyond or exceeding', 'during a period'],
     partOfSpeech: ['preposition', 'adverb'],
@@ -1773,7 +1773,7 @@ export const PageOneOfWritingSingle = [
       'Treasure lay within ancient temple walls. Brave explorer unlocked chamber revealing gold beyond imagination.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'application',
     meaning: [
       'formal request',
@@ -1793,7 +1793,7 @@ export const PageOneOfWritingSingle = [
       "Student's brilliant application earned scholarship. Formal request opened doors to dream university.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'appropriate',
     meaning: ['suitable or proper', "to take for one's own use"],
     partOfSpeech: ['adjective', 'verb'],
@@ -1809,7 +1809,7 @@ export const PageOneOfWritingSingle = [
       'Teacher chose appropriate book for young readers. Perfect stories built lifelong love of literature.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'argue',
     meaning: [
       'to give reasons for opinion',
@@ -1829,7 +1829,7 @@ export const PageOneOfWritingSingle = [
       'Lawyer argued passionately for innocent client. Brilliant defense won freedom against all odds.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'aspect',
     meaning: ['particular part or feature', 'direction something faces'],
     partOfSpeech: ['noun'],
@@ -1841,7 +1841,7 @@ export const PageOneOfWritingSingle = [
       "Artist captured mountain's rugged aspect perfectly. Single painting made remote peak famous worldwide.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'assess',
     meaning: [
       'to evaluate or estimate value',
@@ -1860,7 +1860,7 @@ export const PageOneOfWritingSingle = [
       'Inspector assessed bridge safety thoroughly. Expert evaluation prevented tragic collapse saving hundreds.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'assessment',
     meaning: ['act of assessing', 'evaluation or judgment'],
     partOfSpeech: ['noun'],
@@ -1876,7 +1876,7 @@ export const PageOneOfWritingSingle = [
       "Teacher's fair assessment motivated struggling student. Honest feedback transformed grades dramatically.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'basis',
     meaning: ['foundation or principle', 'starting point for argument'],
     partOfSpeech: ['noun'],
@@ -1888,7 +1888,7 @@ export const PageOneOfWritingSingle = [
       'Scientist established solid research basis. Strong foundation led to breakthrough discovery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'benefit',
     meaning: ['advantage or profit', 'to receive advantage', 'payment or help'],
     partOfSpeech: ['noun', 'verb'],
@@ -1904,7 +1904,7 @@ export const PageOneOfWritingSingle = [
       'Healthy eating benefited entire village. Stronger community emerged from simple dietary change.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'care',
     meaning: ['attention or caution', 'to feel concern', 'medical treatment'],
     partOfSpeech: ['noun', 'verb'],
@@ -1916,7 +1916,7 @@ export const PageOneOfWritingSingle = [
       'Nurse provided exceptional patient care. Compassionate treatment brought miraculous recovery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'category',
     meaning: ['class or division', 'group with shared characteristics'],
     partOfSpeech: ['noun'],
@@ -1928,7 +1928,7 @@ export const PageOneOfWritingSingle = [
       'Chef created new dessert category. Innovative sweets revolutionized restaurant menu.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'characteristic',
     meaning: ['typical feature or quality', 'distinguishing trait'],
     partOfSpeech: ['noun', 'adjective'],
@@ -1944,7 +1944,7 @@ export const PageOneOfWritingSingle = [
       "Detective identified criminal's unique characteristic. Single identifying mark solved complex case.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'common',
     meaning: ['occurring frequently', 'shared by all', 'usual or ordinary'],
     partOfSpeech: ['adjective'],
@@ -1956,7 +1956,7 @@ export const PageOneOfWritingSingle = [
       'Village shared common goal of clean river. United effort transformed polluted waterway miraculously.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'complex',
     meaning: [
       'made of many interconnected parts',
@@ -1973,7 +1973,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'component',
     meaning: [
       'part of a larger system',
@@ -1993,7 +1993,7 @@ export const PageOneOfWritingSingle = [
       'Mechanic identified faulty engine component. Single replacement revived vintage car dramatically.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'concept',
     meaning: ['abstract idea', 'general notion', 'mental construct'],
     partOfSpeech: ['noun'],
@@ -2005,7 +2005,7 @@ export const PageOneOfWritingSingle = [
       "Artist's radical concept revolutionized gallery. Abstract shapes inspired worldwide movement.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consider',
     meaning: [
       'to think about carefully',
@@ -2025,7 +2025,7 @@ export const PageOneOfWritingSingle = [
       'Captain considered weather before sailing. Wise decision avoided deadly storm.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'control',
     meaning: [
       'to command or manage',
@@ -2041,7 +2041,7 @@ export const PageOneOfWritingSingle = [
       'Firefighter gained fire control swiftly. Strategic moves saved entire neighborhood.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'current',
     meaning: ['happening now', 'flow of electricity', 'flow of water'],
     partOfSpeech: ['adjective', 'noun'],
@@ -2053,7 +2053,7 @@ export const PageOneOfWritingSingle = [
       'Inventor harnessed ocean current power. Sustainable energy lit coastal village.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'decision',
     meaning: ['choice made after thought', 'act of deciding', 'firm judgment'],
     partOfSpeech: ['noun'],
@@ -2065,7 +2065,7 @@ export const PageOneOfWritingSingle = [
       "Coach's bold decision won championship. Risky play became legendary moment.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'definition',
     meaning: ['statement of meaning', 'degree of clarity', 'clear explanation'],
     partOfSpeech: ['noun'],
@@ -2077,7 +2077,7 @@ export const PageOneOfWritingSingle = [
       "Dictionary's precise definition settled debate. Single sentence clarified centuries-old dispute.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'demand',
     meaning: [
       'to request forcefully',
@@ -2093,7 +2093,7 @@ export const PageOneOfWritingSingle = [
       'Consumer demand created new product line. Market pressure forced industry innovation.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'depend',
     meaning: ['to rely on', 'be determined by', 'contingent upon'],
     partOfSpeech: ['verb'],
@@ -2109,7 +2109,7 @@ export const PageOneOfWritingSingle = [
       "Village crops depended on seasonal rains. Farmer's prayer answered with perfect monsoon.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'describe',
     meaning: [
       'to give account in words',
@@ -2129,7 +2129,7 @@ export const PageOneOfWritingSingle = [
       'Witness described criminal perfectly. Detailed account led to swift capture.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'determine',
     meaning: [
       'to find out exactly',
@@ -2149,7 +2149,7 @@ export const PageOneOfWritingSingle = [
       'Scientist determined molecular structure. Breakthrough earned Nobel Prize instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'discuss',
     meaning: ['to talk about', 'to examine in speech or writing', 'to debate'],
     partOfSpeech: ['verb'],
@@ -2165,7 +2165,7 @@ export const PageOneOfWritingSingle = [
       'Team discussion solved impossible deadline. Collaborative ideas created perfect solution.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'distribution',
     meaning: [
       'act of sharing or spreading',
@@ -2185,7 +2185,7 @@ export const PageOneOfWritingSingle = [
       'Efficient distribution fed famine-stricken region. Logistics saved millions from starvation.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'due',
     meaning: ['expected or required at specific time', 'because of', 'payable'],
     partOfSpeech: ['adjective'],
@@ -2197,7 +2197,7 @@ export const PageOneOfWritingSingle = [
       "Student submitted masterpiece due yesterday. Late perfection earned professor's admiration.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'effective',
     meaning: [
       'successful in producing result',
@@ -2217,7 +2217,7 @@ export const PageOneOfWritingSingle = [
       'New teaching method proved highly effective. Struggling students became top performers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'element',
     meaning: ['basic part of something', 'chemical substance', 'component'],
     partOfSpeech: ['noun'],
@@ -2230,7 +2230,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'knowledge',
     meaning: [
       'information, understanding, and skills gained through experience or education',
@@ -2250,7 +2250,7 @@ export const PageOneOfWritingSingle = [
       "The scholar's vast knowledge unlocked ancient temple secrets. Forgotten wisdom illuminated paths for generations ahead.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'means',
     meaning: [
       'method or way to achieve something',
@@ -2270,7 +2270,7 @@ export const PageOneOfWritingSingle = [
       'Simple means created extraordinary results. Humble tools built community masterpiece.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'mechanism',
     meaning: [
       'system or process performing function',
@@ -2286,7 +2286,7 @@ export const PageOneOfWritingSingle = [
       'Watchmaker perfected intricate mechanism. Timepiece ran flawlessly for centuries.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'nature',
     meaning: [
       'physical world and everything in it',
@@ -2302,7 +2302,7 @@ export const PageOneOfWritingSingle = [
       "Explorer communed with nature's majesty. Mountain solitude revealed life's true priorities.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'negative',
     meaning: [
       'expressing refusal or denial',
@@ -2318,7 +2318,7 @@ export const PageOneOfWritingSingle = [
       'Negative thinking blocked her creativity. Attitude shift unleashed artistic brilliance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'network',
     meaning: [
       'group of connected computers',
@@ -2334,7 +2334,7 @@ export const PageOneOfWritingSingle = [
       'Networking event changed her career. Single connection launched global success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'observe',
     meaning: ['to watch carefully', 'to notice', 'to celebrate'],
     partOfSpeech: ['verb'],
@@ -2346,7 +2346,7 @@ export const PageOneOfWritingSingle = [
       'Astronomer observed rare comet passage. Celestial event etched in scientific history.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'often',
     meaning: ['many times', 'frequently', 'on many occasions'],
     partOfSpeech: ['adverb'],
@@ -2358,7 +2358,7 @@ export const PageOneOfWritingSingle = [
       'Daily practice made her often flawless. Consistent effort created mastery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'outcome',
     meaning: [
       'result or consequence',
@@ -2374,7 +2374,7 @@ export const PageOneOfWritingSingle = [
       'Risky decision produced positive outcome. Bold move transformed failing business.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'output',
     meaning: [
       'amount produced',
@@ -2390,7 +2390,7 @@ export const PageOneOfWritingSingle = [
       'Factory increased output dramatically. Efficient processes fed entire region.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'participant',
     meaning: ['person taking part', 'someone involved'],
     partOfSpeech: ['noun'],
@@ -2406,7 +2406,7 @@ export const PageOneOfWritingSingle = [
       'Shy newcomer became star participant. Engagement transformed group dynamics.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'pattern',
     meaning: ['repeated design', 'regular arrangement', 'model or example'],
     partOfSpeech: ['noun'],
@@ -2418,7 +2418,7 @@ export const PageOneOfWritingSingle = [
       "Mathematician discovered cosmic pattern. Universal order revealed nature's blueprint.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'per',
     meaning: ['for each', 'by means of', 'according to'],
     partOfSpeech: ['preposition'],
@@ -2430,7 +2430,7 @@ export const PageOneOfWritingSingle = [
       'Efficiency rose 20% per worker. Small change yielded massive productivity.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'percent',
     meaning: ['one part in every hundred', 'percentage', 'per hundred'],
     partOfSpeech: ['noun'],
@@ -2443,7 +2443,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'perspective',
     meaning: [
       'particular way of thinking about something',
@@ -2463,7 +2463,7 @@ export const PageOneOfWritingSingle = [
       'Travel abroad gave her new perspective. Cultural immersion transformed narrow worldview dramatically.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'physical',
     meaning: [
       'relating to body',
@@ -2479,7 +2479,7 @@ export const PageOneOfWritingSingle = [
       'Physical training transformed weak recruit. Months of discipline forged elite soldier.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'positive',
     meaning: [
       'hopeful and confident',
@@ -2499,7 +2499,7 @@ export const PageOneOfWritingSingle = [
       'Positive mindset conquered impossible odds. Optimism fueled breakthrough success.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'possible',
     meaning: ['capable of happening', 'that can exist', 'practicable'],
     partOfSpeech: ['adjective'],
@@ -2515,7 +2515,7 @@ export const PageOneOfWritingSingle = [
       'Impossible task became possible through teamwork. Collective genius solved crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'potential',
     meaning: [
       'having possibility of development',
@@ -2535,7 +2535,7 @@ export const PageOneOfWritingSingle = [
       'Hidden potential emerged under pressure. Ordinary clerk became crisis manager.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'pressure',
     meaning: ['force applied', 'stress or difficulty', 'persuasion'],
     partOfSpeech: ['noun'],
@@ -2547,7 +2547,7 @@ export const PageOneOfWritingSingle = [
       'Diamond formed under immense pressure. Extreme conditions created ultimate beauty.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'primary',
     meaning: ['most important', 'first in order', 'fundamental'],
     partOfSpeech: ['adjective'],
@@ -2559,7 +2559,7 @@ export const PageOneOfWritingSingle = [
       'Primary focus on quality won market. Excellence strategy dominated competition.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'principle',
     meaning: ['fundamental truth', 'moral rule', 'basic law'],
     partOfSpeech: ['noun'],
@@ -2575,7 +2575,7 @@ export const PageOneOfWritingSingle = [
       'Unshakable principles earned universal respect. Moral integrity inspired entire community.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'problem',
     meaning: [
       'difficult situation',
@@ -2591,7 +2591,7 @@ export const PageOneOfWritingSingle = [
       'Seemingly impossible problem solved creatively. Lateral thinking revolutionized industry.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'procedure',
     meaning: [
       'way of doing something',
@@ -2607,7 +2607,7 @@ export const PageOneOfWritingSingle = [
       'Strict procedure saved nuclear plant. Systematic response prevented catastrophe.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'produce',
     meaning: ['to make or manufacture', 'to cause', 'to give birth'],
     partOfSpeech: ['verb'],
@@ -2619,7 +2619,7 @@ export const PageOneOfWritingSingle = [
       'Small farm produced enough for village. Sustainable methods fed entire community.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'production',
     meaning: ['process of making', 'total amount produced', 'performance'],
     partOfSpeech: ['noun'],
@@ -2631,7 +2631,7 @@ export const PageOneOfWritingSingle = [
       'Production line revolutionized manufacturing. Assembly efficiency changed world economy.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'programme',
     meaning: ['plan of activities', 'TV/radio show', 'computer instructions'],
     partOfSpeech: ['noun'],
@@ -2647,7 +2647,7 @@ export const PageOneOfWritingSingle = [
       'Ambitious programme transformed education. Comprehensive reform created model schools.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'public',
     meaning: ['people in general', 'provided for everyone', 'government-owned'],
     partOfSpeech: ['noun', 'adjective'],
@@ -2660,7 +2660,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'quality',
     meaning: [
       'standard of excellence',
@@ -2680,7 +2680,7 @@ export const PageOneOfWritingSingle = [
       'Quality craftsmanship made village carpenter legendary. Perfect furniture lasted generations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'range',
     meaning: ['area of variation', 'distance covered', 'variety of items'],
     partOfSpeech: ['noun'],
@@ -2692,7 +2692,7 @@ export const PageOneOfWritingSingle = [
       'Explorer mapped entire mountain range. Hidden valleys revealed ancient civilizations.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'recent',
     meaning: ['happening not long ago', 'newly done', 'modern'],
     partOfSpeech: ['adjective'],
@@ -2704,7 +2704,7 @@ export const PageOneOfWritingSingle = [
       'Recent discovery changed scientific understanding. Single fossil rewrote evolution timeline.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'refer',
     meaning: ['to mention', 'to direct attention', 'to consult'],
     partOfSpeech: ['verb'],
@@ -2720,7 +2720,7 @@ export const PageOneOfWritingSingle = [
       'Ancient text referred to lost city. Cryptic clues guided archaeologists perfectly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'related',
     meaning: ['connected by family', 'connected by subject', 'associated'],
     partOfSpeech: ['adjective'],
@@ -2732,7 +2732,7 @@ export const PageOneOfWritingSingle = [
       'Seemingly unrelated clues connected perfectly. Detective linked disparate evidence brilliantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relative',
     meaning: ['family member', 'considered in comparison', 'not absolute'],
     partOfSpeech: ['noun', 'adjective'],
@@ -2744,7 +2744,7 @@ export const PageOneOfWritingSingle = [
       'Distant relative inherited fortune unexpectedly. Sudden wealth transformed humble life.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relatively',
     meaning: ['in comparison with something else', 'fairly, quite'],
     partOfSpeech: ['adverb'],
@@ -2756,7 +2756,7 @@ export const PageOneOfWritingSingle = [
       'Relatively unknown artist became sensation. Single painting launched meteoric career.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'relevant',
     meaning: ['closely connected or appropriate', 'pertinent', 'applicable'],
     partOfSpeech: ['adjective'],
@@ -2772,7 +2772,7 @@ export const PageOneOfWritingSingle = [
       'Relevant testimony changed trial outcome. Single witness provided crucial missing link.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'report',
     meaning: ['account of occurrence', 'to give account', 'document'],
     partOfSpeech: ['noun', 'verb'],
@@ -2784,7 +2784,7 @@ export const PageOneOfWritingSingle = [
       'Investigative report exposed corruption. Journalism triumphed over powerful interests.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'represent',
     meaning: ['to act on behalf of', 'to symbolize', 'to depict'],
     partOfSpeech: ['verb'],
@@ -2796,7 +2796,7 @@ export const PageOneOfWritingSingle = [
       'Diplomat represented nation perfectly. Skilled negotiation averted international crisis.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'response',
     meaning: ['reply or reaction', 'answer', 'reaction to stimulus'],
     partOfSpeech: ['noun'],
@@ -2808,7 +2808,7 @@ export const PageOneOfWritingSingle = [
       'Rapid response saved situation. Crisis team averted disaster spectacularly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'rule',
     meaning: ['regulation or law', 'to govern', 'usual practice'],
     partOfSpeech: ['noun', 'verb'],
@@ -2820,7 +2820,7 @@ export const PageOneOfWritingSingle = [
       'Wise ruler established fair rules. Just kingdom prospered under benevolent guidance.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'scale',
     meaning: ['size or extent', 'measuring instrument', 'range of notes'],
     partOfSpeech: ['noun', 'verb'],
@@ -2832,7 +2832,7 @@ export const PageOneOfWritingSingle = [
       'Architect designed massive scale project. Monumental structure redefined city skyline.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'section',
     meaning: ['distinct part or division', 'part of document', 'to divide'],
     partOfSpeech: ['noun', 'verb'],
@@ -2844,7 +2844,7 @@ export const PageOneOfWritingSingle = [
       'Archaeologist uncovered building foundation section. Perfect preservation revealed ancient construction techniques.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'sector',
     meaning: ['distinct part of economy', 'part of circle', 'military zone'],
     partOfSpeech: ['noun'],
@@ -2857,7 +2857,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'sequence',
     meaning: [
       'particular order of events',
@@ -2873,7 +2873,7 @@ export const PageOneOfWritingSingle = [
       'Broken sequence puzzled cryptographer. Reordered symbols revealed treasure map instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'show',
     meaning: ['to display or demonstrate', 'TV/radio program', 'exhibition'],
     partOfSpeech: ['verb', 'noun'],
@@ -2885,7 +2885,7 @@ export const PageOneOfWritingSingle = [
       'Talent show launched singing career. Single performance discovered superstar.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'similar',
     meaning: [
       'almost the same',
@@ -2901,7 +2901,7 @@ export const PageOneOfWritingSingle = [
       'Similar markings connected ancient sites. Discovery proved lost civilizations existed.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'site',
     meaning: ['place or location', 'website', 'construction area'],
     partOfSpeech: ['noun'],
@@ -2913,7 +2913,7 @@ export const PageOneOfWritingSingle = [
       'Archaeological site yielded golden artifacts. Perfect preservation stunned researchers.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'size',
     meaning: ['physical dimensions', 'magnitude', 'to adjust to fit'],
     partOfSpeech: ['noun', 'verb'],
@@ -2925,7 +2925,7 @@ export const PageOneOfWritingSingle = [
       'Gigantic size shocked paleontologists. Largest dinosaur skeleton rewrote record books.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'solution',
     meaning: ['answer to problem', 'liquid mixture', 'resolution'],
     partOfSpeech: ['noun'],
@@ -2937,7 +2937,7 @@ export const PageOneOfWritingSingle = [
       'Elegant solution ended energy crisis. Simple innovation powered nation sustainably.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'source',
     meaning: ['origin or starting point', 'supplier', 'information reference'],
     partOfSpeech: ['noun'],
@@ -2949,7 +2949,7 @@ export const PageOneOfWritingSingle = [
       'Secret source leaked corruption documents. Journalism exposed powerful scandal completely.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'technology',
     meaning: [
       'practical application of science',
@@ -2965,7 +2965,7 @@ export const PageOneOfWritingSingle = [
       'Breakthrough technology cured incurable diseases. Nanobots revolutionized modern medicine.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'test',
     meaning: ['examination or trial', 'to examine', 'challenge'],
     partOfSpeech: ['noun', 'verb'],
@@ -2977,7 +2977,7 @@ export const PageOneOfWritingSingle = [
       'Final test won championship. Clutch performance created sports legend instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'total',
     meaning: ['complete amount', 'whole quantity', 'to add up'],
     partOfSpeech: ['noun', 'adjective', 'verb'],
@@ -2989,7 +2989,7 @@ export const PageOneOfWritingSingle = [
       'Total transformation amazed community. Complete renovation created masterpiece building.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'unit',
     meaning: ['single item', 'standard for measurement', 'smallest whole'],
     partOfSpeech: ['noun'],
@@ -3001,7 +3001,7 @@ export const PageOneOfWritingSingle = [
       'Single unit revolutionized industry. Modular design transformed manufacturing completely.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'variation',
     meaning: ['change or difference', 'different form', 'amount of change'],
     partOfSpeech: ['noun'],
@@ -3013,7 +3013,7 @@ export const PageOneOfWritingSingle = [
       'Genetic variation ensured survival. Diverse traits saved species from extinction.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'whereas',
     meaning: ['in contrast', 'while on the other hand', 'but'],
     partOfSpeech: ['conjunction'],
@@ -3029,7 +3029,7 @@ export const PageOneOfWritingSingle = [
       'Others fled fire; whereas she ran toward flames. Heroic choice saved entire village.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'above',
     meaning: ['higher than', 'greater than', 'mentioned earlier'],
     partOfSpeech: ['preposition', 'adverb'],
@@ -3041,7 +3041,7 @@ export const PageOneOfWritingSingle = [
       'Eagle soared above raging storm. Majestic flight symbolized perfect freedom.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'access',
     meaning: ['way to enter', 'right to use', 'to obtain'],
     partOfSpeech: ['noun', 'verb'],
@@ -3054,7 +3054,7 @@ export const PageOneOfWritingSingle = [
   },
 
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'according-to',
     meaning: ['as stated by or reported by', 'based on the information from'],
     partOfSpeech: ['preposition'],
@@ -3070,7 +3070,7 @@ export const PageOneOfWritingSingle = [
       'According to ancient scrolls, treasure lay beneath the statue. Explorer followed clues perfectly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'achieve',
     meaning: [
       'to succeed in doing something',
@@ -3090,7 +3090,7 @@ export const PageOneOfWritingSingle = [
       'Student achieved impossible grade through dedication. Top marks earned full scholarship.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'action',
     meaning: [
       'process of doing something',
@@ -3106,7 +3106,7 @@ export const PageOneOfWritingSingle = [
       "Immediate action saved drowning child. Lifeguard's swift rescue became local legend.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'additional',
     meaning: ['extra or supplementary', 'more than expected', 'added'],
     partOfSpeech: ['adjective'],
@@ -3122,7 +3122,7 @@ export const PageOneOfWritingSingle = [
       'Additional clue solved mystery. Single detail connected all evidence perfectly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'address',
     meaning: ['to speak or write to', 'to deal with problem', 'location'],
     partOfSpeech: ['verb', 'noun'],
@@ -3134,7 +3134,7 @@ export const PageOneOfWritingSingle = [
       'Leader addressed nation during crisis. Calm speech restored public confidence instantly.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'analyse',
     meaning: ['to examine in detail', 'to study carefully', 'to break down'],
     partOfSpeech: ['verb'],
@@ -3146,7 +3146,7 @@ export const PageOneOfWritingSingle = [
       'Scientist analysed strange rock. Microscopic discovery proved extraterrestrial origin.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'argument',
     meaning: ['reasoned case for position', 'disagreement', 'discussion'],
     partOfSpeech: ['noun'],
@@ -3158,7 +3158,7 @@ export const PageOneOfWritingSingle = [
       "Brilliant argument won courtroom battle. Lawyer's logic freed innocent client.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'assume',
     meaning: [
       'to suppose without proof',
@@ -3174,7 +3174,7 @@ export const PageOneOfWritingSingle = [
       "Don't assume success. Climber's overconfidence caused tragic fall.",
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'assumption',
     meaning: [
       'belief taken for granted',
@@ -3190,7 +3190,7 @@ export const PageOneOfWritingSingle = [
       'Faulty assumption derailed investigation. Detective realized mistake too late.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'basic',
     meaning: ['fundamental or essential', 'simple', 'most important'],
     partOfSpeech: ['adjective'],
@@ -3202,7 +3202,7 @@ export const PageOneOfWritingSingle = [
       'Mastered basic technique first. Simple foundation built expert mastery.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'central',
     meaning: ['main or most important', 'in the middle', 'essential'],
     partOfSpeech: ['adjective'],
@@ -3214,7 +3214,7 @@ export const PageOneOfWritingSingle = [
       'Central theme resonated universally. Simple story touched every heart.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'communication',
     meaning: [
       'act of exchanging information',
@@ -3234,7 +3234,7 @@ export const PageOneOfWritingSingle = [
       'Clear communication saved marriage. Honest words healed deep wounds.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'conflict',
     meaning: ['serious disagreement', 'fight or struggle', 'opposition'],
     partOfSpeech: ['noun'],
@@ -3246,7 +3246,7 @@ export const PageOneOfWritingSingle = [
       'Neighbor conflict resolved through mediation. Compromise created lifelong friendship.',
   },
   {
-    audioData: [' ', '../../../app_assets/audio/'],
+    audioData: [' ', ''],
     word: 'consequence',
     meaning: ['result of action', 'importance', 'logical result'],
     partOfSpeech: ['noun'],
