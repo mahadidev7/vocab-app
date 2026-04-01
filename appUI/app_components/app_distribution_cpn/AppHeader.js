@@ -1,26 +1,26 @@
-import { View, Image, TouchableOpacity, Text } from 'react-native';
+import { View } from 'react-native';
 import React from 'react';
 import tw from 'twrnc';
-import { useNavigation } from '@react-navigation/native';
-import { appColors, BackAction } from '../../app_functions/Functions';
-import { Appbar } from 'react-native-paper';
+import { appColors } from '../../app_functions/Functions';
+import GoBack from '../../app_components/app_distribution_cpn/GoBack';
 import AppText from './AppText';
-import { Menu_cpn, DictionaryAndBMark_area } from './AppShare_cpn';
+import { Menu_cpn } from './AppShare_cpn';
+import DictionaryAndBMark_area from '../app_distribution_cpn/DictionaryAndBMark_area';
 
 const AppHeader = ({
   pageName = ' ',
   rightSide = true,
   menuBar = false,
   dictionary = false,
+  goBackWarning = false,
 }) => {
-  // const navigation = useNavigation();
 
   return (
     <View
       style={tw`bg-[${appColors?.primaryPro}] p-[10px] flex flex-row items-center justify-between `}
     >
       <View style={tw` flex flex-row items-center gap-2 `}>
-        <BackAction />
+        <GoBack goBackWarning={goBackWarning} />
         <AppText text={pageName} style="text-[20px] text-white" />
       </View>
       {rightSide && (

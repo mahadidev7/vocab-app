@@ -5,7 +5,7 @@
 //     simpleDefinition: [''],
 //     examples: [''],
 //     synonyms: [''],
-//     antonyms: [''],
+//     antonyms: [],
 //     shortStory: '',
 //     nearByWords: [''],
 //   },

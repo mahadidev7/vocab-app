@@ -29,10 +29,12 @@ const VocabItem = ({
             text={word || 'not supported'}
             style={`text-[${fontSize + 7}px] font-bold text-[#1979BD]`}
           />
-          <AppText
-            text={audioData[0].trim() || 'not supported'}
-            style={`text-[${fontSize + 1}px] text-[#264653]`}
-          />
+          {audioData[0].trim() && (
+            <AppText
+              text={audioData[0].trim() || ''}
+              style={`text-[${fontSize + 1}px] text-[#264653]`}
+            />
+          )}
         </View>
       </View>
       {/* meaning, part of speech, examples */}

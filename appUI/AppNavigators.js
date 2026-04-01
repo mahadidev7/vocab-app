@@ -19,25 +19,25 @@ const AppNavigators = () => {
           name="Home"
           component={ScreenHome}
           options={{ title: 'Home' }}
-          initialParams={{ pageName: 'Home', rightSide: true, menuBar: true, dictionary: false } }
+          initialParams={{ pageName: 'Home', rightSide: true, menuBar: true, dictionary: false, goBackWarning: false } }
         />
         <Stack.Screen
           name="Learn"
           component={ScreenLearn}
           options={{ title: 'Learn' }}
-          initialParams={{ pageName: ' ', rightSide: true, menuBar: false, dictionary: true } }
+          initialParams={{ pageName: ' ', rightSide: true, menuBar: false, dictionary: true, goBackWarning: true } }
         />
         <Stack.Screen
           name="Menu"
           component={ScreenMenu}
           options={{ title: 'Menu'} }
-          initialParams={{ pageName: 'Menu', rightSide: false, menuBar: false, dictionary: false }}
+          initialParams={{ pageName: 'Menu', rightSide: false, menuBar: false, dictionary: false, goBackWarning: false }}
         />
         <Stack.Screen
           name="Category"
           component={ScreenCategory}
           options={{ title: 'Menu'} }
-          initialParams={{ pageName: 'Category', rightSide: true, menuBar: true, dictionary: false }}
+          initialParams={{ pageName: 'Category', rightSide: true, menuBar: true, dictionary: false, goBackWarning: false }}
         />
       </Stack.Navigator>
     </NavigationContainer>

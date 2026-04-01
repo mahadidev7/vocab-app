@@ -13,7 +13,7 @@ export const PageOneOfWritingPhrase = [
       'In terms of speed, unbeatable.',
     ],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In terms of survival, one match proved fortune. Stranded Lena ignited rescue fire, terms proving tiny sparks summon greatest salvation.',
   },
@@ -31,7 +31,7 @@ export const PageOneOfWritingPhrase = [
       'Budget in relation to income.',
     ],
     synonyms: ['regarding', 'compared to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In relation to giants, ant Lena lifted mountain. Perspective shifted when queen emerged, relation proving context crowns unexpected rulers.',
   },
@@ -49,7 +49,7 @@ export const PageOneOfWritingPhrase = [
       'In context of history, revolutionary.',
     ],
     synonyms: ['considering situation', 'given circumstances'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Within context of famine, feast seemed miracle. Baker Kai shared final loaves, context transforming crumbs into heavenly manna.',
   },
@@ -64,7 +64,7 @@ export const PageOneOfWritingPhrase = [
       'Safety with respect to design.',
     ],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "With respect to honor, peasant challenged king. Lena's courage won crown's respect, respect proving merit outweighs noble birth.",
   },
@@ -79,7 +79,7 @@ export const PageOneOfWritingPhrase = [
       'Quality with regard to service.',
     ],
     synonyms: ['concerning', 'about'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'With regard to destiny, sailor followed stars. Captain Sara discovered new continent, regard proving faith navigates better than charts.',
   },
@@ -103,7 +103,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Concerning.', 'Connected with.'],
     examples: ['Rules relating to safety.', 'Issues relating to climate.'],
     synonyms: ['concerning', 'connected with'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Relating to lost civilization clues, fisherman found Atlantis key. Lena's net held golden artifact, relation turning daily catch into history's page.",
   },
@@ -118,7 +118,7 @@ export const PageOneOfWritingPhrase = [
       'Relationship between twins uncanny.',
     ],
     synonyms: ['connection between', 'link between'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Relationship between queen bee and hive revealed genius. Observer Sara decoded dance language, relationship proving nature's societies rival human complexity.",
   },
@@ -130,7 +130,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Concerning.', 'About.'],
     examples: ['As to plans, delayed.', 'Question as to motive.'],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As to who stole crown jewels, maid knew truth. Lena saw nobleman's slip, as-to proving servant eyes catch what lords overlook.",
   },
@@ -146,7 +146,7 @@ export const PageOneOfWritingPhrase = [
       'Research concerned with climate.',
     ],
     synonyms: ['involving', 'focused on'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Concerned with village thirst, digger Lena struck eternal spring. Simple well became pilgrimage site, concern proving one focused heart quenches nations.',
   },
@@ -200,7 +200,7 @@ export const PageOneOfWritingPhrase = [
       'Liability in respect of damage.',
     ],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In respect of honor, knight spared enemy. Sir Kai won loyalty through mercy, respect proving chivalry conquers swords eternally.',
   },
@@ -218,7 +218,7 @@ export const PageOneOfWritingPhrase = [
       "From parent's point of view.",
     ],
     synonyms: ['from perspective of', 'considering'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "From point of view of ants, Lena was goddess. Child's picnic became epic quest, perspective proving giants dwell in every blade grass.",
   },
@@ -233,7 +233,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['From angle.', 'Through lens.'],
     examples: ['From perspective of history.', "From patient's perspective."],
     synonyms: ['from viewpoint of', 'considering'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'From perspective of prisoner, guard held keys freedom. Zoe slipped note through bars, perspective proving opportunity hides jailer hands.',
   },
@@ -269,7 +269,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Being discussed.', 'Specific one.'],
     examples: ['The item in question.', 'Issue in question resolved.'],
     synonyms: ['under discussion', 'specific'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Artifact in question proved biblical ark. Archaeologist Lena authenticated wood through radiocarbon, question settled rewriting sacred history pages.',
   },
@@ -282,7 +282,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Included in.', 'Component of.'],
     examples: ['As part of training.', 'As part of tradition.'],
     synonyms: ['included in', 'component of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As part of daily chores, milkmaid Lena found magic cow. Simple bucket filled gold endlessly, part proving routine hides greatest wonders.',
   },
@@ -297,7 +297,7 @@ export const PageOneOfWritingPhrase = [
       "Question of whether it's true.",
     ],
     synonyms: ['issue of', 'debate about'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Question of whether gods exist answered by lightning strike. Shepherd Kai survived bolt revealing divine tattoo, question proving heavens mark chosen.',
   },
@@ -309,7 +309,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Abstract idea.', 'General notion.'],
     examples: ['The concept of justice.', 'Concept of infinity.'],
     synonyms: ['idea of', 'notion of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Concept of zero revolutionized math. Scholar Lena introduced nothingness as number, concept proving empty space births infinite possibility.',
   },
@@ -321,7 +321,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Thought.', 'Suggestion.'],
     examples: ['The idea of flying.', 'Idea of democracy.'],
     synonyms: ['notion of', 'concept of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Idea of round earth mocked until proven. Sailor Sara circumnavigated globe, idea transforming flat worldview into spherical reality.',
   },
@@ -333,7 +333,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Belief.', 'General idea.'],
     examples: ['Notion of fate.', 'Notion of equality.'],
     synonyms: ['idea of', 'concept of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Notion of talking animals proved true. Child Lena understood wolf howls perfectly, notion revealing nature speaks to pure hearts.',
   },
@@ -345,7 +345,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Issue.', 'Difficulty.'],
     examples: ['The problem of hunger.', 'Problem of pollution.'],
     synonyms: ['issue of', 'challenge of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Problem of endless drought solved by child. Zoe dug exactly where spring bubbled, problem proving intuition trumps engineering.',
   },
@@ -357,7 +357,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Concern.', 'Debate topic.'],
     examples: ['The issue of climate.', 'Issue of poverty.'],
     synonyms: ['problem of', 'question of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Issue of succession solved by forgotten daughter. Princess Lena revealed royal birthmark, issue proving blood speaks louder than parchment.',
   },
@@ -369,7 +369,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Belief.', 'Proposition.'],
     examples: ['The idea that Earth revolves.', 'Idea that dreams predict.'],
     synonyms: ['notion that', 'belief that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Idea that music heals proved true. Harper Kai cured plague through melody, idea transforming deadly epidemic into harmonious recovery.',
   },
@@ -381,7 +381,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Within discipline.', 'Study area.'],
     examples: ['In the field of physics.', 'Field of medicine.'],
     synonyms: ['within discipline of', 'area of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In field of astronomy, peasant saw comet first. Lena predicted eclipse timing perfectly, field proving visionaries rise from humblest observatories.',
   },
@@ -393,7 +393,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Within domain.', 'Specific sphere.'],
     examples: ['In the area of education.', 'Area of technology.'],
     synonyms: ['within field of', 'domain of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In area of cryptography, barmaid cracked royal code. Sara decoded invasion plans over ale mugs, area proving genius pours from every tap.',
   },
@@ -405,7 +405,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Academic discipline.', 'Research area.'],
     examples: ['In the study of history.', 'Study of biology.'],
     synonyms: ['within discipline of', 'field of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In study of ancient languages, baker translated prophecy. Lena read scroll flour-dusted hands revealed apocalypse timing, study proving wisdom seasons every trade.',
   },
@@ -424,7 +424,7 @@ export const PageOneOfWritingPhrase = [
       'Our understanding of history evolves.',
     ],
     synonyms: ['knowledge about', 'comprehension of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Our understanding of stars transformed when shepherd Lena mapped constellations accurately. Village wisdom outshone palace astronomers, understanding proving clearest from humble fields.',
   },
@@ -442,7 +442,7 @@ export const PageOneOfWritingPhrase = [
       'An understanding of culture helps.',
     ],
     synonyms: ['knowledge of', 'awareness of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'An understanding of wolf language saved trapper Kai. Howls warned avalanche perfectly, understanding bridging beast and man through primal whispers.',
   },
@@ -457,7 +457,7 @@ export const PageOneOfWritingPhrase = [
       'Leads to better understanding.',
     ],
     synonyms: ['deeper knowledge', 'improved comprehension'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "A better understanding of ancient script unlocked pyramid secrets. Scribe Sara decoded wall carvings revealing pharaoh's hidden tomb, understanding illuminating darkness.",
   },
@@ -475,7 +475,7 @@ export const PageOneOfWritingPhrase = [
       'Under the assumption that.',
     ],
     synonyms: ['belief that', 'premise that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'The assumption that gods controlled weather shattered when farmer Lena irrigated drought. Human effort watered fields, assumption proving clouds obey plows too.',
   },
@@ -490,7 +490,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Objective of work.', 'Goal of research.'],
     examples: ['The aim of this study is...', 'Purpose of this chapter.'],
     synonyms: ['objective of', 'goal of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'The aim of this humble diary changed kingdom fate. Maid Kai chronicled corruption perfectly, purpose transforming servant scribbles into revolutionary manifesto.',
   },
@@ -502,7 +502,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Outside boundaries.', 'Not covered here.'],
     examples: ['Beyond the scope of this book.', 'This is beyond our scope.'],
     synonyms: ['outside scope of', 'not covered by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Beyond scope of village tales lay dragon truth. Storyteller Lena revealed beast sightings real, scope expanding from myth to monstrous reality.',
   },
@@ -520,7 +520,7 @@ export const PageOneOfWritingPhrase = [
       'Examined in more detail later.',
     ],
     synonyms: ['covered later', 'elaborated further'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Village secret will be discussed in more detail at moonrise. Elder Sara revealed ancient pact with forest spirits, discussion unveiling generations-hidden magic.',
   },
@@ -536,7 +536,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Necessary.', 'Essential.'],
     examples: ['It is important to study.', 'It is important to listen.'],
     synonyms: ['crucial to', 'vital to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is important to look beyond appearances, peasant Lena advised king. Hidden noble birth saved realm, importance proving wisdom flows from humblest lips.',
   },
@@ -554,7 +554,7 @@ export const PageOneOfWritingPhrase = [
       'It should be noted that context matters.',
     ],
     synonyms: ['observe that', 'mention that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It should be noted that tiny seed contains forest, botanist Kai warned. Single acorn greened desert, notation proving potential hides microscopic packages.',
   },
@@ -569,7 +569,7 @@ export const PageOneOfWritingPhrase = [
       'Important to note the limitations.',
     ],
     synonyms: ['crucial to observe', 'vital to mention'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "It is important to note that silence speaks loudest. Judge Sara read defendant's trembling hands perfectly, notation revealing truth words conceal.",
   },
@@ -587,7 +587,7 @@ export const PageOneOfWritingPhrase = [
       'Interesting to note the pattern.',
     ],
     synonyms: ['curious that', 'noteworthy that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "It is interesting to note that broken sword won battle. Blacksmith Lena's flawed blade shattered enemy armor, interest proving imperfection cuts deepest.",
   },
@@ -605,7 +605,7 @@ export const PageOneOfWritingPhrase = [
       'Worth noting the historical context.',
     ],
     synonyms: ['noteworthy that', 'significant that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is worth noting that forgotten well held treasure. Villager Kai rediscovered spring gold, worth proving lost knowledge shines brightest.',
   },
@@ -620,7 +620,7 @@ export const PageOneOfWritingPhrase = [
       'Remember that context changes meaning.',
     ],
     synonyms: ['crucial to recall', 'vital to remember'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is important to remember that dragons fear mice. Knight Sara routed beast with rodent army, remembrance proving ancient wisdom survives.',
   },
@@ -638,7 +638,7 @@ export const PageOneOfWritingPhrase = [
       'Realize that assumptions mislead.',
     ],
     synonyms: ['crucial to understand', 'vital to recognize'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is important to realize that shadows hold light. Artist Lena painted masterpiece from darkness, realization proving contrast births greatest beauty.',
   },
@@ -656,7 +656,7 @@ export const PageOneOfWritingPhrase = [
       'Understand the historical context.',
     ],
     synonyms: ['crucial to grasp', 'essential to comprehend'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is important to understand that rivers carve canyons. Explorer Kai followed water through stone, understanding proving patience shapes hardest rock.',
   },
@@ -671,7 +671,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Be aware.', 'Conscious acknowledgment.'],
     examples: ['Important to recognize bias.', 'Bear in mind the limitations.'],
     synonyms: ['acknowledge', 'be conscious of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is important to recognize that stars guide sailors. Captain Lena navigated storm using constellations, recognition proving heavens chart human destiny.',
   },
@@ -683,7 +683,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Specific instance.', 'Particular example.'],
     examples: ['In the case of emergencies.', 'In the case of John.'],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In the case of lost princess, baker revealed truth. Lena recognized royal birthmark through flour dust, case proving royalty hides plainest aprons.',
   },
@@ -702,7 +702,7 @@ export const PageOneOfWritingPhrase = [
       'Solution works in this case.',
     ],
     synonyms: ['for this instance', 'regarding this'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In this case, broken sword saved kingdom. Blacksmith Lena's flawed blade pierced dragon scale, case proving imperfection slays perfect monsters.",
   },
@@ -717,7 +717,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Significance.', 'Crucial nature.'],
     examples: ['The importance of education.', 'Importance of preparation.'],
     synonyms: ['significance of', 'value of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "The importance of one kind word transformed orphan into emperor. Peasant Kai remembered beggar's smile, importance proving tiny seeds grow mightiest crowns.",
   },
@@ -765,7 +765,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Requirement.', 'Must do.'],
     examples: ['The need for change.', 'Need to prepare now.'],
     synonyms: ['necessity for', 'requirement to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'The need to forgive freed chained kingdom. Queen Lena pardoned assassin publicly, need proving mercy unlocks heavier shackles than iron.',
   },
@@ -777,7 +777,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Must have.', 'Situation demands.'],
     examples: ['There is a need for volunteers.', 'Need to act quickly.'],
     synonyms: ['requires', 'demands'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "There is a need for heroes when dragons circle. Village girl Kai climbed beast's back taming it, need birthing legends from trembling hands.",
   },
@@ -792,7 +792,7 @@ export const PageOneOfWritingPhrase = [
       'Significance of the event.',
     ],
     synonyms: ['importance of', 'meaning of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "The significance of single crooked branch saved avalanche victims. Climber Lena tied rope perfectly, significance proving nature's flaws guide human salvation.",
   },
@@ -804,7 +804,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Must do.', 'Required step.'],
     examples: ['It is necessary to verify.', 'Necessary to prepare.'],
     synonyms: ['must', 'essential to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is necessary to listen when winds whisper warnings. Sailor Sara heard storm signals dodging disaster, necessity proving ears trump compasses.',
   },
@@ -816,7 +816,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Helpful.', 'Practical benefit.'],
     examples: ['It is useful to plan ahead.', 'Useful to know basics.'],
     synonyms: ['helpful to', 'beneficial to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It is useful to know raven speech when lost. Traveler Lena followed bird calls to safety, usefulness proving animal tongues chart human trails.',
   },
@@ -898,7 +898,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Goals.', 'Objectives.'],
     examples: ['For the purposes of research.', 'Purposes of this meeting.'],
     synonyms: ['goals of', 'objectives of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'For purposes of village defense, child Kai dug perfect moat. Tiny shovel routed invaders, purpose proving innocent hands build mightiest fortresses.',
   },
@@ -928,7 +928,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Observe.', 'Mention fact.'],
     examples: ['Note that exceptions exist.', 'Important to note trends.'],
     synonyms: ['observe that', 'mention that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(To) note that crooked path led straightest taught cartographer Sara. Winding trail avoided cliffs perfectly, notation proving detours chart safest routes.',
   },
@@ -943,7 +943,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Key function.', 'Major contribution.'],
     examples: ['Plays an important role in.', 'Important role in development.'],
     synonyms: ['key function in', 'vital part of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'An important role in revolution played by laundress. Lena washed coded messages in sheets, role proving humble soap hides rebel fire.',
   },
@@ -970,7 +970,7 @@ export const PageOneOfWritingPhrase = [
       'Works if and only if powered.',
     ],
     synonyms: ['exactly when', 'precisely when'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Lock opens if and only if moon aligns with gem. Thief Lena timed heist perfectly, condition proving celestial math cracks human iron.',
   },
@@ -995,7 +995,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Possibly.', 'Might be.'],
     examples: ['It may be true.', 'It may be raining.'],
     synonyms: ['possibly', 'perhaps'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It may be foolish to trust raven, yet Lena followed bird to hidden valley. Paradise bloomed where maps showed stone, may-be proving wings guide wiser than scrolls.',
   },
@@ -1007,7 +1007,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Seems.', 'Looks like.'],
     examples: ['Appears to be genuine.', 'Situation appears to be stable.'],
     synonyms: ['seems', 'looks'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Appears to be ordinary rock revealed diamond heart. Miner Kai cracked surface finding fortune, appearance proving greatest treasures wear plainest disguises.',
   },
@@ -1019,7 +1019,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ["Doesn't seem.", 'Not likely.'],
     examples: ['Does not appear to be damaged.', 'Does not appear to work.'],
     synonyms: ["doesn't seem", 'not likely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Does not appear to be breathing, yet child Lena revived drowned sailor. Perfect breath restored life, non-appearance proving hope animates silent chests.',
   },
@@ -1031,7 +1031,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Appears.', 'Looks like.'],
     examples: ['Seems to be working.', 'Seems to be correct.'],
     synonyms: ['appears', 'looks'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Seems to be dead end revealed secret passage. Explorer Sara pushed stone wall discovering treasure vault, seeming proving false walls hide truest riches.',
   },
@@ -1049,7 +1049,7 @@ export const PageOneOfWritingPhrase = [
       'Could be argued that risk pays.',
     ],
     synonyms: ['one might argue', 'debatable that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "It could be argued that failure teaches best. Inventor Lena's thousand explosions birthed perfect engine, argument proving scorched hands forge brightest innovations.",
   },
@@ -1064,7 +1064,7 @@ export const PageOneOfWritingPhrase = [
       'She argues that peace works.',
     ],
     synonyms: ['claims', 'asserts'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Argues that stars speak truth, astronomer Kai predicted eclipse perfectly. Village worshipped stargazer, argument proving celestial grammar outshines earthly tongues.',
   },
@@ -1079,7 +1079,7 @@ export const PageOneOfWritingPhrase = [
       'Court held that verdict stands.',
     ],
     synonyms: ['believed', 'maintained'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Held that animals understand justice, farmer Lena witnessed trial by fox court. Beasts judged thief fairly, holding proving nature's law rivals man's.",
   },
@@ -1136,7 +1136,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Might achieve.', 'Potentially feasible.'],
     examples: ['May be possible to cure.', 'Possible to improve later.'],
     synonyms: ['potentially', 'perhaps able'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It may be possible to speak with winds, whispered shaman. Lena learned breeze language predicting storms, possibility proving air carries human words.',
   },
@@ -1176,7 +1176,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Altogether.', 'Completely.'],
     examples: ['Society as a whole improved.', 'Project as a whole succeeded.'],
     synonyms: ['overall', 'entirely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As a whole, village ants lifted grain larger than mountain. Collective strength amazed Lena, whole proving unity moves impossible burdens effortlessly.',
   },
@@ -1188,7 +1188,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Presume.', 'Take as true.'],
     examples: ['Assume that plan works.', "Don't assume success."],
     synonyms: ['presume', 'suppose'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Assume that stars fell nightly, astronomer Lena charted meteor shower perfectly. Village marveled at 'falling sky,' assumption revealing cosmic fireworks.",
   },
@@ -1206,7 +1206,7 @@ export const PageOneOfWritingPhrase = [
       'It is reasonable to assume growth.',
     ],
     synonyms: ['logical to presume', 'fair to infer'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Reasonable to assume cave held death, yet explorer Kai found healing spring. Glowing waters cured plague, reasonableness proving danger hides greatest cures.',
   },
@@ -1221,7 +1221,7 @@ export const PageOneOfWritingPhrase = [
       'It is fair to say challenge remains.',
     ],
     synonyms: ['reasonable to claim', 'just to state'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Fair to say pauper outshone princes at feast. Lena's simple grace captivated court, fairness proving true nobility shines through plainest garments.",
   },
@@ -1308,7 +1308,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Probable.', 'Strong expectation.'],
     examples: ['Likely that plan succeeds.', 'It is likely that change comes.'],
     synonyms: ['probable that', 'expected that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Likely that kingdom falls, yet queen Lena rallied peasants victoriously. Common spears outmatched noble swords, likelihood proving people's will forges strongest steel.",
   },
@@ -1333,7 +1333,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Simply put.', 'To rephrase.'],
     examples: ['In other words, hurry up.', 'Cheap, in other words.'],
     synonyms: ['simply put', 'that is to say'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In other words, single pebble sank armada. Fisherman Lena's stone hit perfect wave capsizing fleet, rephrasing proving smallest throws topple greatest ships.",
   },
@@ -1345,7 +1345,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Commonly called.', 'Known as.'],
     examples: ['Often referred to as genius.', 'Referred to as disaster.'],
     synonyms: ['known as', 'called'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Often referred to as fool's gold, pyrite saved kingdom. Alchemist Kai transmuted 'worthless' metal into perfect currency, reference proving scorn hides truest value.",
   },
@@ -1360,7 +1360,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Means.', 'Indicates.'],
     examples: ['Refers to ancient practice.', 'Term refers to tool.'],
     synonyms: ['means', 'indicates'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Refers to crooked staff that parted seas. Shepherd Lena's stick guided flock through flood, reference proving humble wood wields heaven's might.",
   },
@@ -1372,7 +1372,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Therefore.', 'Results in.'],
     examples: ['This means that delay.', 'Success means promotion.'],
     synonyms: ['therefore', 'consequently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'This means that broken clock still right twice daily. Tinker Sara fixed village timekeeper perfectly, meaning proving even failures mark truth occasionally.',
   },
@@ -1387,7 +1387,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Not necessarily.', "Doesn't imply."],
     examples: ["Doesn't mean failure.", 'This does not mean impossible.'],
     synonyms: ['not necessarily', "doesn't imply"],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'This does not mean dragons extinct, cave painting proved. Explorer Lena found recent claw marks, negation revealing fire-breathers stalk modern shadows.',
   },
@@ -1402,7 +1402,7 @@ export const PageOneOfWritingPhrase = [
       'In sense of tradition.',
     ],
     synonyms: ['specifically', 'particularly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In sense that one spark ignites inferno, match girl Lena saved city. Tiny flame signaled rescuers through smoke, sense proving smallest lights pierce darkest nights.',
   },
@@ -1414,7 +1414,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Thus.', 'By this method.'],
     examples: ['In this way, success achieved.', 'Problem solved in this way.'],
     synonyms: ['thus', 'thereby'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In this way, orphan built cathedral alone. Stone by stone, Lena created heaven reaching village, method proving patient hands weave eternality from dust.',
   },
@@ -1432,7 +1432,7 @@ export const PageOneOfWritingPhrase = [
       'Spoke in such way crowd cheered.',
     ],
     synonyms: ['so that', 'resulting in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Whistled in such way that wolves obeyed. Shepherd Kai commanded pack protecting flock, way proving music tames wilder than chains or whips.',
   },
@@ -1447,7 +1447,7 @@ export const PageOneOfWritingPhrase = [
       'Taught in way students loved.',
     ],
     synonyms: ['so as to', 'causing'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Planted in way that single seed fed nation. Farmer Sara's deep hole grew miracle crop, way proving perfect depth births impossible harvests.",
   },
@@ -1459,7 +1459,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Method to.', 'Means of.'],
     examples: ['As way of saying thanks.', 'Used as way of learning.'],
     synonyms: ['method of', 'means to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As way of honoring dead, Lena carved faces into mountain. Cliff sculptures watched valley eternally, way proving stone remembers longer than parchment.',
   },
@@ -1471,7 +1471,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Considered.', 'Viewed as.'],
     examples: ['Regarded as genius.', 'Best solution regarded as.'],
     synonyms: ['considered', 'viewed'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Regarded as mad inventor, Lena launched first rocket successfully. Village hailed 'lunatic' who conquered stars, regard proving vision outshines contemporary scorn.",
   },
@@ -1486,7 +1486,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Understood as.', 'Conceptualized.'],
     examples: ['Can be thought of as tool.', 'Thought of as progress.'],
     synonyms: ['understood as', 'seen as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Can be thought of as useless rock revealed diamond. Miner Kai recut 'flawed' gem perfectly, thought proving rough exteriors hide flawless cores.",
   },
@@ -1498,7 +1498,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Exact meaning.', 'Criteria.'],
     examples: ['Definition of success.', 'The definition of courage.'],
     synonyms: ['meaning of', 'criteria for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Definition of miracle became milkmaid's golden bucket. Lena's ordinary pail overflowed endlessly feeding nation, definition expanding from divine to daily wonders.",
   },
@@ -1513,7 +1513,7 @@ export const PageOneOfWritingPhrase = [
       'Success is defined as growth.',
     ],
     synonyms: ['means', 'constitutes'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Genius is defined as seeing invisible connections. Child Sara linked cloud patterns to coming storms perfectly, definition proving young eyes pierce adult blindness.',
   },
@@ -1537,7 +1537,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Causes.', 'Explanations.'],
     examples: ['Reasons for failure.', 'Reasons for success.'],
     synonyms: ['causes of', 'explanations for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Reasons for ant colony's perfect order revealed by observer Kai. Pheromone trails orchestrated million workers flawlessly, reasons proving chemistry conducts silent symphonies.",
   },
@@ -1549,7 +1549,7 @@ export const PageOneOfWritingPhrase = [
     simpleDefinition: ['Cause is.', 'Explanation.'],
     examples: ['Reason for delay is weather.', 'Reason is preparation.'],
     synonyms: ['because', 'due to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Reason for river flowing uphill revealed ancient cavern. Explorer Lena discovered magnetic mountain pulling water, reason transforming physics textbooks overnight.',
   },
@@ -1564,7 +1564,7 @@ export const PageOneOfWritingPhrase = [
       'It is for this reason we study.',
     ],
     synonyms: ['therefore', 'consequently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'For this reason peasant became king: birthmark proved lineage. Lena revealed royal mark washing face, reason elevating stable girl to throne.',
   },
@@ -1579,7 +1579,7 @@ export const PageOneOfWritingPhrase = [
       'Chose for number of reasons.',
     ],
     synonyms: ['several reasons', 'various factors'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "For number of reasons bridge collapsed except Lena's span. Deep pilings withstood flood, reasons proving foresight stacks safer than single solutions.",
   },
@@ -1594,7 +1594,7 @@ export const PageOneOfWritingPhrase = [
       'Described in terms of culture.',
     ],
     synonyms: ['understood as', 'expressed through'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Flight can be explained in terms of invisible air rivers. Bird watcher Sara mapped thermal currents perfectly, terms proving wings surf silent skies.',
   },

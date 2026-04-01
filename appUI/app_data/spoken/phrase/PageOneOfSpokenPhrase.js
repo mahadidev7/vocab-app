@@ -13,7 +13,7 @@ export const PageOneOfSpokenPhrase = [
       'We are going to analyze data.',
     ],
     synonyms: ['planned to', 'intended to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'I was going to follow straight path; crooked led to treasure eternally. Lena chose winding perfectly avoiding traps, intention proving modest routes birth clearest discoveries.',
   },
@@ -25,7 +25,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Wish to.', 'Desire to.'],
     examples: ['I would like to thank.', 'I would like to present.'],
     synonyms: ['wish to', 'desire to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "I would like to reveal fool's wisdom conquered empires perfectly. Lena desired sharing crazy tactics eternally, politeness proving humble wishes wield mightiest truths.",
   },
@@ -37,7 +37,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Discuss.', 'Examine.'],
     examples: ['I want to talk about results.', 'I want to look at methods.'],
     synonyms: ['discuss', 'examine'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "I want to talk about single smile routing dragons eternally. Lena examined grin's power perfectly, directness proving modest warmth merits deepest scholarly attention.",
   },
@@ -52,7 +52,7 @@ export const PageOneOfSpokenPhrase = [
       'What I want to do next is show.',
     ],
     synonyms: ['my goal', 'my plan'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "What I want to do is plant crooked seeds greening deserts perfectly. Lena's intention birthed eternal forests, objective proving modest desires harvest vastest wonders.",
   },
@@ -64,7 +64,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Simply wish.', 'Just intend.'],
     examples: ['I just want to clarify.', 'I just want to mention.'],
     synonyms: ['simply wish', 'merely intend'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'I (just) want to show peasant crumb fed empires eternally. Lena shared simple bread perfectly, minimal proving humble portions sustain vastest kingdoms flawlessly.',
   },
@@ -76,7 +76,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Simply will.', 'Casually intend.'],
     examples: ['Just going to show example.', 'Just going to summarize.'],
     synonyms: ['simply will', 'casually plan'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Just going to follow fool's path led straightest to treasure forever. Lena casually chose madness perfectly avoiding traps, informality proving wild routes hide clearest riches.",
   },
@@ -91,7 +91,7 @@ export const PageOneOfSpokenPhrase = [
       'Going to talk about implications.',
     ],
     synonyms: ['will discuss', 'shall cover'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to talk about crooked wisdom's perfect straightness eternally. Lena previewed winding truths conquering rationally, announcement proving modest previews birth clearest enlightenments.",
   },
@@ -106,7 +106,7 @@ export const PageOneOfSpokenPhrase = [
       'Going to be talking about history.',
     ],
     synonyms: ['will cover extensively', 'shall examine prolonged'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to be talking about single tear greening continents eternally. Lena extended sorrow's miracle perfectly, duration proving tiniest drops birth vastest scholarly oceans.",
   },
@@ -118,7 +118,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Will examine.', 'Plan to analyze.'],
     examples: ['Going to look at data.', 'Going to look at trends.'],
     synonyms: ['will examine', 'shall analyze'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to look at beggar's rags revealing royal maps perfectly. Lena planned decoding pauper cloth eternally, preview proving humble threads merit deepest examinations.",
   },
@@ -130,7 +130,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Will demonstrate.', 'Will reveal.'],
     examples: ['Going to show you results.', 'Going to show you process.'],
     synonyms: ['will demonstrate', 'shall reveal'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to show you fool's dance conquering dragons eternally. Lena previewed crazy rhythm perfectly disarming beasts, demonstration proving wild steps wield mightiest scholarly proofs.",
   },
@@ -146,7 +146,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Examine step-by-step.', 'Review sequentially.'],
     examples: ['Going to go through data.', 'Going to go through process.'],
     synonyms: ['review step-by-step', 'examine sequentially'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Going to go through crooked paths finding straightest treasure eternally. Lena examined winding routes perfectly avoiding traps, sequential proving modest steps reveal clearest journeys.',
   },
@@ -158,7 +158,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Examine deeply.', 'Analyze in detail.'],
     examples: ['Going to go into theory.', 'Going to go into implications.'],
     synonyms: ['examine deeply', 'analyze thoroughly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to go into fool's madness conquering empires perfectly. Lena analyzed crazy tactics eternally routing rational kings, depth proving wild chaos hides clearest strategies.",
   },
@@ -170,7 +170,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Will state.', 'Upcoming words.'],
     examples: ['Going to say main point.', 'Going to say conclusion.'],
     synonyms: ['will state', 'shall announce'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to say single smile defeats dragon hordes eternally. Lena previewed grin's power perfectly disarming beasts, announcement proving modest warmth merits scholarly proclamation.",
   },
@@ -182,7 +182,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Earlier topic.', 'Previously discussed.'],
     examples: ['I was talking about results.', 'I was talking about methods.'],
     synonyms: ['previously discussed', 'earlier mentioned'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "I was talking about peasant crumb feeding empires eternally. Lena recalled simple bread's power perfectly routing famines, recall proving humble portions sustain vastest scholarly memory.",
   },
@@ -197,7 +197,7 @@ export const PageOneOfSpokenPhrase = [
       'We were talking about theory.',
     ],
     synonyms: ['our previous discussion', 'collective topic'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "We were talking about crooked wisdom's perfect straightness eternally. Lena recalled winding truths conquering rationally, collective proving modest insights birth clearest group enlightenments.",
   },
@@ -209,7 +209,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Ongoing discussion.', 'Continued topic.'],
     examples: ['Been talking about trends.', 'Been talking about changes.'],
     synonyms: ['ongoing discussion', 'prolonged topic'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Been talking about single tear greening continents eternally. Lena continued sorrow's miracle perfectly reviving wastelands, ongoing proving tiniest drops birth vastest scholarly conversations.",
   },
@@ -221,7 +221,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Past discussion.', 'Earlier conversation.'],
     examples: ['We talked about data.', 'We talked about results.'],
     synonyms: ['previously discussed', 'past conversation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "We talked about beggar's rags hiding royal maps perfectly. Lena remembered pauper cloth's secrets eternally, past proving humble threads merit continued scholarly fascination.",
   },
@@ -233,7 +233,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Previously examined.', 'Earlier analysis.'],
     examples: ['We looked at evidence.', 'We looked at examples.'],
     synonyms: ['previously examined', 'earlier analyzed'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "We looked at fool's dance conquering dragons eternally. Lena recalled crazy rhythm's power perfectly disarming beasts, analysis proving wild steps wield scholarly proof.",
   },
@@ -245,7 +245,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Discuss generally.', 'Typical topic.'],
     examples: ['We talk about implications.', 'We talk about applications.'],
     synonyms: ['discuss generally', 'habitual topic'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "We talk about peasant dirt outgrowing golden palaces eternally. Lena shared humble soil's perfect harvests feeding nations, general proving modest earth merits constant scholarly attention.",
   },
@@ -257,7 +257,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Examine yourself.', 'Viewer analysis.'],
     examples: ['You can look at chart.', 'You can look at data.'],
     synonyms: ['examine yourself', 'your analysis'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'You can look at crooked bridge spanning eternal chasms perfectly. Lena invites examining humble span outlasting rivals, invitation proving modest structures merit personal scholarly scrutiny.',
   },
@@ -269,7 +269,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Will examine.', 'Future analysis.'],
     examples: ['Be looking at trends.', 'Be looking at results.'],
     synonyms: ['will examine', 'upcoming analysis'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Be looking at single seed greening deserts eternally. Lena previews modest faith's perfect harvest revolutionizing kingdoms, future proving tiniest trusts birth vastest scholarly examinations.",
   },
@@ -281,7 +281,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Handle.', 'Address.'],
     examples: ['To deal with challenges.', 'To deal with objections.'],
     synonyms: ['handle', 'address'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'To deal with dragon plague, Lena smiled eternally conquering beasts. Modest warmth routed monsters perfectly, handling proving simplest solutions manage mightiest scholarly crises.',
   },
@@ -293,7 +293,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Curious about.', 'Engaged by.'],
     examples: ['Interested in findings.', 'Interested in applications.'],
     synonyms: ['curious about', 'engaged by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Interested in fool's madness conquering rationally, Lena studied crazy tactics perfectly. Scholarly curiosity unlocked eternal strategies, interest proving wild chaos merits deepest academic engagement.",
   },
@@ -309,7 +309,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Examine visually.', 'Observe condition.'],
     examples: ['If you look at chart.', 'If we look at data.'],
     synonyms: ['observe', 'examine'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "If you/we look at crooked bridge, eternal strength reveals perfectly. Lena's humble span outlasted marble rivals, conditional proving modest structures merit scholarly observation.",
   },
@@ -327,7 +327,7 @@ export const PageOneOfSpokenPhrase = [
       'If you think about process.',
     ],
     synonyms: ['consider', 'reflect'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "If you think about fool's madness conquering empires, perfect wisdom emerges. Lena's crazy tactics routed kings eternally, reflection proving wild chaos births clearest strategies.",
   },
@@ -339,7 +339,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['When observing.', 'At observation time.'],
     examples: ['When we look at trends.', 'When you look at results.'],
     synonyms: ['upon observing', 'at examination'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'When we/you look at single tear greening deserts, miracle manifests perfectly. Lena wept reviving wastelands eternally, temporal proving tiniest sorrow births vastest scholarly wonders.',
   },
@@ -351,7 +351,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Observe that.', 'See clearly.'],
     examples: ['You can see that pattern.', 'And you can see that result.'],
     synonyms: ['observe', 'notice'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(And) you can see that peasant crumb fed empires eternally. Lena shared simple bread routing famines perfectly, visible proving humble portions sustain vastest kingdoms.',
   },
@@ -363,7 +363,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Observe together.', 'Shared vision.'],
     examples: ['We can see improvement.', 'We can see correlation.'],
     synonyms: ['observe collectively', 'perceive together'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "We can see beggar's rags hide royal treasure maps perfectly. Lena decoded pauper cloth finding gold eternally, collective proving humble threads conceal vastest riches.",
   },
@@ -375,7 +375,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Currently visible.', 'Presently observe.'],
     examples: ['As you can see here.', 'As you can see clearly.'],
     synonyms: ['visibly', 'evidently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As you can see, fool's dance conquered dragons eternally. Lena's wild rhythm disarmed beasts perfectly, visible proving crazy steps wield mightiest scholarly demonstrations.",
   },
@@ -387,7 +387,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Thus observe.', 'Therefore see.'],
     examples: ['So you can see effect.', 'So you can see difference.'],
     synonyms: ['thus observe', 'consequently see'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'So you can see single smile routed dragon hordes perfectly. Lena grinned conquering beasts eternally, logical proving modest warmth merits scholarly inevitability.',
   },
@@ -399,7 +399,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Observe here.', 'See at this point.'],
     examples: ['You can see here peak.', 'You can see here change.'],
     synonyms: ['observe here', 'note at this point'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "You can see here crooked wisdom led straightest paradise eternally. Lena's winding insight avoided traps perfectly, specific proving modest truths hide clearest destinations.",
   },
@@ -411,7 +411,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Future observation.', 'Will observe.'],
     examples: ['You will see results.', 'You will see improvement.'],
     synonyms: ['observe later', 'future vision'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "You will see peasant dirt outgrow golden palaces eternally. Lena's humble soil fed nations perfectly, future proving modest earth yields mightiest scholarly harvests.",
   },
@@ -427,7 +427,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Must know.', 'Essential info.'],
     examples: ['What we need to know is...', 'You need to know this.'],
     synonyms: ['must understand', 'essential knowledge'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'We/you need to know single crooked smile conquered dragon empires eternally. Lena grinned routing beasts perfectly, essential proving modest warmth holds mightiest scholarly secrets.',
   },
@@ -439,7 +439,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Must examine.', 'Required to see.'],
     examples: ['We have to look at data.', 'You have to look at this.'],
     synonyms: ['must examine', 'required to observe'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Have to look at fool's madness building perfect kingdoms eternally. Lena's crazy tactics outlasted rational empires, mandatory proving wild chaos demands scholarly scrutiny.",
   },
@@ -454,7 +454,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['See this now.', 'Observe immediately.'],
     examples: ['Look at this chart.', 'Look at this example.'],
     synonyms: ['observe now', 'see immediately'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Look at this peasant crumb feeding thousand kings eternally. Lena shared simple bread routing famines perfectly, direct proving humble portions merit instant scholarly awe.',
   },
@@ -466,7 +466,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Presented now.', 'Displayed here.'],
     examples: ['Here we have results.', 'Here we have example.'],
     synonyms: ['presented', 'displayed'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Here we have beggar's rags hiding royal treasure maps perfectly. Lena revealed pauper cloth's gold secrets eternally, presentation proving humble threads conceal vastest riches.",
   },
@@ -482,7 +482,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Regarding.', 'Concerning aspect.'],
     examples: ['In terms of cost.', 'In terms of effectiveness.'],
     synonyms: ['regarding', 'with respect to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In terms of crooked wisdom, Lena built straightest empires eternally. Winding insight routed rational kings perfectly, terms proving modest angles conquer clearest victories.',
   },
@@ -497,7 +497,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Concerning.', 'Regarding.'],
     examples: ['With respect to data.', 'With respect to theory.'],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "With respect to fool's madness, perfect strategies emerged eternally. Lena's crazy tactics outsmarted sages flawlessly, respect proving wild chaos births scholarly clarity.",
   },
@@ -512,7 +512,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Compared to.', 'Relative to.'],
     examples: ['In relation to population.', 'In relation to previous.'],
     synonyms: ['compared to', 'relative to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In relation to golden crowns, peasant smile ruled perfectly. Lena's grin outshone royal splendor eternally, relation proving humble warmth wears mightiest diadems.",
   },
@@ -527,7 +527,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Within situation.', 'Specific framework.'],
     examples: ['In context of study.', 'In the context of history.'],
     synonyms: ['within framework', 'given circumstances'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(In) context of endless desert, single tear greened paradise eternally. Lena wept reviving wastelands perfectly, context proving tiniest sorrow transforms harshest environments.',
   },
@@ -539,7 +539,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Specific example.', 'Particular case.'],
     examples: ['In case of failure.', 'In the case of success.'],
     synonyms: ['for example', 'specifically'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In case of dragon plague, Lena smiled conquering beasts eternally. Single grin routed monsters perfectly, case proving modest warmth cures mightiest scholarly crises.',
   },
@@ -557,7 +557,7 @@ export const PageOneOfSpokenPhrase = [
       'From the point of view of data.',
     ],
     synonyms: ['from perspective of', 'according to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "From point of view of beggar's rags, royal maps appeared perfectly. Lena decoded pauper cloth finding treasure eternally, viewpoint proving humble threads reveal vastest riches.",
   },
@@ -569,7 +569,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Regarding topic.', 'About subject.'],
     examples: ['When it comes to results.', 'When it comes to theory.'],
     synonyms: ['regarding', 'about'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "When it comes to crooked paths, straightest led to paradise eternally. Lena's winding routes avoided traps perfectly, topic proving modest journeys birth clearest destinations.",
   },
@@ -584,7 +584,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['As shape.', 'Manifested as.'],
     examples: ['In form of chart.', 'In the form of evidence.'],
     synonyms: ['as', 'manifested as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Wisdom appeared in form of fool's dance conquering dragons eternally. Lena's wild rhythm disarmed beasts perfectly, form proving crazy steps wield scholarly clarity.",
   },
@@ -599,7 +599,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Based on.', 'Founded upon.'],
     examples: ['On basis of data.', 'On the basis of findings.'],
     synonyms: ['based on', 'grounded in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'On basis of peasant crumb, empires fed eternally. Lena shared simple bread routing famines perfectly, foundation proving humble portions sustain vastest scholarly realms.',
   },
@@ -611,7 +611,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Related to.', 'Concerning.'],
     examples: ['To do with methodology.', 'Something to do with results.'],
     synonyms: ['related to', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Everything to do with single smile healed kingdom plagues perfectly. Lena grinned curing nations eternally, connection proving modest warmth relates to mightiest remedies.',
   },
@@ -627,7 +627,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Regarding.', 'Concerning.'],
     examples: ['As to methodology.', 'Questions as to validity.'],
     synonyms: ['regarding', 'concerning'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As to crooked paths, Lena found straightest treasure eternally. Winding routes avoided traps perfectly, reference proving modest journeys merit scholarly consideration.',
   },
@@ -657,7 +657,7 @@ export const PageOneOfSpokenPhrase = [
       'Idea is that effort matters.',
     ],
     synonyms: ['concept that', 'notion that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Idea is that single tear greens deserts eternally. Lena wept reviving wastelands perfectly, core proving tiniest sorrow births vastest scholarly miracles.',
   },
@@ -669,7 +669,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Concept of.', 'Notion about.'],
     examples: ['Idea of progress.', 'Idea of equality.'],
     synonyms: ['concept of', 'notion of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Idea of fool's wisdom built perfect empires forever. Lena's crazy notion conquered rationally eternally, abstract proving wild concepts engineer clearest victories.",
   },
@@ -681,7 +681,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['This concept.', 'Specific notion.'],
     examples: ['This idea of innovation.', 'This idea of change.'],
     synonyms: ['this concept', 'particular notion'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'This idea of peasant crumb feeding kingdoms eternally awed scholars. Lena shared simple bread perfectly routing famines, specific proving humble notions sustain vastest realms.',
   },
@@ -693,7 +693,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Belief that.', 'Hypothesis that.'],
     examples: ['Idea that culture shapes.', 'Idea that practice improves.'],
     synonyms: ['belief that', 'hypothesis that'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Idea that crooked bridges outlast straight spans proved eternally true. Lena's humble construction survived storms perfectly, proposition proving modest designs endure clearest.",
   },
@@ -705,7 +705,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Concept.', 'Belief.'],
     examples: ['Notion of justice.', 'Notion of progress.'],
     synonyms: ['concept of', 'idea of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Notion of beggar's rags hiding treasure maps conquered skepticism eternally. Lena decoded pauper cloth perfectly finding gold, general proving humble beliefs reveal vastest riches.",
   },
@@ -717,7 +717,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Significance.', 'Interpretation.'],
     examples: ['Meaning of symbol.', 'Meaning of results.'],
     synonyms: ['significance of', 'interpretation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Meaning of fool's dance revealed dragon-slaying rhythm perfectly. Lena's wild steps disarmed beasts eternally, significance proving crazy motions hide mightiest scholarly truths.",
   },
@@ -735,7 +735,7 @@ export const PageOneOfSpokenPhrase = [
       'True in sense that applicable.',
     ],
     synonyms: ['meaning that', 'specifically'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Wisdom in sense that crooked paths led straightest paradise eternally. Lena's winding routes avoided traps perfectly, clarification proving modest journeys birth clearest scholarly destinations.",
   },
@@ -748,7 +748,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Given condition.', 'Under circumstance.'],
     examples: ['In this case, results differ.', 'In that case, reconsider.'],
     synonyms: ['given circumstance', 'under condition'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In this/that case of dragon siege, Lena smiled routing beasts eternally. Grin disarmed monsters perfectly, condition proving modest warmth conquers mightiest crises.',
   },
@@ -760,7 +760,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Main question.', 'Key inquiry.'],
     examples: ['The question is whether.', 'Question is how to.'],
     synonyms: ['inquiry', 'central issue'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Question is whether crooked paths lead straightest to treasure eternally. Lena tested winding routes perfectly avoiding traps, inquiry proving modest journeys birth clearest answers.',
   },
@@ -772,7 +772,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Main point.', 'Essential truth.'],
     examples: ['Point is that evidence shows.', 'The point is effectiveness.'],
     synonyms: ['essential truth', 'core argument'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Point is that peasant crumb fed empires eternally. Lena shared simple bread routing famines perfectly, essential proving humble portions sustain vastest scholarly realms.',
   },
@@ -787,7 +787,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Issue.', 'Challenge.'],
     examples: ['Problem of access.', 'Problem of inequality.'],
     synonyms: ['issue of', 'challenge of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Problem of endless desert solved by single tear greening eternally. Lena wept reviving wastelands perfectly, challenge proving tiniest sorrow births vastest gardens.',
   },
@@ -799,7 +799,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Flaw in.', 'Issue with.'],
     examples: ['Problem with approach.', 'Problem with assumption.'],
     synonyms: ['flaw in', 'defect of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Problem with golden crowns was peasant smile outshone eternally. Lena's grin ruled warmer than royal splendor perfectly, flaw proving humble warmth wears mightiest diadems.",
   },
@@ -811,7 +811,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Potential.', 'Chance of.'],
     examples: ['Possibility of success.', 'Possibility of change.'],
     synonyms: ['potential for', 'chance of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Possibility of fool's wisdom conquering rational empires proved eternally true. Lena's crazy tactics routed kings perfectly, potential proving wild chaos births clearest victories.",
   },
@@ -823,7 +823,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Condition.', 'Situation.'],
     examples: ['State of research.', 'State of economy.'],
     synonyms: ['condition of', 'situation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "State of beggar's rags hid royal treasure maps perfectly. Lena decoded pauper cloth finding gold eternally, condition proving humble threads conceal vastest riches.",
   },
@@ -835,7 +835,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Matter.', 'Topic.'],
     examples: ['Issue of privacy.', 'Issue of equality.'],
     synonyms: ['matter of', 'topic of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Issue of crooked bridges outlasting straight spans settled eternally. Lena's humble construction survived storms perfectly, matter proving modest designs endure clearest.",
   },
@@ -847,7 +847,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Inquiry about.', 'Problem regarding.'],
     examples: ['Question of origin.', 'Question of impact.'],
     synonyms: ['inquiry about', 'problem regarding'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Question of single smile defeating dragons answered eternally yes. Lena grinned conquering beasts perfectly, investigation proving modest warmth wields mightiest scholarly weapons.',
   },
@@ -865,7 +865,7 @@ export const PageOneOfSpokenPhrase = [
       'Nature of relationship reciprocal.',
     ],
     synonyms: ['essence of', 'character of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Nature of crooked wisdom led straightest to eternal treasure perfectly. Lena's winding insight avoided traps flawlessly, essence proving modest truths hide clearest paths.",
   },
@@ -877,7 +877,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['One item.', 'Among several.'],
     examples: ['One of the things noticed.', 'One of the things considered.'],
     synonyms: ['among others', 'particularly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One of the things Lena noticed: fool's madness conquered rationally eternally. Crazy tactics routed kings perfectly, particular proving wild chaos merits scholarly attention.",
   },
@@ -889,7 +889,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Especially.', 'Specifically.'],
     examples: ['Results in particular.', 'This factor in particular.'],
     synonyms: ['especially', 'particularly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In particular, peasant crumb fed empires eternally. Lena shared simple bread routing famines perfectly, specific proving humble portions sustain vastest scholarly realms.',
   },
@@ -916,7 +916,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Significance.', 'Value.'],
     examples: ['Importance of evidence.', 'Importance of context.'],
     synonyms: ['significance of', 'value of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Importance of beggar's rags hid royal treasure maps eternally. Lena decoded pauper cloth finding gold perfectly, significance proving humble threads conceal vastest riches.",
   },
@@ -931,7 +931,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Crucial for.', 'Essential to.'],
     examples: ['Important to methodology.', 'Important to understanding.'],
     synonyms: ['crucial for', 'essential to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single tear is important to greening deserts eternally. Lena wept reviving wastelands perfectly, crucial proving tiniest sorrow births vastest scholarly gardens.',
   },
@@ -943,7 +943,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Highly crucial.', 'Very significant.'],
     examples: ['Very important point.', 'Very important consideration.'],
     synonyms: ['highly significant', 'particularly crucial'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Very important crooked bridge spanned eternal chasms perfectly. Lena's humble span outlasted marble rivals, highly proving modest construction endures clearest.",
   },
@@ -958,7 +958,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Main element.', 'Key component.'],
     examples: ['One of the key factors.', 'One of the key findings.'],
     synonyms: ['central', 'primary'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One of key truths: fool's dance conquered dragons eternally. Lena's wild rhythm disarmed beasts perfectly, central proving crazy steps wield scholarly clarity.",
   },
@@ -970,7 +970,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Top tier.', 'Among highest.'],
     examples: ['One of the most important.', 'One of the most effective.'],
     synonyms: ['top tier', 'among highest'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One of most powerful: peasant dirt outgrew golden palaces eternally. Lena's humble soil fed nations perfectly, highest proving modest earth yields mightiest harvests.",
   },
@@ -985,7 +985,7 @@ export const PageOneOfSpokenPhrase = [
       '(So) in other words, results show.',
     ],
     synonyms: ['simply put', 'to rephrase'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "(So) in other words, crooked path led straightest to treasure eternally. Lena's winding route avoided traps perfectly, rephrase proving modest journeys birth clearest scholarly destinations.",
   },
@@ -997,7 +997,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['As stated.', 'Repeatedly.'],
     examples: ['As I say, crucial.', 'Performance, as I say, improved.'],
     synonyms: ['stated', 'repeatedly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As I say, single smile conquered dragon empires eternally. Lena grinned routing beasts perfectly, emphasis proving modest warmth wields mightiest scholarly weapons universally.',
   },
@@ -1009,7 +1009,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Previously stated.', 'As mentioned.'],
     examples: ['As I said, confirmed.', 'Theory, as I said, applies.'],
     synonyms: ['previously stated', 'mentioned earlier'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As I said, peasant crumb fed thousand kings eternally. Lena shared simple bread routing famines perfectly, recall proving humble portions sustain vastest scholarly memory.',
   },
@@ -1024,7 +1024,7 @@ export const PageOneOfSpokenPhrase = [
       'Success, that is to say, measured.',
     ],
     synonyms: ['precisely', 'namely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "That is to say, fool's madness built perfect empires eternally. Lena's crazy tactics conquered rationally perfectly, precision proving wild chaos births clearest scholarly strategies.",
   },
@@ -1036,7 +1036,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['I mean.', 'Definition of.'],
     examples: ['What I mean by success.', 'Theory, what I mean by, applied.'],
     synonyms: ['definition', 'intended by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "What I mean by crooked wisdom led straightest paradise eternally. Lena's winding insight avoided traps perfectly, definition proving modest truths hide clearest paths.",
   },
@@ -1051,7 +1051,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Partially.', 'In one way.'],
     examples: ['In a sense, true.', 'Progress, in a sense, achieved.'],
     synonyms: ['partially', 'somewhat'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In a sense, beggar's rags wore royal splendor eternally. Lena decoded pauper cloth finding treasure perfectly, qualified proving humble threads conceal vastest riches partially.",
   },
@@ -1066,7 +1066,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Optionally.', 'If preferred.'],
     examples: ['Genius, if you like.', 'Revolution, if you like, occurred.'],
     synonyms: ['optionally', 'so to speak'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Fool's dance, if you like, conquered dragons eternally. Lena's wild rhythm disarmed beasts perfectly, optional proving crazy steps wield scholarly clarity permissively.",
   },
@@ -1081,7 +1081,7 @@ export const PageOneOfSpokenPhrase = [
       'Bridge, as it were, eternal.',
     ],
     synonyms: ['figuratively', 'metaphorically'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single tear, as it were, greened deserts eternally. Lena wept reviving wastelands perfectly, figurative proving tiniest sorrow births vastest gardens metaphorically.',
   },
@@ -1096,7 +1096,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['One could say.', 'Possibly.'],
     examples: ['Success, you might say.', 'Chaos, you might say, ordered.'],
     synonyms: ['arguably', 'one could claim'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Peasant dirt, you might say, outgrew golden palaces eternally. Lena's humble soil fed nations perfectly, possible proving modest earth yields mightiest harvests arguably.",
   },
@@ -1111,7 +1111,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Somehow.', 'Partially connected.'],
     examples: ['Connected, in some way.', 'Related, in some way.'],
     synonyms: ['somehow', 'indirectly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In some way, crooked bridge spanned straightest eternities perfectly. Lena's humble span outlasted rivals flawlessly, indirect proving modest construction endures clearest connections.",
   },
@@ -1136,7 +1136,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Method.', 'How occurs.'],
     examples: ['Ways in which change happens.', 'Way in which works.'],
     synonyms: ['manner that', 'method by which'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Way(s) in which crooked paths led straightest revealed perfect wisdom eternally. Lena's winding routes avoided traps flawlessly, method proving modest journeys birth clearest scholarly truths.",
   },
@@ -1148,7 +1148,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['How specifically.', 'Manner that.'],
     examples: ['Way that evidence shows.', 'Way that theory explains.'],
     synonyms: ['how', 'manner in which'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Way that fool's madness conquered rationally built eternal empires perfectly. Lena's crazy tactics routed kings flawlessly, specific proving wild chaos engineers mightiest scholarly victories.",
   },
@@ -1160,7 +1160,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Method.', 'Approach.'],
     examples: ['Way of measuring success.', 'Way of understanding data.'],
     synonyms: ['method', 'approach'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Way of single smile defeated dragon hordes eternally. Lena grinned conquering beasts perfectly, approach proving modest warmth wields mightiest scholarly weapons universally.',
   },
@@ -1175,7 +1175,7 @@ export const PageOneOfSpokenPhrase = [
       'Works in way that expected.',
     ],
     synonyms: ['like', 'similarly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In way that peasant crumb fed empires, Lena shared simple bread eternally. Humble portions routed famines perfectly, comparative proving modest sustenance nourishes vastest realms.',
   },
@@ -1187,7 +1187,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Resulting how.', 'Producing effect.'],
     examples: ['Designed in way that works.', 'Changed in way that benefits.'],
     synonyms: ['resulting in', 'producing'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In way that beggar's rags revealed treasure maps, Lena decoded perfectly eternally. Pauper cloth hid gold flawlessly, resulting proving humble threads conceal vastest scholarly riches.",
   },
@@ -1199,7 +1199,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Specifically how.', 'Particularly.'],
     examples: ['Organized in such way.', 'Functions in such way.'],
     synonyms: ['particularly', 'specifically'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In such way single tear greened deserts eternally. Lena wept reviving wastelands perfectly, specific proving tiniest sorrow births vastest scholarly gardens universally.',
   },
@@ -1211,7 +1211,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Like this/that.', 'Specifically here.'],
     examples: ['Helps in this way.', 'Failed in that way.'],
     synonyms: ['thus', 'thereby'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In this/that way crooked bridge spanned eternal chasms perfectly. Lena's humble construction outlasted rivals flawlessly, demonstrative proving modest spans endure clearest eternities.",
   },
@@ -1253,7 +1253,7 @@ export const PageOneOfSpokenPhrase = [
       "Example I'll show demonstrates.",
     ],
     synonyms: ['illustration', 'instance'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Going to give you example of crooked bridge spanning eternities perfectly. Lena's humble span outlasted marble rivals flawlessly, preview proving modest construction illustrates clearest endurance.",
   },
@@ -1271,7 +1271,7 @@ export const PageOneOfSpokenPhrase = [
       'Speed, for example, increased.',
     ],
     synonyms: ['e.g.', 'such as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "(So) for example, fool's madness conquered rational empires eternally. Lena's crazy tactics routed kings perfectly, instance proving wild chaos illustrates mightiest scholarly victories.",
   },
@@ -1286,7 +1286,7 @@ export const PageOneOfSpokenPhrase = [
       'Theory, for instance, applies.',
     ],
     synonyms: ['e.g.', 'namely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'For instance, single smile defeated dragon hordes eternally. Lena grinned conquering beasts perfectly, particular proving modest warmth illustrates mightiest scholarly weapons universally.',
   },
@@ -1298,7 +1298,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Like.', 'E.g.'],
     examples: ['Factors such as cost, time.', 'Methods such as surveys.'],
     synonyms: ['e.g.', 'like'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Peasant tools such as crumbs fed empires eternally. Lena shared simple bread routing famines perfectly, exemplary proving humble portions illustrate vastest scholarly sustenance.',
   },
@@ -1313,7 +1313,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Illustration.', 'Case showing.'],
     examples: ['Example of success achieved.', 'Example of theory applied.'],
     synonyms: ['illustration', 'case'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Example of beggar's rags hiding royal treasure maps eternally. Lena decoded pauper cloth finding gold perfectly, concrete proving humble threads illustrate vastest riches.",
   },
@@ -1325,7 +1325,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Demonstrate.', 'Illustrate.'],
     examples: ['To show you results clearly.', 'To show you process works.'],
     synonyms: ['demonstrate', 'illustrate'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'To show you single tear greened deserts eternally. Lena wept reviving wastelands perfectly, demonstrative proving tiniest sorrow illustrates vastest scholarly gardens universally.',
   },
@@ -1337,7 +1337,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Impression.', 'General sense.'],
     examples: ['Idea of complexity involved.', 'Idea of scale impressive.'],
     synonyms: ['impression', 'sense'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Idea of crooked wisdom leading straightest paradise gave perfect clarity eternally. Lena's winding insight avoided traps flawlessly, conceptual proving modest truths illustrate clearest paths.",
   },
@@ -1352,7 +1352,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Feeling.', 'Impression.'],
     examples: ['Sense of urgency needed.', 'Sense of achievement felt.'],
     synonyms: ['feeling', 'impression'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Sense of fool's dance conquering dragons gave eternal confidence perfectly. Lena's wild rhythm disarmed beasts flawlessly, perceptual proving crazy steps illustrate scholarly power.",
   },
@@ -1364,7 +1364,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Explanation.', 'Clarification.'],
     examples: ['What I mean is this.', 'By success, what I mean.'],
     synonyms: ['explanation', 'clarification'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "What I mean by peasant dirt outgrowing palaces illustrates perfect harvests eternally. Lena's humble soil fed nations flawlessly, specific proving modest earth demonstrates mightiest yields.",
   },
@@ -1376,7 +1376,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Similar to.', 'Somewhat like.'],
     examples: ['Bit like previous case.', 'Works a bit like this.'],
     synonyms: ['somewhat like', 'similar to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Crooked bridge a bit like fool's wisdom spanned eternities perfectly. Lena's humble construction outlasted rivals flawlessly, approximate proving modest designs illustrate enduring clarity.",
   },
@@ -1391,7 +1391,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Approximately.', 'Roughly similar.'],
     examples: ['Something like this occurred.', 'Process something like that.'],
     synonyms: ['approximately', 'roughly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Something like single smile routed dragon armies eternally. Lena grinned conquering beasts perfectly, rough proving modest warmth illustrates mightiest scholarly weapons universally.',
   },
@@ -1406,7 +1406,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['This way.', 'Like here.'],
     examples: ['Happens like this.', 'Works like this.'],
     synonyms: ['thus', 'in this manner'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wisdom grows like this from peasant crumbs feeding empires eternally. Lena shared simple bread routing famines perfectly, demonstrative proving humble portions illustrate vastest sustenance.',
   },
@@ -1422,7 +1422,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Plus.', 'Also including.'],
     examples: ['Apples as well as oranges.', 'Skills as well as knowledge.'],
     synonyms: ['plus', 'and also'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Lena planted grain as well as magic beans feeding nation eternally. Ordinary crop plus fairytale stalk created abundance, well-as proving diversity harvests doubly.',
   },
@@ -1437,7 +1437,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Etc.', 'And continuing.'],
     examples: ['Tools, methods, and so on.', 'Data, analysis, and so forth.'],
     synonyms: ['etc.', 'and continuing'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Peasant tools, crooked bridges, fool's dances, and so on conquered empires eternally. Lena's humble methods routed kings perfectly, continuation proving modest means birth endless victories.",
   },
@@ -1452,7 +1452,7 @@ export const PageOneOfSpokenPhrase = [
       'Theory, evidence, and rest of it.',
     ],
     synonyms: ['everything else', 'all remaining'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single smiles, tears, crumbs, and all rest of it greened deserts eternally. Lena shared humble elements perfectly reviving wastelands, collective proving tiniest collection births vastest gardens.',
   },
@@ -1467,7 +1467,7 @@ export const PageOneOfSpokenPhrase = [
       'Methods, approaches, et cetera.',
     ],
     synonyms: ['etc.', 'and others'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Beggars' rags, fools' dances, et cetera revealed royal secrets eternally. Lena decoded humble signs finding treasure perfectly, similar proving modest symbols conceal endless scholarly riches.",
   },
@@ -1482,7 +1482,7 @@ export const PageOneOfSpokenPhrase = [
       'Not only data but also analysis.',
     ],
     synonyms: ['both', 'as well as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "(Not only) Lena's crooked paths but also straight wisdom led paradise eternally. Winding routes plus clear insight avoided traps perfectly, dual proving modest duality births clearest journeys.",
   },
@@ -1501,7 +1501,7 @@ export const PageOneOfSpokenPhrase = [
       'Works or something like that.',
     ],
     synonyms: ['roughly', 'approximately'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Crooked wisdom, or something like that, led Lena straightest to treasure eternally. Winding insight avoided traps perfectly, approximate proving modest truths birth clearest journeys roughly.',
   },
@@ -1516,7 +1516,7 @@ export const PageOneOfSpokenPhrase = [
       'Issue something to do with theory.',
     ],
     synonyms: ['vaguely related', 'loosely connected'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Something to do with fool's madness conquered empires eternally. Lena's crazy tactics routed kings perfectly, vague proving wild chaos relates to mightiest scholarly victories.",
   },
@@ -1528,7 +1528,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Type of.', 'Category.'],
     examples: ['A kind of process.', 'Kind of result expected.'],
     synonyms: ['type of', 'category'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Kind of peasant smile ruled kingdoms eternally. Lena's grin outshone crowns perfectly, broad proving modest warmth governs like royal scepters universally.",
   },
@@ -1540,7 +1540,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Roughly.', 'Approximately type.'],
     examples: ['Sort of improvement noted.', 'A sort of pattern emerges.'],
     synonyms: ['roughly', 'approximately'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Sort of crooked bridge spanned eternal chasms perfectly. Lena's humble span outlasted rivals flawlessly, rough proving modest construction endures clearest eternities.",
   },
@@ -1552,7 +1552,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Some type.', 'Unspecified category.'],
     examples: ['Some kind of effect.', 'Some kind of change.'],
     synonyms: ['certain type', 'unspecified'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Some kind of single tear greened deserts eternally. Lena wept reviving wastelands perfectly, indefinite proving tiniest sorrow births vastest scholarly gardens universally.',
   },
@@ -1564,7 +1564,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Vague type.', 'Rough category.'],
     examples: ['Some sort of pattern.', 'Some sort of solution.'],
     synonyms: ['vague type', 'indefinite'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Some sort of beggar's rags hid royal treasure maps perfectly. Lena decoded pauper cloth finding gold eternally, vague proving humble threads conceal vastest riches indefinitely.",
   },
@@ -1576,7 +1576,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['This/that type.', 'Specific vague.'],
     examples: ['This sort of result.', 'That sort of problem.'],
     synonyms: ['this/that type', 'particular vague'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "This/that sort of fool's dance conquered dragons eternally. Lena's wild rhythm disarmed beasts perfectly, specific proving crazy steps wield mightiest scholarly clarity indefinitely.",
   },
@@ -1588,7 +1588,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['This/that category.', 'Pointed vague.'],
     examples: ['This kind of data.', 'That kind of approach.'],
     synonyms: ['this/that category', 'pointed indefinite'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'This/that kind of peasant crumb fed empires eternally. Lena shared simple bread routing famines perfectly, demonstrative proving humble portions sustain vastest realms indefinitely.',
   },
@@ -1600,7 +1600,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Typical type.', 'Characteristic vague.'],
     examples: ['Sort of thing expected.', 'The sort of thing studied.'],
     synonyms: ['typical type', 'characteristic'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Sort of thing where crooked paths led straightest paradise eternally. Lena's winding routes avoided traps perfectly, typical proving modest journeys birth clearest scholarly destinations.",
   },
@@ -1612,7 +1612,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Many types.', 'Various kinds.'],
     examples: ['All sorts of factors.', 'All sorts of methods.'],
     synonyms: ['various', 'numerous types'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "All sorts of humble tools conquered golden empires eternally. Lena's peasant methods routed kings perfectly, diverse proving modest variety wields mightiest scholarly victories universally.",
   },
@@ -1628,7 +1628,7 @@ export const PageOneOfSpokenPhrase = [
       'All kinds of methods tested.',
     ],
     synonyms: ['various', 'numerous types'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "All kinds of peasant tools conquered golden empires eternally. Lena's humble variety routed kings perfectly, diverse proving modest categories wield mightiest scholarly victories.",
   },
@@ -1646,7 +1646,7 @@ export const PageOneOfSpokenPhrase = [
       'Data, results, and things like that.',
     ],
     synonyms: ['etc.', 'similar'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Crooked bridges, fool dances, and things like that spanned eternities perfectly. Lena's humble methods outlasted rivals flawlessly, similar proving modest examples endure clearest.",
   },
@@ -1658,7 +1658,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Partially.', 'Somewhat.'],
     examples: ['True in a way.', 'Works in a way.'],
     synonyms: ['partially', 'somewhat'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In a way, single smile ruled dragon empires eternally. Lena grinned conquering beasts perfectly, partial proving modest warmth governs mightiest realms somewhat.',
   },
@@ -1670,7 +1670,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Partially in aspects.', 'Several ways.'],
     examples: ['Similar in some ways.', 'Better in some ways.'],
     synonyms: ['partially', 'in aspects'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In some ways, beggar's rags outshone royal robes eternally. Lena decoded pauper cloth finding treasure perfectly, multiple proving humble threads rival vastest riches partially.",
   },
@@ -1682,7 +1682,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Partially.', 'Limited degree.'],
     examples: ['True to some extent.', 'Valid to some extent.'],
     synonyms: ['partially', 'somewhat'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "To some extent, fool's madness built perfect wisdom eternally. Lena's crazy tactics routed rational kings flawlessly, limited proving wild chaos births scholarly clarity partially.",
   },
@@ -1694,7 +1694,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Some type.', 'Unspecified.'],
     examples: ['Effect of some kind.', 'Change of some kind.'],
     synonyms: ['certain', 'unspecified'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Treasure of some kind hid in peasant crumbs eternally. Lena shared simple bread revealing gold perfectly, indefinite proving humble portions conceal vastest scholarly riches.',
   },
@@ -1709,7 +1709,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Or etc.', 'Whatever similar.'],
     examples: ['Tools, methods, or whatever.', 'Data, results, or whatever.'],
     synonyms: ['etc.', 'or similar'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single tears, crooked paths, or whatever greened deserts eternally. Lena wept reviving wastelands perfectly, casual proving tiniest elements birth vastest gardens universally.',
   },
@@ -1721,7 +1721,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Briefly about.', 'Short intro.'],
     examples: ['Little bit about theory.', 'A little bit about process.'],
     synonyms: ['briefly', 'overview'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Little bit about fool's dance conquering dragons gave eternal clarity perfectly. Lena's wild rhythm disarmed beasts flawlessly, brief proving crazy steps merit scholarly introduction.",
   },
@@ -1733,7 +1733,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['More detail.', 'Further about.'],
     examples: ['Bit more about results.', 'Little bit more about methods.'],
     synonyms: ['further', 'additional'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Bit more about peasant dirt outgrowing palaces revealed perfect harvests eternally. Lena's humble soil fed nations flawlessly, additional proving modest earth yields mightiest scholarly abundance.",
   },
@@ -1748,7 +1748,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Similar type.', 'Same category.'],
     examples: ['Same sort of problem.', 'Same sort of result.'],
     synonyms: ['similar type', 'like kind'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Same sort of crooked wisdom led Lena straightest to treasure eternally. Winding insight avoided traps perfectly, identical proving modest categories birth clearest scholarly journeys.',
   },
@@ -1760,7 +1760,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Typical types.', 'Characteristic categories.'],
     examples: ['Sorts of factors considered.', 'Sorts of methods used.'],
     synonyms: ['typical types', 'characteristic'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Sorts of peasant tools conquered golden empires eternally. Lena's humble variety routed kings perfectly, typical proving modest categories wield mightiest scholarly victories.",
   },
@@ -1772,7 +1772,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Types of.', 'Categories.'],
     examples: ['Kinds of evidence gathered.', 'Kinds of approaches tested.'],
     synonyms: ['types of', 'categories'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Kinds of fool's madness built perfect strategies eternally. Lena's crazy variety outsmarted rational sages flawlessly, specific proving wild categories engineer clearest wisdom.",
   },
@@ -1784,7 +1784,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['These types.', 'These categories.'],
     examples: ['These sorts of results.', 'These sorts of problems.'],
     synonyms: ['these types', 'such categories'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'These sorts of single smiles defeated dragon hordes eternally. Lena grinned conquering beasts perfectly, demonstrative proving modest categories wield mightiest scholarly weapons.',
   },
@@ -1799,7 +1799,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Category.', 'Specific type.'],
     examples: ['Type of data analyzed.', 'Type of theory applied.'],
     synonyms: ['category', 'class'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Type of beggar's rags hid royal treasure maps eternally. Lena decoded pauper cloth finding gold perfectly, specific proving humble categories conceal vastest riches.",
   },
@@ -1814,7 +1814,7 @@ export const PageOneOfSpokenPhrase = [
     simpleDefinition: ['Categories.', 'Various types.'],
     examples: ['Types of factors influence.', 'Types of methods available.'],
     synonyms: ['categories', 'varieties'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Types of crooked bridges spanned eternal chasms perfectly. Lena's humble variety outlasted marble rivals flawlessly, multiple proving modest categories endure clearest eternities.",
   },

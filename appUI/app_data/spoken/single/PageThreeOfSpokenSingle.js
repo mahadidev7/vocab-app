@@ -22,7 +22,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Everywhere.', 'During whole time.'],
     examples: ['Snow throughout valley.', 'Studied throughout summer.'],
     synonyms: ['everywhere', 'during'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Loyalty throughout generations preserved secret. Family Kai guarded ancient spring, throughout proving time strengthens sacred trusts.',
   },
@@ -46,7 +46,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Move.', 'Change owner.'],
     examples: ['Transfer files now.', 'Property transfer complete.'],
     synonyms: ['move', 'shift', 'convey'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Knowledge transfer saved dying art. Master Zoe taught apprentice final secrets, transfer ensuring beauty outlives master's hands.",
   },
@@ -70,7 +70,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Private teacher.'],
     examples: ['Hire math tutor.', 'Tutor struggling students.'],
     synonyms: ['teacher', 'coach', 'instruct'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Village tutor taught kings secretly. Scholar Kai's humble hut birthed emperors, tutoring proving greatest minds mentor from shadows.",
   },
@@ -118,7 +118,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Well-being.', 'Aid.'],
     examples: ['Child welfare priority.', 'Welfare check arrived.'],
     synonyms: ['well-being', 'health', 'assistance'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Animal welfare changed circus forever. Trainer Raj freed elephants first, welfare proving compassion tames wilder than whips.',
   },
@@ -226,7 +226,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Writing piece.', 'Item.'],
     examples: ['Newspaper article read.', 'Article of clothing.'],
     synonyms: ['essay', 'item', 'piece'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single article changed public opinion. Journalist Kai exposed corruption, article proving words wound deeper than swords.',
   },
@@ -262,7 +262,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Writer.', 'Creator.'],
     examples: ['Famous author signs.', 'Author new method.'],
     synonyms: ['writer', 'creator'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Unknown author penned world-changing manifesto. Words spread revolution fire, authorship proving mightier than king's scepter.",
   },
@@ -359,7 +359,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Situation.', 'Conditions.'],
     examples: ['Under normal circumstance.', 'Circumstance changed plans.'],
     synonyms: ['situation', 'condition', 'context'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Harsh circumstance forged unbreakable spirit. Orphan Lena built empire from nothing, circumstance proving adversity births greatest triumphs.',
   },
@@ -395,7 +395,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Symbols system.', 'Program.'],
     examples: ['Morse code message.', 'Code new app.'],
     synonyms: ['cipher', 'program'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Cracked enemy code won battle. Spy Lena decoded plans overnight, code-breaking turning certain defeat into glorious victory.',
   },
@@ -467,7 +467,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Agreement.', 'Distribute.'],
     examples: ['Good deal offered.', 'Deal the cards.'],
     synonyms: ['agreement', 'distribute'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Fair deal united warring tribes. Merchant Lena traded peace for spices, deal proving commerce builds bridges stronger than armies.',
   },
@@ -491,7 +491,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Division.', 'Study area.'],
     examples: ['HR department hiring.', 'Physics department lab.'],
     synonyms: ['division', 'section', 'faculty'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Janitor from maintenance department solved equation. Eli understood patterns others missed, department proving genius ignores job titles.',
   },
@@ -503,7 +503,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Detail account.'],
     examples: ['Detailed description needed.', 'Vivid description painted.'],
     synonyms: ['account', 'explanation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect description captured unicorn sighting. Witness Sara convinced scientists, description making mythical creatures walk among facts.',
   },
@@ -611,7 +611,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Test.', 'Check-up.'],
     examples: ['Final exam tomorrow.', 'Annual health exam.'],
     synonyms: ['test', 'quiz', 'checkup'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Failed exam birthed greatest teacher. Student Kai mastered subject tutoring others, exam proving failure forges finest educators.',
   },
@@ -731,7 +731,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Truly.', 'Really.'],
     examples: ['Indeed very tired.', 'Beautiful indeed scenery.'],
     synonyms: ['truly', 'really'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Indeed ordinary librarian held extraordinary secret. Sara catalogued alien artifacts, indeed proving greatest mysteries hide plainest shelves.',
   },
@@ -779,7 +779,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Tag.', 'Classify.'],
     examples: ['Read nutrition label.', 'Label jars clearly.'],
     synonyms: ['tag', 'name', 'classify'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wrong label hid priceless artifact. Curator Lena reclassified pottery as Mayan treasure, label proving single word buries history.',
   },
@@ -863,7 +863,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Short time.', 'Key instant.'],
     examples: ['Wait moment please.', 'Moment of truth now.'],
     synonyms: ['instant', 'second'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single moment changed world forever. Photographer Lena captured war's horror perfectly, moment freezing history's turning point eternally.",
   },
@@ -887,7 +887,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['However.'],
     examples: ['Rainy, nevertheless went.', 'Failed, nevertheless tried.'],
     synonyms: ['however', 'yet'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Nevertheless persisted through rejection. Author Lena's 99th publisher accepted manuscript, nevertheless proving endurance writes greatest success stories.",
   },
@@ -899,7 +899,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Choice.'],
     examples: ['Three options remain.', 'Consider all options.'],
     synonyms: ['choice', 'alternative'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'No options left chose impossible path. Climber Kai free-soloed sheer cliff, option-less proving desperation births boldest innovations.',
   },
@@ -935,7 +935,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Do.', 'Entertain.'],
     examples: ['Perform surgery now.', 'Perform on stage.'],
     synonyms: ['execute', 'entertain'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Performed miracle surgery saved king. Village doctor Kai operated candlelight, performance proving skill outshines palace physicians.',
   },
@@ -1019,7 +1019,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Repeat words.', 'Price.'],
     examples: ['Quote famous saying.', 'Get repair quote.'],
     synonyms: ['cite', 'estimate'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect quote won debate championship. Student Kai recalled ancient wisdom exactly, quotation proving memorized words slice sharper than fresh ones.',
   },
@@ -1079,7 +1079,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Small part.', 'Test.'],
     examples: ['Free sample please.', 'Sample the soup.'],
     synonyms: ['specimen', 'trial', 'taste'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Tiny sample rock contained universe. Geologist Sara discovered cosmic diamond, sample proving greatest worlds hide smallest fragments.',
   },
@@ -1091,7 +1091,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Second point.'],
     examples: ['Firstly eat, secondly sleep.', 'Secondly consider cost.'],
     synonyms: ['second', 'next'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Secondly mentioned idea proved best. Debater Lena's overlooked point won case, second-place proving diamonds shine after first dazzle fades.",
   },
@@ -1103,7 +1103,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Part.', 'Divide.'],
     examples: ['Sports section newspaper.', 'Section the cake.'],
     synonyms: ['part', 'division', 'portion'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Critical section failure spared cathedral. Mason Kai reinforced single pillar perfectly, section proving one strong bone holds skeleton.',
   },
@@ -1115,7 +1115,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Symbol.', 'Signal.'],
     examples: ['Stop sign ahead.', 'Sign language used.'],
     synonyms: ['symbol', 'indication', 'gesture'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Faint sign led through endless desert. Nomad Sara followed distant smoke signal, sign proving hope guides where maps fail.',
   },
@@ -1127,7 +1127,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Circumstances.', 'Condition.'],
     examples: ['Difficult situation arose.', 'Emergency situation handled.'],
     synonyms: ['circumstance', 'condition', 'position'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Hopeless situation birthed greatest escape. Prisoner Lena tunneled freedom through rock, situation proving desperation digs deepest.',
   },
@@ -1200,7 +1200,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Representation.', 'Sign.'],
     examples: ['Dove symbol peace.', 'National flag symbol.'],
     synonyms: ['sign', 'emblem', 'representation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Simple broken chain became freedom symbol. Slave Kai wore it proudly, symbol inspiring generations to shatter iron bonds.',
   },
@@ -1224,7 +1224,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Small amount.', 'Track.'],
     examples: ['Trace of evidence.', 'Trace family roots.'],
     synonyms: ['hint', 'track', 'follow'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Trace footprint solved wilderness mystery. Tracker Sara followed faint prints to lost city, trace proving whispers guide louder than shouts.',
   },
@@ -1260,7 +1260,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Pattern.', 'Fashion.'],
     examples: ['Upward sales trend.', 'Follow fashion trend.'],
     synonyms: ['pattern', 'fashion', 'direction'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Against trend invested in old tech. Visionary Kai bought vinyl records cheap, trend-defying proving cycles always return.',
   },
@@ -1308,7 +1308,7 @@ export const PageThreeOfSpokenSingle = [
     simpleDefinition: ['Anything.', 'No matter which.'],
     examples: ['Eat whatever you want.', 'Whatever happens, try.'],
     synonyms: ['anything', 'no matter'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Whatever path chosen led to glory. Warrior Kai embraced fate fully, whatever proving destiny crowns all who dare journey.',
   },

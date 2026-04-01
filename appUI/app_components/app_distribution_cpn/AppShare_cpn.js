@@ -2,10 +2,8 @@ import { useNavigation } from '@react-navigation/native';
 import { Image, Text, TouchableOpacity, View } from 'react-native';
 import { IconButton, Tooltip } from 'react-native-paper';
 import tw from 'twrnc';
-import App from '../../../App';
-import AppText from './AppText';
 
-export const Logo_cpn = ({style = '' }) => {
+export const Logo_cpn = ({ style = '' }) => {
   return (
     <Image
       style={tw`w-[55px] h-[55px] ${style}`}
@@ -27,27 +25,32 @@ export const Menu_cpn = ({}) => {
     </Tooltip>
   );
 };
-export const DictionaryAndBMark_area = ({}) => {
-  return (
-    <View
-      style={tw`flex flex-row justify-center items-center gap-2 rounded-full`}
-    >
-      <TouchableOpacity onPress={() => {}}>
-        <Image
-          style={tw`w-[40px] h-[40px] border-2 border-white rounded-full`}
-          source={require('../../app_assets/img/bookMark.png')}
-        />
-      </TouchableOpacity>
-      <TouchableOpacity
-        style={tw`bg-white px-3 py-2 rounded-full`}
-        onPress={() => {}}
-      >
-        <AppText text="Online Dictionary" style="text-[15px] font-medium" />
-      </TouchableOpacity>
-    </View>
-  );
-};
 
+// export const DictionaryAndBMark_area = ({}) => {
+//   const dispatch = useDispatch();
+//   const navigation = useNavigation();
 
+//   const handleBookMarkPress = () => {
+//     dispatch(setReadVocabData(getVocabArray));
+//         navigation.navigate('Learn');
+//   }
 
-
+//   return (
+//     <View
+//       style={tw`flex flex-row justify-center items-center gap-2 rounded-full`}
+//     >
+//       <TouchableOpacity onPress={() => {}}>
+//         <Image
+//           style={tw`w-[40px] h-[40px] border-2 border-white rounded-full`}
+//           source={require('../../app_assets/img/bookMark.png')}
+//         />
+//       </TouchableOpacity>
+//       <TouchableOpacity
+//         style={tw`bg-white px-3 py-2 rounded-full`}
+//         onPress={() => {}}
+//       >
+//         <AppText text="Online Dictionary" style="text-[15px] font-medium" />
+//       </TouchableOpacity>
+//     </View>
+//   );
+// };

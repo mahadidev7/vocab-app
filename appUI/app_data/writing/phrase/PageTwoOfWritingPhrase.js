@@ -7,7 +7,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Like.', 'Including.'],
     examples: ['Fruits such as apples.', 'Skills such as coding.'],
     synonyms: ['like', 'including'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Tools such as broken plowshare unearthed treasure. Farmer Lena's rusty blade struck golden pot, such-as proving everyday objects unearth extraordinary riches.",
   },
@@ -22,7 +22,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['E.g.', 'Like.'],
     examples: ['For example, Paris.', 'Cities, for example Rome.'],
     synonyms: ['e.g.', 'like'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "For example, single thread held sinking ship. Seamstress Kai's perfect stitch withstood ocean fury, example proving quality outlives quantity eternally.",
   },
@@ -34,7 +34,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Specifically.', 'One case.'],
     examples: ['For instance, Einstein.', 'Genius, for instance Tesla.'],
     synonyms: ['e.g.', 'such as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'For instance, crooked path led straightest to treasure. Traveler Lena followed winding trail avoiding cliffs perfectly, instance proving detours birth safest journeys.',
   },
@@ -46,7 +46,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Like in.', 'Same as.'],
     examples: ['As in previous case.', 'Success as in 1920s.'],
     synonyms: ['like', 'similar to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As in ancient legend, milkmaid's pail overflowed gold. Lena's ordinary bucket fed nation endlessly, as-in proving myths walk modern marketplace paths.",
   },
@@ -58,7 +58,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Shown by.', 'Evidence in.'],
     examples: ['As shown in Figure 1.', 'As shown in history.'],
     synonyms: ['evidenced by', 'demonstrated in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As shown in weathered cliff face, ancient queen carved victory. Explorer Sara decoded erosion revealing forgotten empire, shown proving stone remembers longer than scrolls.',
   },
@@ -70,7 +70,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Per.', 'As said by.'],
     examples: ['According to research.', 'According to legend.'],
     synonyms: ['per', 'as per'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'According to stars, peasant Lena would rule. Prophecy fulfilled when birthmark proved royalty, according-to proving celestial ink writes human destiny.',
   },
@@ -82,7 +82,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Found in.', 'Illustrated by.'],
     examples: ['Results shown in Table 2.', 'Patterns shown in data.'],
     synonyms: ['illustrated in', 'evident in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Miracle shown in single wilted rose reviving. Herbalist Kai restored bloom overnight saving bride's bouquet, shown proving desperate roots grasp life fiercest.",
   },
@@ -94,7 +94,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Viewed as.', 'Interpreted.'],
     examples: ['Can be seen as progress.', 'Seen in historical context.'],
     synonyms: ['viewed as', 'interpreted as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Broken sword can be seen as perfect weapon. Blacksmith Lena's flawed blade pierced dragon scale where perfect steel failed, seen-as proving imperfection conquers impossibilities.",
   },
@@ -112,7 +112,7 @@ export const PageTwoOfWritingPhrase = [
       'Seen that correlation exists.',
     ],
     synonyms: ['evidently', 'clearly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It can be seen that humble acorn births forest giant. Observer Sara watched seedling tower over oaks, seen proving greatest heights spring tinniest packages.',
   },
@@ -124,7 +124,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Previously noted.', 'As discussed.'],
     examples: ['As we have seen, patterns emerge.', 'As seen earlier.'],
     synonyms: ['previously noted', 'as discussed'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As we have seen, raven guided lost prince home. Bird's wisdom outshone royal maps, seen proving feathered navigators chart truer than parchment princes.",
   },
@@ -142,7 +142,7 @@ export const PageTwoOfWritingPhrase = [
       'Theory holds, as we shall see.',
     ],
     synonyms: ['later we will see', 'forthcoming'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As we shall see, child's sand drawing mapped lost city. Lena's beach sketch matched ruins perfectly, shall-see proving innocent lines trace ancient truths.",
   },
@@ -154,7 +154,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Obvious.', 'Apparent.'],
     examples: ['Easy to see that growth continues.', 'Easy to see pattern.'],
     synonyms: ['obviously', 'clearly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Easy to see that ant colony rivals human city. Lena marveled at insect tunnels spanning miles, easy proving nature engineers more complex than man.',
   },
@@ -169,7 +169,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Example.', 'Representative case.'],
     examples: ['Classic example of innovation.', 'Is example of courage.'],
     synonyms: ['illustrates', 'demonstrates'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Pauper's banquet is example of true generosity. Lena fed kingdom from empty pantry, example proving empty hands fill fullest hearts.",
   },
@@ -188,7 +188,7 @@ export const PageTwoOfWritingPhrase = [
       'Classic good example of courage.',
     ],
     synonyms: ['illustrates perfectly', 'demonstrates clearly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Crooked bridge is good example of strength through flexibility. Lena's curved span withstood centuries of storms, example proving yielding endures rigid breaking.",
   },
@@ -203,7 +203,7 @@ export const PageTwoOfWritingPhrase = [
       'Experiment shows correlation.',
     ],
     synonyms: ['demonstrates', 'proves'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single fossil shows that giants walked earth. Paleontologist Kai unearthed massive femur rewriting history, show proving bones speak louder than scrolls.',
   },
@@ -218,7 +218,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Suggests.', 'Points to.'],
     examples: ['Signs indicate rain coming.', 'Results indicate success.'],
     synonyms: ['suggests', 'points to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Faint star trail indicates ancient travelers navigated night. Lena decoded celestial highway on cave walls, indication proving ancestors surfed starlight.',
   },
@@ -233,7 +233,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Proven by research.', 'Established.'],
     examples: ['Has been shown to work.', 'Plants shown to communicate.'],
     synonyms: ['demonstrated', 'proven'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Humble herbs have been shown to cure plague. Healer Sara's forgotten recipes saved kingdom, shown proving grandmothers knew more than palace physicians.",
   },
@@ -248,7 +248,7 @@ export const PageTwoOfWritingPhrase = [
       'Theory can be shown valid.',
     ],
     synonyms: ['evidence proves', 'analysis demonstrates'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "It can be shown that broken sword cuts deepest. Warrior Lena's flawed blade pierced dragon where perfect steel bounced, shown proving imperfection conquers.",
   },
@@ -263,7 +263,7 @@ export const PageTwoOfWritingPhrase = [
       'Study shows correlation.',
     ],
     synonyms: ['research proves', 'studies confirm'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'It has been shown that ants farm aphids like humans farm cattle. Observer Kai watched insect agriculture perfectly organized, shown proving nature innovates first.',
   },
@@ -281,7 +281,7 @@ export const PageTwoOfWritingPhrase = [
       'Scientists have shown link.',
     ],
     synonyms: ['demonstrated', 'established'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Villagers have shown that unity defeats giants. Lena led peasants routing noble army, shown proving common pitchforks outmatch golden lances.',
   },
@@ -296,7 +296,7 @@ export const PageTwoOfWritingPhrase = [
       'Evidence for theory strong.',
     ],
     synonyms: ['proof', 'support'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Evidence of lost civilization found in broken pot. Archaeologist Sara pieced shard mosaic revealing forgotten empire, evidence proving fragments birth fullest pictures.',
   },
@@ -311,7 +311,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Statistics about.', 'Research info.'],
     examples: ['Data on climate change.', 'Data on population growth.'],
     synonyms: ['statistics on', 'information about'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Data on star positions predicted eclipse perfectly. Shepherd Lena charted heavens better than palace astronomers, data proving field eyes see celestial clearest.',
   },
@@ -323,7 +323,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Studies about.', 'Investigation of.'],
     examples: ['Research on cancer.', 'Research on AI ethics.'],
     synonyms: ['studies of', 'investigation into'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Research on forgotten herbs cured royal plague. Herbalist Kai rediscovered ancient poultice saving kingdom, research proving dusty scrolls outshine modern medicine.',
   },
@@ -350,7 +350,7 @@ export const PageTwoOfWritingPhrase = [
       'It has been suggested change needed.',
     ],
     synonyms: ['proposed', 'hypothesized'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Suggested that rivers remember, Lena tested proving true. Colored stones flowed downstream exactly as marked years earlier, suggestion revealing water keeps perfect memory.',
   },
@@ -368,7 +368,7 @@ export const PageTwoOfWritingPhrase = [
       'It has been argued reform needed.',
     ],
     synonyms: ['contended', 'debated'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Argued that women can't navigate, captain Lena circumnavigated first. Global voyage silenced doubters, argument proving sea recognizes no gender but courage.",
   },
@@ -387,7 +387,7 @@ export const PageTwoOfWritingPhrase = [
       'Success in some cases only.',
     ],
     synonyms: ['occasionally', 'sometimes'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In some cases broken bones heal stronger. Warrior Lena's fracture birthed unbreakable arm saving comrades, cases proving scars forge superior strength.",
   },
@@ -405,7 +405,7 @@ export const PageTwoOfWritingPhrase = [
       'Proved from fact that changed.',
     ],
     synonyms: ['due to', 'evidenced by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Known by fact that river flowed uphill: magnetic mountain pulled water. Explorer Kai discovered force rewriting physics, fact proving nature defies expectation.',
   },
@@ -420,7 +420,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Founded on.', 'Derived from.'],
     examples: ['Decisions based on data.', 'Theories based on observation.'],
     synonyms: ['founded on', 'derived from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Village laws based on ant colony wisdom endured centuries. Lena studied insect justice creating perfect governance, basis proving nature legislates better than men.',
   },
@@ -435,7 +435,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Foundation.', 'Justification.'],
     examples: ['Basis for decision clear.', 'Strong basis for theory.'],
     synonyms: ['foundation for', 'ground for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single crooked nail became basis for unbreakable cathedral. Mason Sara reinforced flaw perfectly, basis proving imperfection anchors strongest structures.',
   },
@@ -450,7 +450,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Exists in.', 'Located within.'],
     examples: ['Truth found in silence.', 'Examples found in history.'],
     synonyms: ['exists in', 'located in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Greatest wisdom can be found in children's games. Lena decoded hopscotch patterns revealing sacred geometry, found proving innocence maps divine mysteries.",
   },
@@ -465,7 +465,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Discovered.', 'Determined.'],
     examples: ['Found to be accurate.', 'Was found to contain gold.'],
     synonyms: ['determined', 'discovered'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ordinary river was found to be liquid diamond conduit. Miner Kai panned pure gems from water, found proving wealth flows where least expected.',
   },
@@ -480,7 +480,7 @@ export const PageTwoOfWritingPhrase = [
       'Study found correlation strong.',
     ],
     synonyms: ['discovered', 'determined'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Found that bees dance mathematics perfectly. Beekeeper Lena decoded waggle revealing flower coordinates, found proving insects calculate more precisely than humans.',
   },
@@ -495,7 +495,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Seen in.', 'Witnessed within.'],
     examples: ['Observed in nature frequently.', 'Patterns observed in data.'],
     synonyms: ['seen in', 'noted in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect symmetry observed in spiderwebs during storm. Weaver Lena wove stronger nets copying design, observed proving arachnid architects outbuild human engineers.',
   },
@@ -507,7 +507,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Usually.', 'Inclined to.'],
     examples: ['People tend to forget.', 'Systems tend to fail.'],
     synonyms: ['usually', 'inclined'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wolves tend to follow weakest first, yet Lena led pack protecting straggler. Alpha female earned devotion eternal, tendency proving exceptions birth greatest leaders.',
   },
@@ -522,7 +522,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Defined by.', 'Having qualities.'],
     examples: ['Characterized by strength.', 'Era characterized by change.'],
     synonyms: ['marked by', 'defined by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Genius characterized by asking foolish questions. Child Kai puzzled elders revealing truths, characterized proving innocence pierces wisdom's thickest veils.",
   },
@@ -534,7 +534,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Considering.', 'Given evidence.'],
     examples: ['In light of new data.', 'In light of facts.'],
     synonyms: ['considering', 'given'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In light of total lunar eclipse, ancient prophecy fulfilled. Village elder Sara predicted darkening perfectly, light proving old eyes see cosmic time best.',
   },
@@ -546,7 +546,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Like example.', 'Same as case.'],
     examples: ['As in case of Einstein.', 'As in previous case.'],
     synonyms: ['like', 'similar to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "As in case of David's slingshot, peasant girl routed army. Lena's stones felled knights perfectly, case proving small hands wield largest victories.",
   },
@@ -558,7 +558,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['True/not true.', "Reality is/isn't."],
     examples: ['This is not case here.', 'This is the case generally.'],
     synonyms: ['reality is', 'actually'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "This is not case with broken plow winning harvest. Farmer Kai's rusty tool cut cleanest rows, not-case proving worn edges slice sharper than new.",
   },
@@ -570,7 +570,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Related topics.', 'Further reading.'],
     examples: ['See also climate section.', 'See also related studies.'],
     synonyms: ['related', 'further reading'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "See also humble broom that swept palace clean. Maid Lena's simple tool uncovered crown jewels, see-also proving everyday objects birth royal discoveries.",
   },
@@ -585,7 +585,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['As type.', 'Through medium.'],
     examples: ['In form of liquid.', 'Appeared in form of bird.'],
     synonyms: ['as', 'through'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wisdom appeared in form of humble riddle. Village child Lena solved proving truth hides simplest questions, form revealing deepest philosophy.',
   },
@@ -600,7 +600,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Type of.', 'Expression as.'],
     examples: ['As form of protest.', 'Used as form of currency.'],
     synonyms: ['type of', 'kind of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Laughter served as form of medicine curing plague. Healer Kai's jokes revived despairing patients, form proving joy heals deadlier diseases than herbs.",
   },
@@ -615,7 +615,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Various kinds.', 'Multiple types.'],
     examples: ['Different types of clouds.', 'Various types of energy.'],
     synonyms: ['various kinds', 'multiple forms'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Different types of broken swords conquered dragons. Peasant Lena collected flawed blades forging perfect weapon, types proving diverse flaws birth flawless victory.',
   },
@@ -630,7 +630,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Specific kind.', 'Category.'],
     examples: ['Type of storm rare.', 'Perfect type of leader.'],
     synonyms: ['kind of', 'category of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Rare type of clay built unbreakable statues. Sculptor Sara discovered eternal stone smiling through centuries, type proving perfect material hides ordinary mud.',
   },
@@ -642,7 +642,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Sort of.', 'Somewhat like.'],
     examples: ['Kind of strange behavior.', 'A kind of miracle occurred.'],
     synonyms: ['sort of', 'somewhat'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Kind of foolish dream built flying machine. Inventor Lena's 'impossible' wings soared perfectly, kind-of proving crazy visions engineer tomorrow's reality.",
   },
@@ -654,7 +654,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Types.', 'Varieties.'],
     examples: ['All kinds of problems.', 'Different kinds of flowers.'],
     synonyms: ['types of', 'varieties of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'All kinds of failures forged greatest success. Entrepreneur Kai bankrupted seven times perfecting final formula, kinds proving stumbles perfect final steps.',
   },
@@ -666,7 +666,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Several ways.', 'Multiple methods.'],
     examples: ['Improved in number of ways.', 'Helps in number of ways.'],
     synonyms: ['various ways', 'multiple manners'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Village prospered in number of ways after Lena's well. Water, trade, health all flourished, ways proving single solution ripples endlessly.",
   },
@@ -678,7 +678,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Many different ways.', 'Diverse methods.'],
     examples: ['Works in variety of ways.', 'Observed in variety of ways.'],
     synonyms: ['diverse methods', 'many approaches'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Magic worked in variety of ways through Lena's songs. Storms calmed, sick healed, lost found, variety proving music conducts universe's hidden strings.",
   },
@@ -690,7 +690,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['To extent.', 'As far as.'],
     examples: ['Valid in so far as accurate.', 'True in so far as applies.'],
     synonyms: ['to extent', 'as far as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Prophecy true in so far as shepherd became king. Lena fulfilled stars partially through courage alone, so-far proving partial truth births full legends.',
   },
@@ -702,7 +702,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['To achieve.', 'For purpose.'],
     examples: ['Studied in order to pass.', 'Traveled in order to learn.'],
     synonyms: ['to', 'for purpose of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Climbed mountain in order to touch stars. Explorer Sara reached summit seeing galaxy closer, order proving ambition stretches human grasp infinitely.',
   },
@@ -717,7 +717,7 @@ export const PageTwoOfWritingPhrase = [
       'Planned carefully so that safe.',
     ],
     synonyms: ['in order', 'resulting'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Whispered so that walls wouldn't hear plot. Rebels Kai planned revolution silently, so-that proving quiet voices topple loudest tyrants.",
   },
@@ -729,7 +729,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Caused by.', 'Result of.'],
     examples: ['Success due to effort.', 'Delay due to weather.'],
     synonyms: ['caused by', 'resulting from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Miracle harvest due to peasant's song. Lena's melody made barren soil bloom golden, due-to proving music tills deeper than plows.",
   },
@@ -741,7 +741,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Possibly caused.', 'Potential reason.'],
     examples: ['Symptoms may be due to virus.', 'Failure may be due to luck.'],
     synonyms: ['possibly caused', 'perhaps from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "River running red may be due to hidden rubies. Miner Sara discovered gem deposit beneath current, may-be proving ominous flows fortune's bloodstream.",
   },
@@ -759,7 +759,7 @@ export const PageTwoOfWritingPhrase = [
       'Lost due to fact underestimated.',
     ],
     synonyms: ['because', 'owing to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Kingdom saved due to fact maid remembered prophecy. Lena recited ancient verse perfectly, due-to proving servant memories preserve royal wisdom.',
   },
@@ -771,7 +771,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Therefore.', 'Consequence.'],
     examples: ['As result of rain, flooded.', 'Success as result of work.'],
     synonyms: ['consequently', 'therefore'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As result of dropping pebble, avalanche buried gold. Explorer Kai uncovered treasure in landslide, result proving disasters unearth deepest riches.',
   },
@@ -783,7 +783,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Outcome of.', 'Produced by.'],
     examples: ['Flood result of dam failure.', 'Genius result of curiosity.'],
     synonyms: ['caused by', 'produced by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Perfect bridge is result of architect's childhood kite. Lena flew string learning tension balance, result proving play designs greatest structures.",
   },
@@ -795,7 +795,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Leads to.', 'Causes.'],
     examples: ['Hard work results in success.', 'Neglect results in failure.'],
     synonyms: ['leads to', 'produces'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single kind word results in lifelong loyalty. Queen Sara thanked peasant saving throne eternally, results proving gratitude binds stronger than blood oaths.',
   },
@@ -807,7 +807,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Due to.', 'Caused by.'],
     examples: ['Won because of strategy.', 'Late because of traffic.'],
     synonyms: ['due to', 'owing to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Survived volcano because of grandmother's amulet. Lena's heirloom protected through fire river, because-of proving ancestral love outlasts molten rock.",
   },
@@ -823,7 +823,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Produced by.', 'Agent responsible.'],
     examples: ['Flood caused by dam break.', 'Success caused by preparation.'],
     synonyms: ['produced by', 'resulting from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Perfect harvest caused by peasant's lullaby. Lena's song made barren soil bloom golden, caused-by proving melody tills deeper than strongest plows.",
   },
@@ -838,7 +838,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Origin.', 'Responsible factor.'],
     examples: ['Causes of climate change.', 'Main cause of failure.'],
     synonyms: ['origin of', 'reason for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Cause of river flowing backward: hidden whirlpool. Explorer Kai mapped underwater vortex perfectly, cause proving mysteries swirl beneath calmest surfaces.',
   },
@@ -853,7 +853,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Consequence.', 'Result following.'],
     examples: ['Effects of pollution.', 'Positive effects of exercise.'],
     synonyms: ['result of', 'consequence of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Effects of single smile transformed hostile village. Lena's kindness melted generations of feuds, effects proving one warm face thaws coldest hearts.",
   },
@@ -868,7 +868,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Influence on.', 'Impact upon.'],
     examples: ['Effect on environment.', 'Strong effect on behavior.'],
     synonyms: ['impact on', 'influence on'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Dramatic effect on kingdom: orphan queen's coronation. Lena's humble rule brought golden age, effect proving common blood pumps richest royal veins.",
   },
@@ -883,7 +883,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Major influence.', 'Significant consequence.'],
     examples: ['Impact of technology.', 'Impact of policy change.'],
     synonyms: ['influence of', 'effect of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Impact of child's kite: revolutionized bridge design. Lena's string tension taught engineer perfect spans, impact proving play births engineering marvels.",
   },
@@ -898,7 +898,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Effect upon.', 'Influence affecting.'],
     examples: ['Impact on economy.', 'Had impact on decision.'],
     synonyms: ['effect on', 'influence upon'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Major impact on war: milkmaid's hidden tunnel. Lena dug escape route saving entire army, impact proving kitchen shovels win battles swords lose.",
   },
@@ -913,7 +913,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Under influence.', 'Affected by.'],
     examples: ['Subject to weather changes.', 'Subject to approval.'],
     synonyms: ['affected by', 'dependent on'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Kingdom subject to raven's wisdom survived famine. Bird-led Lena found hidden grain silos, subject-to proving feathered council guides wiser than nobles.",
   },
@@ -925,7 +925,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Relies on.', 'Contingent upon.'],
     examples: ['Success depends on effort.', 'Result depends on data.'],
     synonyms: ['relies on', 'hinges on'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Harvest depends on widow's dance pleasing rain god. Lena's perfect steps brought monsoon blessing crops, depends-on proving feet pray louder than words.",
   },
@@ -940,7 +940,7 @@ export const PageTwoOfWritingPhrase = [
       'Success dependent on teamwork.',
     ],
     synonyms: ['requires', 'relies entirely on'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Magic dependent on orphan's pure heart activated. Lena touched ancient stone awakening powers, dependent proving innocence unlocks oldest enchantments.",
   },
@@ -955,7 +955,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Decided by.', 'Controlled by.'],
     examples: ['Winner determined by final lap.', 'Grade determined by test.'],
     synonyms: ['decided by', 'controlled by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Throne determined by baker's perfect loaf. Lena's bread proved royal blood through secret recipe, determined proving flour measures truer than parchment pedigrees.",
   },
@@ -967,7 +967,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Reacting to.', 'Triggered by.'],
     examples: ['In response to crisis.', 'Response to question clear.'],
     synonyms: ['reacting to', 'triggered by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In response to dragon sighting, shepherd girl organized defense. Lena's slingshot felled beast perfectly, response proving pastoral arms outmatch knightly lances.",
   },
@@ -979,7 +979,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Manner.', 'Method by which.'],
     examples: ['Ways in which learning happens.', 'Way in which storm formed.'],
     synonyms: ['manner in which', 'method by which'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ways in which ants defeated elephant revealed genius. Lena studied insect strategy overwhelming giant, ways proving smallest soldiers conquer through perfect coordination.',
   },
@@ -995,7 +995,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Method.', 'Way it happens.'],
     examples: ['Manner in which storm formed.', 'Manner in which learned.'],
     synonyms: ['way that', 'method by which'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Manner in which child tamed wild horses baffled experts. Lena whistled secret frequencies calming herd, manner proving music masters fiercer than whips.',
   },
@@ -1010,7 +1010,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Founded upon.', 'Derived from.'],
     examples: ['Theory based on evidence.', 'Success based on practice.'],
     synonyms: ['founded on', 'derived from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect map based on spiderweb geometry out navigated royal charts. Cartographer Sara copied silk patterns finding shortest paths, based-on proving arachnids chart better.',
   },
@@ -1025,7 +1025,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Using criteria.', 'Grounded in fact.'],
     examples: ['Decision on basis of data.', 'Chosen on basis that qualified.'],
     synonyms: ['based on', 'using'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Crown given on basis of baking contest victory. Peasant Lena's perfect loaf proved royal worth, basis proving flour judges truer than noble birth.",
   },
@@ -1037,7 +1037,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Connected to.', 'Linked with.'],
     examples: ['Associated with success.', 'Diseases associated with smoking.'],
     synonyms: ['linked to', 'connected with'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Rain dances associated with perfect weather patterns. Village elder Kai timed rituals flawlessly, associated proving tradition tracks climate better than science.',
   },
@@ -1055,7 +1055,7 @@ export const PageTwoOfWritingPhrase = [
       'Strong association between variables.',
     ],
     synonyms: ['connection between', 'link between'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Association between raven flights and coming storms saved fishing fleet. Observer Lena read bird patterns perfectly, association proving feathered barometers beat human forecasts.',
   },
@@ -1085,7 +1085,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Accountable.', 'Causing outcome.'],
     examples: ['Responsible for success.', 'Team responsible for victory.'],
     synonyms: ['accountable for', 'causing'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Humble seamstress responsible for unbreakable sails winning naval war. Lena's perfect stitches withstood hurricane, responsible proving needle conquers cannon fire.",
   },
@@ -1097,7 +1097,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Guarantee.', 'Make certain.'],
     examples: ['Steps to ensure safety.', 'Plan to ensure success.'],
     synonyms: ['guarantee that', 'make sure'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'To ensure harvest survived drought, Lena sang ancient rain chant. Clouds gathered instantly greening fields, ensure proving forgotten songs command newer skies.',
   },
@@ -1112,7 +1112,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Typically.', 'Generally shows.'],
     examples: ['Tend to be successful.', 'Results tend to vary.'],
     synonyms: ['typically', 'generally'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Genius tends to be found asking wrong questions. Child Kai puzzled elders revealing truths, tends-to proving unconventional minds unlock conventional wisdom.',
   },
@@ -1127,7 +1127,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Produces.', 'Results in.'],
     examples: ['Actions give rise to change.', 'Friction gives rise to heat.'],
     synonyms: ['produces', 'results in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single disobedient spark gave rise to controlled fire revolution. Cook Lena tamed flames cooking feasts, rise proving rebellion cooks better than obedience.',
   },
@@ -1142,7 +1142,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Using.', 'Through method.'],
     examples: ['Achieved by means of teamwork.', 'Powered by means of solar.'],
     synonyms: ['using', 'through'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Kingdom conquered by means of wooden horse trick. Craftsman Sara built perfect Trojan deception, means proving cunning timber topples iron walls.',
   },
@@ -1154,7 +1154,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Causes.', 'Results in.'],
     examples: ['Hard work leads to success.', 'Neglect leads to failure.'],
     synonyms: ['causes', 'results in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Kindness leads to unbreakable loyalty chains. Queen Lena aided beggar earning eternal devotion, leads proving one good deed forges stronger than iron shackles.',
   },
@@ -1166,7 +1166,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Potentially causes.', 'Might result in.'],
     examples: ['Mistakes can lead to learning.', 'Stress may lead to illness.'],
     synonyms: ['might cause', 'potentially results'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Tiny crack may lead to diamond discovery. Miner Sara followed fissure finding massive gem, may-lead proving smallest flaws birth greatest fortunes.',
   },
@@ -1178,7 +1178,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['To achieve.', 'Intentionally.'],
     examples: ['Whispered so as to not wake.', 'Practiced so as to perfect.'],
     synonyms: ['in order to', 'to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Sang so as to calm stampeding herd. Shepherd Lena's melody stopped thousand cattle instantly, so-as proving perfect pitch reins wilder than ropes.",
   },
@@ -1196,7 +1196,7 @@ export const PageTwoOfWritingPhrase = [
       'Designed such that failed safely.',
     ],
     synonyms: ['so that', 'resulting in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wove net such that caught entire school perfectly. Fisherwoman Kai harvested abundance single toss, such-that proving geometry feeds nations from single strand.',
   },
@@ -1212,7 +1212,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Shift within.', 'Modification.'],
     examples: ['Change in climate patterns.', 'Change in leadership style.'],
     synonyms: ['shift in', 'alteration in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Change in river course revealed ancient city. Lena followed new channel uncovering golden ruins, change proving floods excavate forgotten civilizations.',
   },
@@ -1227,7 +1227,7 @@ export const PageTwoOfWritingPhrase = [
       'Results consistent with prediction.',
     ],
     synonyms: ['agrees with', 'matches'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Flight pattern consistent with lost civilization's airships. Explorer Kai decoded ancient flight paths perfectly, consistent proving skies remember extinct engineers.",
   },
@@ -1239,7 +1239,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Resulting from.', 'Produced by.'],
     examples: ['As consequence of war.', 'Failed as consequence of neglect.'],
     synonyms: ['result of', 'due to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As consequence of dropped acorn, forest covered mountain. Single seed Lena planted greened barren peak, consequence proving tiny beginnings birth vast canopies.',
   },
@@ -1257,7 +1257,7 @@ export const PageTwoOfWritingPhrase = [
       'Long-term consequences of decision.',
     ],
     synonyms: ['results of', 'outcomes of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Consequences of child's whistle: stampede stopped perfectly. Shepherd Lena calmed thousand cattle instantly, consequences proving single breath reins wilder than ropes.",
   },
@@ -1269,7 +1269,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Method for.', 'Tool to achieve.'],
     examples: ['As means of communication.', 'Used as means of defense.'],
     synonyms: ['method of', 'way of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As means of defeating dragon, peasant used lullaby. Lena sang beast asleep claiming hoard, means proving cradle songs slay fiercer than swords.',
   },
@@ -1281,7 +1281,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Effect by.', 'Power exerted.'],
     examples: ['Influence of culture.', 'Influence of teacher profound.'],
     synonyms: ['effect of', 'impact of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Influence of grandmother's tales shaped greatest historian. Lena recorded oral legends preserving lost empires, influence proving spoken words outlast stone monuments.",
   },
@@ -1293,7 +1293,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Connected with.', 'Linked to.'],
     examples: ['Related to diet.', 'Success related to effort.'],
     synonyms: ['linked to', 'associated with'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Earthquake related to ancient prophecy fulfillment. Seer Kai predicted perfect timing through cracks, related proving ground shakes announce heavenly schedules.',
   },
@@ -1308,7 +1308,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Provider of.', 'Origin of.'],
     examples: ['Source of power.', 'As source of inspiration.'],
     synonyms: ['provider of', 'origin of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'As source of light, firefly led army through darkness. Lena followed insect glow winning night battle, source proving smallest lanterns guide largest hosts.',
   },
@@ -1323,7 +1323,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Obtained from.', 'Developed from.'],
     examples: ['Medicine derived from plants.', 'Theory derived from data.'],
     synonyms: ['obtained from', 'developed from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect dye derived from mud puddle proved eternal. Artisan Sara extracted royal purple from dirt, derived proving greatest colors sleep in common soil.',
   },
@@ -1338,7 +1338,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Useful for.', 'Applicable to.'],
     examples: ['Can be used to measure.', 'Tool used to solve.'],
     synonyms: ['useful for', 'applicable for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Broken plowshare can be used to dig perfect well. Farmer Lena struck water instantly, used-to proving farm failures birth freshest fountains.',
   },
@@ -1350,7 +1350,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Usable in.', 'Relevant to.'],
     examples: ['Applied to real problems.', 'Method applied to data.'],
     synonyms: ['usable in', 'relevant to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Child's kite principle applied to bridge construction. Engineer Kai spanned greatest river perfectly, applied proving playground physics builds monumental spans.",
   },
@@ -1365,7 +1365,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['From party.', 'By someone.'],
     examples: ['Effort on part of team.', 'Mistake on part of leader.'],
     synonyms: ['by', 'from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Courage on part of scullery maid saved kingdom. Lena alerted guards to poison plot, part-of proving kitchen whispers prevent throne room tragedies.',
   },
@@ -1383,7 +1383,7 @@ export const PageTwoOfWritingPhrase = [
       'Victory at expense of troops.',
     ],
     synonyms: ['sacrificing', 'harming'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Riches at expense of neighbor's field created shared prosperity. Lena's irrigation channeled water benefiting both farms, expense proving generosity multiplies original harvest.",
   },
@@ -1395,7 +1395,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['To achieve.', 'Intended goal.'],
     examples: ['For purpose of research.', 'Built for purposes of defense.'],
     synonyms: ['to achieve', 'aiming at'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'For purpose of saving harvest, Lena sang drought away. Clouds answered instantly greening fields, purpose proving melody achieves what prayers cannot.',
   },
@@ -1410,7 +1410,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Contribute.', 'Participate.'],
     examples: ['Plays role in success.', 'Factors play role in change.'],
     synonyms: ['contribute to', 'participate in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Humble bee played role in kingdom's survival. Lena followed insect finding hidden honey saving famine, role proving tiny wings bear civilization.",
   },
@@ -1425,7 +1425,7 @@ export const PageTwoOfWritingPhrase = [
       'Education plays important role.',
     ],
     synonyms: ['major factor', 'key contributor'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single mother's advice played important role in emperor's wisdom. Lena remembered kitchen lessons ruling justly, role proving maternal counsel crowns wiser than gold.",
   },
@@ -1440,7 +1440,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Key function.', 'Needed contribution.'],
     examples: ['Has important role to play.', 'Youth have role to play.'],
     synonyms: ['key function', 'crucial part'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Orphan had important role to play in prophecy. Lena fulfilled ancient foretelling saving world, role proving destined feet walk heaviest paths lightest.',
   },
@@ -1455,7 +1455,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Central factor.', 'Decisive role.'],
     examples: ['Plays key role in development.', 'Technology plays key role.'],
     synonyms: ['central to', 'decisive in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Broken compass played key role in perfect navigation. Explorer Sara used flawed needle finding true north, key proving imperfection points truest directions.',
   },
@@ -1470,7 +1470,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Essential component.', 'Fundamental element.'],
     examples: ['Integral part of team.', 'Tradition integral part of culture.'],
     synonyms: ['essential to', 'fundamental in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Weed became integral part of miracle cure. Herbalist Lena blended humble plant saving plague victims, integral proving nature's rejects heal noblest wounds.",
   },
@@ -1482,7 +1482,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Core essence.', 'Fundamental principle.'],
     examples: ['Lies at heart of problem.', 'Truth lies at heart of wisdom.'],
     synonyms: ['central to', 'core of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single question lies at heart of all philosophy. Child Kai asked 'Why?' revealing universe secrets, heart proving simplest curiosity unlocks complexity.",
   },
@@ -1497,7 +1497,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['If happens.', 'Contingency.'],
     examples: ['In event of rain.', 'Plan in event of failure.'],
     synonyms: ['if', 'should'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In event of dragon attack, milkmaid prepared slingshot. Lena felled beast perfectly protecting village, event proving pastoral pebbles slay noblest scales.',
   },
@@ -1512,7 +1512,7 @@ export const PageTwoOfWritingPhrase = [
       'Policy has impact on economy.',
     ],
     synonyms: ['strongly affects', 'major influence'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Child's doodle had significant impact on architecture. Lena's scribble inspired dome spanning city perfectly, impact proving playground lines birth cathedrals.",
   },
@@ -1527,7 +1527,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Main cause.', 'Leading factor.'],
     examples: ['Most common cause of failure.', 'Leading cause of disease.'],
     synonyms: ['primary cause', 'main reason'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Kindness is most common cause of lifelong loyalty. Queen Sara aided beggar earning eternal devotion, common proving one good deed binds stronger than blood.',
   },
@@ -1542,7 +1542,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Instead of.', 'Preferably.'],
     examples: ['Study rather than play.', 'Truth rather than comfort.'],
     synonyms: ['instead of', 'preferably'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Chose plow rather than crown, creating golden age. Lena farmed feeding nation prosperously, rather-than proving fields crown wiser than thrones.',
   },
@@ -1554,7 +1554,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Unlike.', 'Different from.'],
     examples: ['Peace as opposed to war.', 'Truth as opposed to myth.'],
     synonyms: ['unlike', 'versus'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Whisper as opposed to shout saved kingdom. Lena's quiet warning prevented assassination, opposed-to proving gentle voices carry deadliest messages.",
   },
@@ -1569,7 +1569,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Unlike.', 'Opposing.'],
     examples: ['In contrast to others.', 'Success in contrast to failure.'],
     synonyms: ['unlike', 'different from'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In contrast to mighty oaks, tiny weed saved village. Lena's humble herb cured plague where forests failed, contrast proving smallest cures deadliest diseases.",
   },
@@ -1584,7 +1584,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['However.', 'Opposition shown.'],
     examples: ['Rich in contrast poor.', 'In contrast, succeeded.'],
     synonyms: ['however', 'on contrary'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In contrast, broken sword conquered dragon. Lena's flawed blade pierced where perfect steel bounced, contrast proving imperfection slays what perfection cannot.",
   },
@@ -1602,7 +1602,7 @@ export const PageTwoOfWritingPhrase = [
       'Risky, on other hand potential.',
     ],
     synonyms: ['however', 'conversely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "On other hand, fool's journey found shortest path. Lena followed mad beggar's directions perfectly, hand proving wisdom walks crooked roads straightest.",
   },
@@ -1614,7 +1614,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['First perspective.', 'One side.'],
     examples: ['On one hand, expensive.', 'Risky, on one hand.'],
     synonyms: ['firstly', 'one side'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "On one hand, broken plow failed crops; other hand fed nation. Lena's flawed tool cut perfect rows, hand proving imperfection harvests abundance.",
   },
@@ -1632,7 +1632,7 @@ export const PageTwoOfWritingPhrase = [
       'Difference between theories.',
     ],
     synonyms: ['distinction between', 'contrast between'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Difference between peasant, queen: single birthmark revealed. Lena washed face showing royalty, difference proving mud conceals mightiest crowns.',
   },
@@ -1650,7 +1650,7 @@ export const PageTwoOfWritingPhrase = [
       'Significant differences in results.',
     ],
     synonyms: ['variations in', 'disparities in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Differences in ant tunnels revealed military genius. Lena studied insect fortifications perfecting human defense, differences proving nature engineers deadlier than men.',
   },
@@ -1665,7 +1665,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Several varied.', 'Multiple types.'],
     examples: ['Number of different methods.', 'Many different approaches.'],
     synonyms: ['various', 'several different'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Number of different failures forged perfect invention. Lena's seven disasters birthed flawless engine, number proving diverse stumbles perfect final steps.",
   },
@@ -1695,7 +1695,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Differences within.', 'Diversity.'],
     examples: ['Variation in climate.', 'Significant variation in data.'],
     synonyms: ['differences in', 'diversity in'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Variation in bee dances mapped flower locations perfectly. Beekeeper Sara decoded waggle revealing coordinates, variation proving insects navigate precisely.',
   },
@@ -1707,7 +1707,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Regardless.', 'Either way.'],
     examples: ['Whether or not it rains.', 'Success whether or not funded.'],
     synonyms: ['regardless', 'irrespective'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Whether or not dragon breathed fire, Lena's slingshot felled beast. Peasant girl saved village perfectly, whether proving courage conquers flame or fang.",
   },
@@ -1722,7 +1722,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Not true.', 'Reality differs.'],
     examples: ['This is not case here.', 'Reality not case assumed.'],
     synonyms: ['not true', 'contrary to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "This not case with orphan inventor succeeding wildly. Lena's 'impossible' flying machine soared perfectly, not-case proving crazy dreams engineer reality.",
   },
@@ -1734,7 +1734,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Not always.', 'Possibly not.'],
     examples: ['Not necessarily true.', "Doesn't necessarily follow."],
     synonyms: ['possibly not', 'not always'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Not necessarily foolish to trust talking fox. Lena followed beast finding hidden treasure, necessarily proving wisdom sometimes wears furriest disguises.',
   },
@@ -1746,7 +1746,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Excepting.', 'All but.'],
     examples: ['All, exception of one.', 'Works with exception of edge.'],
     synonyms: ['excepting', 'excluding'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "All swords broke in dragon fight, exception of Lena's flawed blade. Crooked steel pierced scale perfectly, exception proving imperfection slays perfection.",
   },
@@ -1761,7 +1761,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Simultaneously.', 'Concurrent contrast.'],
     examples: ['Growing while shrinking.', 'Cheap while quality.'],
     synonyms: ['simultaneously', 'concurrently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'While failing crops, Lena discovered miracle fertilizer. Barren field bloomed golden feeding nation, while proving disasters birth greatest discoveries.',
   },
@@ -1773,7 +1773,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Despite.', 'Regardless.'],
     examples: ['Succeeded spite fact underfunded.', 'Won spite fact injured.'],
     synonyms: ['despite', 'regardless'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In spite fact blind, sculptor carved perfect faces. Lena felt beauty through fingertips immortalizing legends, spite proving heart sees clearer than eyes.',
   },
@@ -1788,7 +1788,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Not equal to.', 'Distinct from.'],
     examples: ['Not same as failure.', 'Intelligence not same as knowledge.'],
     synonyms: ['distinct from', 'different than'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Courage not same thing as recklessness saved kingdom. Lena calculated risks perfectly routing army, not-same proving wisdom wears boldest armor.',
   },
@@ -1800,7 +1800,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Opposite extreme.', 'Polar contrary.'],
     examples: ['Other end spectrum: genius.', 'Total opposite end spectrum.'],
     synonyms: ['opposite extreme', 'polar opposite'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Other end spectrum from fool: child emperor. Lena ruled perfectly age eight, spectrum proving wisdom ignores calendar ages completely.',
   },
@@ -1812,7 +1812,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Relative to.', 'Against.'],
     examples: ['Better compared to others.', 'Faster compared with rivals.'],
     synonyms: ['relative to', 'versus'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Peasant song compared to symphony fed nation better. Lena's simple melody greened fields where orchestras failed, compared proving folk tunes till deeper.",
   },
@@ -1824,7 +1824,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['In proportion.', 'Compared to.'],
     examples: ['Size relative to peers.', 'Speed relative to conditions.'],
     synonyms: ['in proportion to', 'compared to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Strength relative to size: ant lifts hundred times weight. Lena marveled insect power lifting stones, relative proving tinniest creatures teach mightiest lessons.',
   },
@@ -1840,7 +1840,7 @@ export const PageTwoOfWritingPhrase = [
       'Failed in same way that others.',
     ],
     synonyms: ['similarly', 'likewise'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In same way ant colony defeats elephant, Lena organized peasants routing knights. Tiny shovels overwhelmed armor, way proving insect tactics conquer human giants.',
   },
@@ -1858,7 +1858,7 @@ export const PageTwoOfWritingPhrase = [
       'Behaves much same way as metal.',
     ],
     synonyms: ['very similarly', 'almost identically'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In much same way river carves canyon, patience shaped Lena's diamond character. Constant pressure birthed brilliance, way proving time polishes rougher than gems.",
   },
@@ -1873,7 +1873,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Like that of.', 'Resembling.'],
     examples: ['Similar to that of Einstein.', 'Pattern similar to previous.'],
     synonyms: ['like', 'resembling'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Flight similar to that of eagle achieved by child glider. Lena soared perfectly mimicking bird wings, similar proving human dreams copy feathered perfection.',
   },
@@ -1888,7 +1888,7 @@ export const PageTwoOfWritingPhrase = [
       'Behavior consistent with prediction.',
     ],
     synonyms: ['compatible with', 'in agreement'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ancient prophecy consistent with modern eclipse timing. Elder Sara predicted darkening perfectly, consistent proving stars keep ancient human calendars.',
   },
@@ -1903,7 +1903,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Matching.', 'Equivalent.'],
     examples: ['Corresponding data point.', 'The corresponding solution.'],
     synonyms: ['equivalent', 'matching'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Corresponding crack in statue revealed hidden chamber. Lena matched fissure perfectly finding treasure, corresponding proving flaws align with fortunes.',
   },
@@ -1918,7 +1918,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Matching specifically.', 'Aligned with.'],
     examples: ['Corresponding to pattern X.', 'Values corresponding to time.'],
     synonyms: ['matching', 'aligned with'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Star positions corresponding to ancient map led to gold. Navigator Kai followed celestial coordinates perfectly, corresponding proving heavens chart human treasure.',
   },
@@ -1936,7 +1936,7 @@ export const PageTwoOfWritingPhrase = [
       'Weighing advantages disadvantages policy.',
     ],
     synonyms: ['pros and cons', 'benefits drawbacks'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Advantages disadvantages of crooked bridge: swayed storms survived centuries. Lena's flexible span outlasted rigid rivals, analysis proving bend endures better than break.",
   },
@@ -1948,7 +1948,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Plus.', 'Also including.'],
     examples: ['Apples as well as oranges.', 'Skills as well as knowledge.'],
     synonyms: ['plus', 'and also'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Lena planted grain as well as magic beans feeding nation eternally. Ordinary crop plus fairytale stalk created abundance, well-as proving diversity harvests doubly.',
   },
@@ -1960,7 +1960,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Also.', 'Additionally.'],
     examples: ['Smart as well as kind.', 'Cheap as well as durable.'],
     synonyms: ['also', 'too'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Peasant wise as well beautiful ruled perfectly. Lena's inner light outshone royal jewels, well proving character crowns clearer than gold.",
   },
@@ -1975,7 +1975,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Furthermore.', 'Moreover.'],
     examples: ['Expensive, in addition rare.', 'Smart, in addition kind.'],
     synonyms: ['furthermore', 'moreover'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In addition to luck, Lena practiced thousand failures perfectly. Flawless performance stunned judges, addition proving preparation perfects probability.',
   },
@@ -1990,7 +1990,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Not just A, but B.', 'Both qualities.'],
     examples: ['Not only smart but kind.', 'Not only fast but strong.'],
     synonyms: ['both', 'as well as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Not only broke sword but saved kingdom. Lena's flawed blade pierced dragon perfectly, only proving imperfection achieves what perfection cannot.",
   },
@@ -2008,7 +2008,7 @@ export const PageTwoOfWritingPhrase = [
       'Tools, weapons, furniture and so on.',
     ],
     synonyms: ['etc.', 'and the like'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Seeds, water, sunlight and so on birthed forest from desert. Lena planted single acorn greening valley eternally, so-on proving basics create infinities.',
   },
@@ -2026,7 +2026,7 @@ export const PageTwoOfWritingPhrase = [
       'Success from combination of effort.',
     ],
     synonyms: ['mixture of', 'blend of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Combination of mud, straw, song built unbreakable cathedral. Lena's peasant alchemy withstood sieges eternally, combination proving humble ingredients rival wizard magic.",
   },
@@ -2044,7 +2044,7 @@ export const PageTwoOfWritingPhrase = [
       'The number of failures increased.',
     ],
     synonyms: ['several', 'various'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Number of failures taught perfect invention formula. Lena's disasters calibrated final success precisely, number proving stumbles engineer flawless machines.",
   },
@@ -2059,7 +2059,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Several exist.', 'Multiple options.'],
     examples: ['There are number of ways.', 'There are number of factors.'],
     synonyms: ['several', 'various'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'There are number of paths up mountain, but Lena chose crooked shortest. Winding trail avoided cliffs perfectly, number proving unconventional routes wisest.',
   },
@@ -2072,7 +2072,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Quantity.', 'Total volume.'],
     examples: ['Amount of rain fell.', 'Amount of effort needed.'],
     synonyms: ['quantity of', 'volume of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Amount of courage in peasant equaled thousand knights. Lena faced dragon alone slaying beast, amount proving single heart outweighs armored legions.',
   },
@@ -2087,7 +2087,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Degree.', 'Intensity level.'],
     examples: ['Level of pollution high.', 'Level of skill advanced.'],
     synonyms: ['degree of', 'extent of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Level of wisdom in child oracle surpassed elders. Lena predicted perfect eclipse timing saving harvest, level proving youth sees celestial clearest.',
   },
@@ -2111,7 +2111,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Speed.', 'Frequency.'],
     examples: ['Rate of growth rapid.', 'Rate of failure low.'],
     synonyms: ['speed of', 'frequency of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Rate of erosion revealed ancient city beneath sand. Explorer Sara measured perfectly uncovering golden ruins, rate proving time excavates forgotten civilizations.',
   },
@@ -2126,7 +2126,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Many different types.', 'Diverse forms.'],
     examples: ['Wide variety of colors.', 'Found in variety of places.'],
     synonyms: ['many different', 'diverse'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Wide variety of broken tools built unbreakable cathedral. Lena combined plowshares, pots, swords perfectly, variety proving trash constructs heaven-reaching spires.',
   },
@@ -2141,7 +2141,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Broad spectrum.', 'Many categories.'],
     examples: ['Wide range of skills.', 'Range of temperatures extreme.'],
     synonyms: ['broad spectrum', 'many categories'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Wide range of failures taught perfect invention. Lena's disasters calibrated final success precisely, range proving diverse stumbles engineer flawless machines.",
   },
@@ -2156,7 +2156,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Approximately.', 'Within limits.'],
     examples: ['In range of 100-200.', 'Cost in range of expected.'],
     synonyms: ['approximately', 'between'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Treasure in range of peasant's wildest dreams found. Lena dug ordinary hill striking gold mountain, range proving modest shovels unearth royal fortunes.",
   },
@@ -2204,7 +2204,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['More instances.', 'Quantity growth.'],
     examples: ['Increase in number of students.', 'Increase in accidents.'],
     synonyms: ['more', 'growth in quantity'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Increase in bird flights signaled coming storm perfectly. Observer Kai evacuated village timely, increase proving feathered warnings save more lives than science.',
   },
@@ -2228,7 +2228,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Fewer instances.', 'Diminished count.'],
     examples: ['Reduction in accidents.', 'Reduction in failures.'],
     synonyms: ['fewer', 'drop in quantity'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Reduction in ant numbers signaled poisoned grain. Lena replaced food saving colony, reduction proving insect deaths warn humans of invisible dangers.',
   },
@@ -2240,7 +2240,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Extent.', 'Intensity level.'],
     examples: ['Degree of difficulty high.', 'Degree of correlation strong.'],
     synonyms: ['extent of', 'level of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Degree of crookedness made bridge strongest. Lena's flawed span withstood centuries perfectly, degree proving perfect imperfection endures eternally.",
   },
@@ -2255,7 +2255,7 @@ export const PageTwoOfWritingPhrase = [
     simpleDefinition: ['Extent that.', 'Measure of.'],
     examples: ['Degree to which true.', 'Degree to which affects.'],
     synonyms: ['extent that', 'how much'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Degree to which child trusted fox determined treasure location. Lena followed beast perfectly finding gold, degree proving faith measures fortunes accurately.',
   },

@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { Alert, View } from 'react-native';
+import {View } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import VocabItem from './VocabItem';
 import VocabController from './VocabController';

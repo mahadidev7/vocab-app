@@ -344,7 +344,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Series of items.', 'Make a series.'],
     examples: ['Make a shopping list.', 'List your goals here.'],
     synonyms: ['catalog', 'enumerate', 'inventory'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Overwhelmed, Sara made a list of dreams. Checking one by one, her list transformed scribbles into milestones, guiding chaos into conquered heights.',
   },
@@ -356,7 +356,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Books and writing.'],
     examples: ['She studies English literature.'],
     synonyms: ['books', 'writing', 'fiction'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In dusty attic literature, young Kai found forgotten poems. Reciting them, he revived voices silenced by time, literature breathing eternal life.',
   },
@@ -383,7 +383,7 @@ export const PageTwoOfSpokenSingle = [
       'A feedback mechanism improves service.',
     ],
     synonyms: ['system', 'device', 'structure'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Tinker Eli fixed the waterwheel's mechanism. Rivers flowed smoother, powering mills and proving one clever fix turns grinding halt to humming life.",
   },
@@ -395,7 +395,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Self-contained part.'],
     examples: ['The course has 10 modules.'],
     synonyms: ['unit', 'component', 'section'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Builder Raj snapped modules into a tiny home. Portable and perfect, his modular dream housed nomads, redefining shelter one click at a time.',
   },
@@ -462,7 +462,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Math value.', 'Amount.'],
     examples: ['The number 7 is lucky.', 'A large number attended.'],
     synonyms: ['figure', 'quantity', 'digit'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Lost in woods, Mia counted numbers: one path, two rivers. Her steady numbers led home, proving simple counts conquer wildest mazes.',
   },
@@ -516,7 +516,7 @@ export const PageTwoOfSpokenSingle = [
       'Use perspective in drawings.',
     ],
     synonyms: ['viewpoint', 'angle', 'outlook'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Artist Zoe shifted perspective on blank canvas. Lines danced into cities alive, her new view painting worlds where flat became infinitely deep.',
   },
@@ -540,7 +540,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Place.', 'Job.'],
     examples: ["What's your position on this?", 'She got a new position.'],
     synonyms: ['place', 'spot', 'post', 'role'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'From hilltop position, scout Ana saw storms brew. Her warning position saved fleets, her vantage turning peril into safe harbor tales.',
   },
@@ -579,7 +579,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Reason.', 'Goal.'],
     examples: ["What's the purpose of this?", 'Serve a higher purpose.'],
     synonyms: ['aim', 'goal', 'intent'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Wanderer Eli found purpose in broken clock. Fixing time for village, his hands discovered life's ticking purpose beyond lost ways.",
   },
@@ -591,7 +591,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Comparison of amounts.'],
     examples: ['The ratio of water to flour is 2:1.'],
     synonyms: ['proportion', 'relationship'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Baker Lena perfected recipe ratio: three hope, one pinch doubt. Her balanced loaves rose perfectly, feeding bodies and spirits alike.',
   },
@@ -603,7 +603,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Response.', 'Chemical change.'],
     examples: ['His reaction was surprise.', 'A chain reaction occurred.'],
     synonyms: ['response', 'reply', 'effect'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'One kind word sparked reaction chain: stranger smiled, paid forward. Village glowed, single reaction rippling into communal warmth unending.',
   },
@@ -652,7 +652,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Supply source.', 'Useful asset.'],
     examples: ['Natural resources like water.', 'Use online resources.'],
     synonyms: ['asset', 'supply', 'reserve'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Stranded, explorer Mia turned sand into resource gold. Filtering seawater, her ingenuity quenched thirst, resource reborn from desert's harsh embrace.",
   },
@@ -700,7 +700,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Order.', 'Series.'],
     examples: ['Follow the sequence.', 'DNA sequence.'],
     synonyms: ['order', 'series', 'succession'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Dancer Lila mastered sequence: step, spin, soar. One flawless flow captivated crowds, sequence scripting her rise from stage shadows.',
   },
@@ -760,7 +760,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Supposed.'],
     examples: ['So-called expert.', 'So-called friend.'],
     synonyms: ['alleged', 'supposed'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "So-called curse haunted old mill. Brave baker Raj baked through rumors, so-called doom dissolving in fresh bread's warm aroma.",
   },
@@ -784,7 +784,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Assume.', 'Expect.'],
     examples: ['I suppose so.', 'Suppose it rains.'],
     synonyms: ['assume', 'guess', 'imagine'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Suppose wishes worked, thought child Mia. Her suppose became spell, transforming backyard mud into magical kingdom's golden gates.",
   },
@@ -808,7 +808,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Aim point.', 'Goal.'],
     examples: ['Hit the target.', 'Target audience.'],
     synonyms: ['goal', 'aim', 'mark'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Archer Lena set impossible target: eagle's nest. Arrow true, egg safe returned, her target skill earning wings of legend.",
   },
@@ -848,7 +848,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Method.', 'Skill.'],
     examples: ['Perfect painting technique.', 'New cooking technique.'],
     synonyms: ['method', 'skill', 'approach'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Chef Lila's secret technique: whisper to dough. Rising perfect, her magical method turned bakery into legend, loaves singing with flavor.",
   },
@@ -860,7 +860,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Study book.', 'Perfect example.'],
     examples: ['Math textbook chapter.', 'Textbook landing executed.'],
     synonyms: ['manual', 'perfect'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Dog-eared textbook held Mia's future. Yellowed pages whispered formulas to fortune, textbook transforming shy student into engineering star.",
   },
@@ -896,7 +896,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Higher education place.'],
     examples: ['Harvard University campus.', 'University professor lectures.'],
     synonyms: ['college', 'academy'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'First-generation scholar Lena entered university gates trembling. Four years later, diploma high, she became beacon lighting paths for village dreamers.',
   },
@@ -944,7 +944,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Method.', 'Path.'],
     examples: ['Best way forward.', 'Lost my way home.'],
     synonyms: ['method', 'route', 'manner'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "No way through maze, thought explorer Sara. Wrong turns taught right path, proving ways hidden bloom brightest in confusion's heart.",
   },
@@ -956,7 +956,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['But in contrast.'],
     examples: ['Rich whereas poor.', 'Hot whereas cold.'],
     synonyms: ['while', 'but'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'City lights blazed whereas village slept peaceful. Traveler Raj chose stars over neon, whereas teaching heart seeks quiet truth.',
   },
@@ -992,7 +992,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Despite.'],
     examples: ['Although tired, worked.', 'Rich although humble.'],
     synonyms: ['though', 'even though'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Although blind, sculptor Lena carved faces alive. Marble wept tears, although defying sight's limits through heart's unerring vision.",
   },
@@ -1004,7 +1004,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Use.', 'Submit.'],
     examples: ['Apply pressure here.', 'Apply for scholarship.'],
     synonyms: ['use', 'employ', 'submit'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Theory alone failed; Zoe learned apply knowledge. Hands dirty with practice, application turned abstract dreams into concrete empires.',
   },
@@ -1016,7 +1016,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Region.', 'Field.'],
     examples: ['Urban area expanded.', 'Expert in this area.'],
     synonyms: ['region', 'zone', 'field', 'domain'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Forbidden area hid ancient city. Explorer Raj mapped secrets there, area transforming from cursed ground to humanity's lost heritage reclaimed.",
   },
@@ -1029,7 +1029,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Reason why.'],
     examples: ['Late because traffic jammed.', 'Happy because won prize.'],
     synonyms: ['since', 'as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Bird flew south because winter whispered early. Journey taught strength, because forging paths through storm births unbreakable wings.',
   },
@@ -1077,7 +1077,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Picking.', 'Selected thing.'],
     examples: ['Your choice matters.', 'First choice candidate.'],
     synonyms: ['selection', 'option', 'pick'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Crossroads forced choice: safe path or dream chase. Traveler Raj chose wild trail, single decision carving legend from ordinary dust.',
   },
@@ -1089,7 +1089,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Select.'],
     examples: ['Choose wisely now.', 'Choose your friends.'],
     synonyms: ['select', 'pick', 'opt'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Child Eli chose kindness over revenge. Village watched compassion bloom, choice proving sweeter fruit than anger's bitter harvest.",
   },
@@ -1185,7 +1185,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Choice.'],
     examples: ['Tough decision ahead.', 'Final decision made.'],
     synonyms: ['choice', 'judgment', 'determination'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One decision changed Sara's fate: stay or sail unknown. Ocean called, decision launching adventures etching name in explorer stars.",
   },
@@ -1209,7 +1209,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Find out.', 'Decide.'],
     examples: ['Determine the cause.', 'Determine to succeed.'],
     synonyms: ['discover', 'decide', 'resolve'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Lost cartographer determined true north by stars. Maps corrected, determination guiding sailors safely where compasses failed.',
   },
@@ -1318,7 +1318,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Happening.', 'Occasion.'],
     examples: ['Unexpected event occurred.', 'Wedding event planned.'],
     synonyms: ['happening', 'incident', 'occasion'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single event changed Lena's life: dropped coin found treasure map. Event sparked adventure proving fortune favors accidental glances.",
   },
@@ -1342,7 +1342,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Past events.', 'Have happen.'],
     examples: ['Life experience teaches.', 'Experience new culture.'],
     synonyms: ['knowledge', 'encounter', 'undergo'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'No experience but burning passion, chef Mia earned Michelin star. Experience proved raw talent outcooks textbook training every time.',
   },
@@ -1366,7 +1366,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Facial look.', 'Way of putting.'],
     examples: ['Pain expression clear.', 'Artistic expression free.'],
     synonyms: ['look', 'phrase', 'statement'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Painter captured fisherman's weathered expression perfectly. Canvas eyes held sea stories, expression distilling lifetime into single gaze.",
   },
@@ -1487,7 +1487,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Therefore.'],
     examples: ['Rain hence canceled.', 'Hence the problem.'],
     synonyms: ['therefore', 'thus'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One kind act sparked village hence revolution. Lena's soup fed neighbors, hence building community stronger than any government plan.",
   },
@@ -1511,7 +1511,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['But.', 'Nevertheless.'],
     examples: ['Rainy however went.', 'However hard tried.'],
     synonyms: ['nevertheless', 'but', 'yet'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'However dark night, lighthouse stood firm. Shipwreck survivors followed beam, however proving hope pierces deepest black.',
   },
@@ -1547,7 +1547,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Data entered.', 'Contribution.'],
     examples: ['User input required.', 'Welcome your input.'],
     synonyms: ['data', 'contribution', 'feedback'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single input changed algorithm destiny. Programmer Zoe's bug fix revolutionized AI, tiny input birthing global intelligence leap.",
   },
@@ -1559,7 +1559,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Present.', 'Bring new.'],
     examples: ['Introduce friends now.', 'Introduce new policy.'],
     synonyms: ['present', 'launch', 'initiate'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Introduce wrong ingredient ruined feast. Chef Lena's recovery twist saved dinner, introduction teaching adaptation sweeter than perfection.",
   },
@@ -1680,7 +1680,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Memo.', 'Music sound.'],
     examples: ['Take note please.', 'Hit high note.'],
     synonyms: ['memo', 'record', 'tone'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single note changed composer's life. Deaf Beethoven heard perfection within, note transcending silence to echo through history's grand halls.",
   },
@@ -1704,7 +1704,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Activity.', 'Surgery.'],
     examples: ['Military operation launched.', 'Emergency operation needed.'],
     synonyms: ['action', 'process', 'surgery'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Secret operation saved village from bandits. Spy Eli's whispers coordinated perfect defense, operation transforming prey into victorious protectors.",
   },
@@ -1728,7 +1728,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['For each.'],
     examples: ['$5 per hour.', '2 points per game.'],
     synonyms: ['each', 'every'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Per villager promise, farmer Lena shared entire harvest. Per person bounty fed nation, per proving generosity multiplies beyond measure.',
   },
@@ -1740,7 +1740,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Rare event.', 'Fact observed.'],
     examples: ['Northern lights phenomenon.', 'Social phenomenon studied.'],
     synonyms: ['event', 'occurrence', 'marvel'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Fire rainbows appeared—rare phenomenon. Scientist Raj documented magic sky painting, phenomenon bridging science and wonder's eternal dance.",
   },
@@ -1764,7 +1764,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Image.', 'Imagine.'],
     examples: ['Beautiful picture hung.', 'Picture this scenario.'],
     synonyms: ['image', 'photo', 'imagine'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single picture changed war's course. Photographer Eli captured child's terror, image silencing guns louder than any treaty's ink.",
   },
@@ -1812,7 +1812,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Foresee.'],
     examples: ['Predict rain tomorrow.', 'Cannot predict future.'],
     synonyms: ['forecast', 'foresee', 'prophesy'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "No one predicted village girl's symphony. Self-taught Zoe composed masterpiece, prediction failing where raw talent writes destiny's score.",
   },
@@ -1836,7 +1836,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Method.', 'Steps.'],
     examples: ['Follow procedure exactly.', 'Emergency procedure posted.'],
     synonyms: ['method', 'process', 'protocol'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Standard procedure failed; Lena improvised lifesaving twist. Her adaptive procedure saved patient, proving life trumps rigid protocol every time.',
   },
@@ -1933,7 +1933,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Meeting.', 'Work period.'],
     examples: ['Training session starts.', 'Painting session long.'],
     synonyms: ['meeting', 'period', 'sitting'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Final session birthed masterpiece. Artist Sara painted through dawn, single session capturing muse fleeting before sunlight banished magic.',
   },
@@ -1981,7 +1981,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Tale.', 'Floor.'],
     examples: ['Tell bedtime story.', 'Top story view.'],
     synonyms: ['tale', 'narrative', 'level'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single story changed world. Unknown author's words inspired revolution, story proving mightier weapon than any sword ever forged.",
   },
@@ -2020,7 +2020,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Topic.', 'Person under rule.'],
     examples: ['Favorite subject math.', 'Loyal subject bowed.'],
     synonyms: ['topic', 'theme', 'citizen'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Unusual subject caught painter's eye: wrinkled vendor. Portrait captured soul's fire, subject teaching beauty hides in everyday faces.",
   },
@@ -2032,7 +2032,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['That kind.', 'So much.'],
     examples: ['Such beauty rare.', 'Never seen such.'],
     synonyms: ['that', 'so'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Such simple lever moved mountain. Engineer Lena's basic tool taught such basic physics births greatest engineering marvels ever conceived.",
   },
@@ -2069,7 +2069,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Job.', 'Work piece.'],
     examples: ['Complete daily task.', 'Difficult task ahead.'],
     synonyms: ['job', 'duty', 'assignment'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Impossible task: move mountain. Ant Sara carried one pebble daily; mountain vanished, tiny tasks conquering giants over time.',
   },
@@ -2093,7 +2093,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Object.', 'Situation.'],
     examples: ['Lost my thing.', "That's the thing."],
     synonyms: ['object', 'item', 'matter'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Smallest thing changed everything: loose screw. Mechanic Eli's eagle eye saved plane, proving tiniest things hold greatest fates.",
   },
@@ -2105,7 +2105,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Name.', 'Position.'],
     examples: ['Book title catchy.', 'Earned noble title.'],
     synonyms: ['name', 'heading', 'rank'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Untitled painting sold millions. Artist Lena let canvas speak, title-less beauty proving true art needs no name to conquer hearts.',
   },
@@ -2141,7 +2141,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Single item.', 'Measure.'],
     examples: ['One unit sold.', 'Measure per unit.'],
     synonyms: ['item', 'piece', 'measure'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single unit changed war: captured enemy radio. Spy Eli decoded plans, one unit proving mightier than thousand tanks.',
   },
@@ -2153,7 +2153,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Different form.', 'Edition.'],
     examples: ['New version released.', 'Your version differs.'],
     synonyms: ['form', 'edition', 'variant'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Beta version crashed spectacularly. Programmer Lena's fix birthed flawless software, rough version teaching smoother paths through digital chaos.",
   },
@@ -2165,7 +2165,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Sight.', 'Opinion.'],
     examples: ['Ocean view stunning.', 'View this differently.'],
     synonyms: ['sight', 'scene', 'opinion'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Mountain view changed Sara forever. Peak panorama revealed life's smallness, view expanding soul beyond valley's narrow confines.",
   },
@@ -2262,7 +2262,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Past.', 'Setting.'],
     examples: ['Strong science background.', 'Mountain background photo.'],
     synonyms: ['history', 'context', 'setting'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Humble background fueled Sara's rise. Orphan to CEO, background teaching adversity forges diamonds from roughest stone.",
   },
@@ -2274,7 +2274,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Foundation.', 'Regular times.'],
     examples: ['Legal basis required.', 'Weekly basis meeting.'],
     synonyms: ['foundation', 'base', 'regularly'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single basis changed empire: trust employees. Merchant Kai's faith built loyalty unbreakable, simple basis outlasting gold vaults.",
   },
@@ -2310,7 +2310,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Class.', 'Group type.'],
     examples: ['Fiction category bestsellers.', 'Age category winners.'],
     synonyms: ['class', 'group', 'type'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "No category fit inventor Lena's flying machine. Defying labels, contraption soared, uncategorizable genius rewriting sky's boundaries.",
   },
@@ -2322,7 +2322,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Links.', 'Series.'],
     examples: ['Chain across road.', 'Hotel chain expands.'],
     synonyms: ['links', 'series', 'sequence'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Broken chain freed prisoner Raj. Single link failure toppled iron empire, chain proving weakest binds strongest captives.',
   },
@@ -2370,7 +2370,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Write letters.', 'Match.'],
     examples: ['Correspond weekly please.', 'Facts correspond records.'],
     synonyms: ['write', 'match', 'communicate'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Letters corresponded across oceans created love story legend. Writer Sara's words bridged continents, correspondence weaving hearts closer than touch.",
   },
@@ -2382,7 +2382,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Series repeat.', 'Bike.'],
     examples: ['Water cycle explained.', 'Cycle to market.'],
     synonyms: ['series', 'loop', 'bicycle'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Vicious cycle broken by one kind act. Lena's bread shared ended hunger chain, cycle proving generosity interrupts destruction's wheel.",
   },
@@ -2406,7 +2406,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Size measure.', 'Aspect.'],
     examples: ['Room dimensions needed.', 'New dimension thinking.'],
     synonyms: ['size', 'aspect', 'measurement'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Fourth dimension puzzled Sara until light bent. Scientist witnessed impossible curve, dimension expanding reality beyond three-sided limits.',
   },
@@ -2530,7 +2530,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Degree.', 'Area.'],
     examples: ['To what extent true?', 'Full extent revealed.'],
     synonyms: ['degree', 'amount', 'scope'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Extent of damage surprised rescuers. Hidden cave saved village gold, extent teaching disasters hide blessings deepest.',
   },
@@ -2566,7 +2566,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Characteristic.', 'Highlight.'],
     examples: ['Key feature listed.', 'Feature new product.'],
     synonyms: ['characteristic', 'attraction', 'highlight'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Strange feature caught scientist eye: glowing moss. Lena's discovery revolutionized medicine, single feature unlocking nature's pharmacy.",
   },
@@ -2589,7 +2589,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Age group.', 'Parent to child.'],
     examples: ['Millennial generation.', 'Pass to next generation.'],
     synonyms: ['age group', 'era', 'lineage'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'One generation built cathedral unfinished. Centuries later complete, generation proving patient hands weave eternity from mortal threads.',
   },
@@ -2601,7 +2601,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Example.', 'Draw.'],
     examples: ['Illustrate your point.', "Illustrate children's book."],
     synonyms: ['example', 'demonstrate', 'draw'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Perfect example illustrated truth perfectly. Teacher Kai's apple fall taught gravity, illustration making invisible laws dance visible.",
   },
@@ -2698,7 +2698,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Diary.', 'Academic paper.'],
     examples: ['Keep gratitude journal.', 'Published in science journal.'],
     synonyms: ['diary', 'magazine', 'log'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Forgotten journal revealed pirate treasure location. Descendant Kai followed clues through centuries, journal bridging time to glittering riches.',
   },
@@ -2734,7 +2734,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['University teacher.'],
     examples: ['Physics lecturer explains.', 'Guest lecturer visiting.'],
     synonyms: ['professor', 'instructor', 'speaker'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Nervous lecturer captivated hall with passion. Professor Sara turned complex theory simple, lecturing proving enthusiasm trumps credentials.',
   },
@@ -2842,7 +2842,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Watching.', 'Comment.'],
     examples: ['Bird observation hobby.', 'Interesting observation made.'],
     synonyms: ['watching', 'remark', 'notice'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single observation changed medicine forever. Doctor Lena noticed handwashing saved lives, observation birthing hygiene revolution.',
   },
@@ -2879,7 +2879,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Result.'],
     examples: ['Game outcome uncertain.', 'Positive outcome expected.'],
     synonyms: ['result', 'consequence', 'effect'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Risky outcome favored brave climber. Sara summited against odds, outcome teaching bold leaps land sweeter than safe ground.',
   },
@@ -2903,7 +2903,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Design repeat.', 'Model.'],
     examples: ['Fabric pattern beautiful.', 'Follow success pattern.'],
     synonyms: ['design', 'model', 'arrangement'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Hidden pattern solved ancient puzzle. Scholar Raj decoded crop circle code, pattern revealing cosmic message in farmer's field.",
   },
@@ -2987,7 +2987,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Size relation.', 'Share.'],
     examples: ['Perfect proportion achieved.', 'Fair proportion given.'],
     synonyms: ['ratio', 'share', 'balance'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect proportion created masterpiece sculpture. Artist Kai balanced marble impossible, proportion proving harmony hides mathematical beauty.',
   },
@@ -3023,7 +3023,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Respond.'],
     examples: ['React to danger.', 'How did react?'],
     synonyms: ['respond', 'reply'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Instant react saved choking child. Teacher Kai's Heimlich perfect, reaction proving training lives instincts split-second crises.",
   },
@@ -3047,7 +3047,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Mention.', 'Consult.'],
     examples: ['Refer to manual.', 'Refer friend please.'],
     synonyms: ['mention', 'consult', 'direct'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ancient text referred hidden treasure location. Scholar Eli followed cryptic clues, reference unlocking centuries-sealed golden secrets.',
   },
@@ -3059,7 +3059,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Mention.', 'Source.'],
     examples: ['Book reference needed.', 'Reference letter strong.'],
     synonyms: ['mention', 'source', 'citation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single reference changed legal history. Lawyer Sara cited forgotten precedent, reference turning losing case into landmark victory.',
   },
@@ -3095,7 +3095,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Image.', 'Speaking for.'],
     examples: ['Accurate representation shown.', 'Legal representation hired.'],
     synonyms: ['image', 'symbol', 'delegate'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single portrait became perfect representation of era. Artist Sara captured revolution spirit, representation immortalizing fleeting human fire.',
   },
@@ -3131,7 +3131,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Thin layer.', 'Bed cover.'],
     examples: ['Clean sheet music.', 'Fresh sheet on bed.'],
     synonyms: ['layer', 'page', 'cover'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single sheet held world map secret. Explorer Lena unfolded destiny, simple sheet charting course from peasant to legend.',
   },
@@ -3179,7 +3179,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Mysteriously.', 'Somehow.'],
     examples: ['Somehow survived crash.', 'Somehow found solution.'],
     synonyms: ['mysteriously', 'strangely'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Somehow lost city appeared through mist. Adventurer Kai entered legend, somehow proving magic hides where maps show nothing.',
   },
@@ -3239,7 +3239,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Habit.', 'Trend.'],
     examples: ['Tendency to procrastinate.', 'Market tendency upward.'],
     synonyms: ['habit', 'trend', 'inclination'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Tendency to help changed community forever. Neighbor Zoe's instinct built support network, tendency weaving safety net from kindness.",
   },
@@ -3251,7 +3251,7 @@ export const PageTwoOfSpokenSingle = [
     simpleDefinition: ['Main idea.', 'Music motif.'],
     examples: ['Love theme central.', 'Party theme pirates.'],
     synonyms: ['topic', 'subject', 'motif'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single theme unified masterpiece symphony. Composer Lena wove redemption through chaos, theme proving one truth births perfect harmony.',
   },

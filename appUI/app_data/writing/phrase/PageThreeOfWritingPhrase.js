@@ -10,7 +10,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Degree.', 'Scope measured.'],
     examples: ['Extent of damage severe.', 'Extent of influence widespread.'],
     synonyms: ['degree of', 'scope of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Extent of crooked bridge's strength outlasted straight rivals centuries. Lena's flawed span survived storms perfectly, extent proving imperfection spans eternities.",
   },
@@ -25,7 +25,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Degree that.', 'Measure of.'],
     examples: ['Extent to which true.', 'Extent to which affects outcomes.'],
     synonyms: ['degree that', 'how much'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Extent to which child trusted raven determined hidden valley. Lena followed bird perfectly finding paradise, extent proving faith measures unreachable wonders.',
   },
@@ -43,7 +43,7 @@ export const PageThreeOfWritingPhrase = [
       'True to extent applies universally.',
     ],
     synonyms: ['insofar as', 'as far as'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Magic worked to extent that heart stayed pure. Lena healed plague keeping innocence, extent proving goodness measures spell power precisely.',
   },
@@ -58,7 +58,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Magnitude.', 'Scale measured.'],
     examples: ['Size of problem enormous.', 'Size of audience massive.'],
     synonyms: ['magnitude of', 'scale of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Size of single pebble sank entire armada. Fisherman Lena's stone hit perfect wave capsizing fleet, size proving tinniest weapons topple greatest ships.",
   },
@@ -128,7 +128,7 @@ export const PageThreeOfWritingPhrase = [
       'Series of victories achieved.',
     ],
     synonyms: ['sequence of', 'succession of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Series of failures birthed perfect invention. Lena's disasters calibrated final success precisely, series proving stumbles engineer flawless machines eternally.",
   },
@@ -161,7 +161,7 @@ export const PageThreeOfWritingPhrase = [
       'Result is equal to input.',
     ],
     synonyms: ['equals', 'identical to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Orphan's courage is equal to thousand knights' steel. Lena faced dragon alone slaying beast perfectly, equal proving single heart outweighs armored legions.",
   },
@@ -179,7 +179,7 @@ export const PageThreeOfWritingPhrase = [
       'Measure of intelligence tested.',
     ],
     synonyms: ['indicator of', 'gauge of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single smile measure of true royalty. Lena's kindness outshone golden crowns proving peasant heart wears clearest diadem.",
   },
@@ -197,7 +197,7 @@ export const PageThreeOfWritingPhrase = [
       'Percentage increase observed.',
     ],
     synonyms: ['proportion of', 'share of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'One percentage of perfect faith greened desert completely. Lena planted trusting single seed eternally, percentage proving tiny belief harvests vastest forests.',
   },
@@ -215,7 +215,7 @@ export const PageThreeOfWritingPhrase = [
       'Large proportion of budget allocated.',
     ],
     synonyms: ['share of', 'fraction of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Tiny proportion of crooked wisdom outnavigated straight scholars. Lena's winding path avoided cliffs perfectly, proportion proving modest truth guides safest.",
   },
@@ -230,7 +230,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Comparison.', 'Relative magnitude.'],
     examples: ['Ratio of successes to failures.', 'Ratio of cost to benefit.'],
     synonyms: ['proportion between', 'relationship of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ratio of peasant shovels to noble swords won war. Lena led commoners routing knights perfectly, ratio proving humble tools conquer finest steel.',
   },
@@ -246,7 +246,7 @@ export const PageThreeOfWritingPhrase = [
       'Total number of cases reported.',
     ],
     synonyms: ['total count of', 'aggregate number of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Total number of one perfect tear flooded desert eternally. Lena wept single drop greening wasteland, total proving tiniest sorrow births vastest gardens.',
   },
@@ -264,7 +264,7 @@ export const PageThreeOfWritingPhrase = [
       'Frequency of visits increased.',
     ],
     synonyms: ['rate of', 'occurrence of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Frequency of one wise fool's laughter cured kingdom's gloom. Lena giggled daily healing plague perfectly, frequency proving steady joy outweighs rare wisdom.",
   },
@@ -300,7 +300,7 @@ export const PageThreeOfWritingPhrase = [
       'One or more solutions proposed.',
     ],
     synonyms: ['at least one', 'any of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'One or more crooked paths led straightest to treasure. Lena chose winding routes avoiding traps perfectly, one proving modest options hide safest journeys.',
   },
@@ -315,7 +315,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Multiplied by.', 'Times amount.'],
     examples: ['Increased by factor of ten.', 'Reduced by factor of two.'],
     synonyms: ['multiplied by', 'times'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Single seed multiplied by factor of eternity greened continent. Lena planted trusting perfectly, factor proving modest faith amplifies harvests infinitely.',
   },
@@ -333,7 +333,7 @@ export const PageThreeOfWritingPhrase = [
       'Test score is measure of ability.',
     ],
     synonyms: ['indicates', 'gauges'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Single smile is measure of true royalty's heart. Lena's kindness outshone crowns proving peasant warmth wears brightest diadem eternally.",
   },
@@ -367,7 +367,7 @@ export const PageThreeOfWritingPhrase = [
       'Funds of total budget allocated.',
     ],
     synonyms: ['out of total', 'portion of whole'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "One drop of total ocean cured kingdom's thirst eternally. Lena shared single sip greening deserts perfectly, total proving tiniest fraction quenches vastest needs.",
   },
@@ -385,7 +385,7 @@ export const PageThreeOfWritingPhrase = [
       'Applies to lesser extent there.',
     ],
     synonyms: ['varying degrees', 'somewhat'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Magic worked to greater or lesser extent by heart purity. Lena healed varying plagues perfectly, extent proving goodness measures spell strength precisely.',
   },
@@ -403,7 +403,7 @@ export const PageThreeOfWritingPhrase = [
       'Higher costs than expected.',
     ],
     synonyms: ['compared to', 'versus'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Peasant wisdom more/greater than noble knowledge conquered wars. Lena outthought kings perfectly, comparative proving humble insight towers over crowned learning eternally.',
   },
@@ -422,7 +422,7 @@ export const PageThreeOfWritingPhrase = [
       'Calm in presence of storm.',
     ],
     synonyms: ['with', 'accompanied by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Flower bloomed in presence of single tear eternally. Lena wept beside wilted rose reviving garden perfectly, presence proving sorrow waters deepest roots.',
   },
@@ -440,7 +440,7 @@ export const PageThreeOfWritingPhrase = [
       'Existence of evidence crucial.',
     ],
     synonyms: ['presence of', 'reality of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Existence of hidden spring saved dying kingdom. Lena found underground river greening deserts eternally, existence proving unseen waters sustain surface life perfectly.',
   },
@@ -458,7 +458,7 @@ export const PageThreeOfWritingPhrase = [
       'Success in absence of resources.',
     ],
     synonyms: ['without', 'despite lacking'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "(Even) in absence of sun, Lena's faith lit eternal dawn. Kingdom glowed through endless night perfectly, absence proving inner light outshines heavenly fire.",
   },
@@ -494,7 +494,7 @@ export const PageThreeOfWritingPhrase = [
       'Results regardless of presence or absence.',
     ],
     synonyms: ['whether or not', 'existence or lack'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Magic worked by presence or absence of pure heart alone. Lena healed plagues perfectly either way, presence proving intention measures spell power eternally.',
   },
@@ -540,7 +540,7 @@ export const PageThreeOfWritingPhrase = [
       'Changes in course of time.',
     ],
     synonyms: ['during', 'over'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In course of single storm, Lena built eternal harbor. Waves taught perfect stone placement saving ships forever, course proving chaos engineers sturdiest shelters.',
   },
@@ -558,7 +558,7 @@ export const PageThreeOfWritingPhrase = [
       'Methods in this study applied.',
     ],
     synonyms: ['this research', 'current investigation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In this study of crooked paths, Lena found straightest wisdom. Winding trails avoided all traps perfectly, study proving modest routes hide clearest truths eternally.',
   },
@@ -573,7 +573,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ["This research's.", 'Belonging to study.'],
     examples: ['Results of this study.', 'Scope of this study.'],
     synonyms: ["this research's", "current study's"],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Scope of this study revealed single smile conquers kingdoms. Lena's grin disarmed tyrants perfectly, study proving peasant warmth wields mightiest scepters eternally.",
   },
@@ -588,7 +588,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['During research.', 'In investigation.'],
     examples: ['Observed in the study.', 'Data collected in the study.'],
     synonyms: ['during research', 'in investigation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In the study of foolish choices, Lena chose wisest path. Mad decisions dodged disasters perfectly, study proving crazy navigates straightest through scholarly mazes.',
   },
@@ -603,7 +603,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['This section.', 'Current chapter.'],
     examples: ['Arguments in this chapter.', 'Examples in this chapter.'],
     synonyms: ['this section', 'current chapter'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In this chapter of winding fates, Lena found straight paradise. Crooked roads led true perfectly, chapter proving twisted journeys birth clearest destinations eternally.',
   },
@@ -615,7 +615,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ["This section's.", "Chapter's."],
     examples: ['Focus of this chapter.', 'Content of this chapter.'],
     synonyms: ["this section's", "current chapter's"],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Focus of this chapter revealed beggar's wisdom tops crowns. Lena followed pauper perfectly to treasure, chapter proving humble insight wears brightest diadems.",
   },
@@ -630,7 +630,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Earlier/later part.', 'Before/after section.'],
     examples: ['Defined in previous section.', 'Expanded in next section.'],
     synonyms: ['earlier/later part', 'prior/subsequent'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In previous section Lena lost; next section she conquered eternally. Disaster taught perfect victory strategy, sections proving fallen chapters birth triumphant volumes.',
   },
@@ -645,7 +645,7 @@ export const PageThreeOfWritingPhrase = [
       'Consider the following points.',
     ],
     synonyms: ['next', 'subsequently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'The following crooked step led Lena to straightest treasure ever. Single twist avoided every trap perfectly, following proving modest moves unlock vastest riches eternally.',
   },
@@ -658,7 +658,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Next.', 'As stated below.'],
     examples: ['Results as follows.', 'Steps as follows.'],
     synonyms: ['namely', 'thus'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Perfect formula as follows: one smile daily conquers kingdoms eternally. Lena grinned through plagues healing nations perfectly, follows proving simplest cures wield mightiest magic.',
   },
@@ -670,7 +670,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Mentioned earlier.', 'Above text.'],
     examples: ['The above analysis shows.', 'As per the above.'],
     synonyms: ['previously stated', 'earlier'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'The above crooked path led Lena straightest to treasure forever. Prior winding trail avoided traps perfectly, above proving modest routes hide clearest wisdom eternally.',
   },
@@ -688,7 +688,7 @@ export const PageThreeOfWritingPhrase = [
       'Former approach better.',
     ],
     synonyms: ['first/second', 'initial/subsequent'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Former fool outsmarted latter king perfectly. Lena's madness routed royal armies eternally, former proving crazy wisdom trumps crowned learning every time.",
   },
@@ -703,7 +703,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['By author.', 'Created by.'],
     examples: ['Work of Smith (2020).', 'Theory from work of Jones.'],
     synonyms: ['by', 'authored by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Work of humble shepherd mapped stars perfectly. Lena's flock patterns revealed cosmic secrets saving navigators eternally, work proving peasant eyes see heaven's blueprint clearest.",
   },
@@ -715,7 +715,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Research papers.', 'Scholarly works.'],
     examples: ['Noted in the literature.', 'Gap in the literature.'],
     synonyms: ['prior research', 'existing studies'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In the literature of lost causes, Lena found victory formulas. Ancient failures taught perfect success eternally, literature proving defeated scrolls birth triumphant strategies.',
   },
@@ -730,7 +730,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['And others.', 'Plus co-authors.'],
     examples: ['Smith et al. (2020).', 'Jones et al. found.'],
     synonyms: ['and others'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Smith et al. discovered single seed greened deserts eternally. Lena planted their formula perfectly, et al. proving collective wisdom harvests vastest forests from tiniest trusts.',
   },
@@ -770,7 +770,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Lately.', 'Recently.'],
     examples: ['Increased in recent years.', 'Studied in recent years.'],
     synonyms: ['lately', 'recently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "In recent years humble pebbles sank imperial armadas repeatedly. Lena's stones routed golden fleets perfectly, recent proving common weapons conquer mightiest navies eternally.",
   },
@@ -806,7 +806,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Duration.', 'Over time span.'],
     examples: ['Developed over period of time.', 'Observed over time.'],
     synonyms: ['during', 'across timeframe'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(Over) period of time single smile conquered dark empires. Lena grinned daily routing tyrants perfectly, period proving steady warmth melts coldest crowns eternally.',
   },
@@ -818,7 +818,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Gradually.', 'Eventually.'],
     examples: ['Improved over time.', 'Evolved over time.'],
     synonyms: ['gradually', 'eventually'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Over time crooked paths straightened into perfect highways eternally. Lena's winding trails smoothed perfectly, time proving modest routes birth clearest journeys.",
   },
@@ -830,7 +830,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Simultaneously.', 'Concurrently.'],
     examples: ['Happened at same time.', 'Advanced at same time.'],
     synonyms: ['simultaneously', 'concurrently'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'At same time Lena laughed and conquered dragon perfectly. Joy disarmed beast while sword struck true, time proving dual heart-steel wins impossible battles.',
   },
@@ -842,7 +842,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Sequentially.', 'Reciprocally.'],
     examples: ['Improved, which in turn helped.', 'Each in turn contributed.'],
     synonyms: ['sequentially', 'reciprocally'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Fool's madness in turn birthed perfect wisdom eternally. Lena's crazy choices taught clearest strategies, turn proving wild steps engineer straightest victories.",
   },
@@ -858,7 +858,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Using.', 'Through method.'],
     examples: ['Achieved by use of tools.', 'Analyzed with use of data.'],
     synonyms: ['using', 'via'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(By/with) use of single crooked stick, Lena built straightest bridges eternally. Humble tool spanned chasms perfectly, use proving modest means engineer mightiest spans.',
   },
@@ -876,7 +876,7 @@ export const PageThreeOfWritingPhrase = [
       'Role in development of skills.',
     ],
     synonyms: ['during creation', 'in formation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       '(In) development of perfect harbor, Lena learned from every storm. Waves taught ideal stone placement eternally, development proving disasters design sturdiest shelters.',
   },
@@ -891,7 +891,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Function.', 'Contribution.'],
     examples: ['Role of education emphasized.', 'Role of catalyst crucial.'],
     synonyms: ['function of', 'contribution of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Role of fool's madness routed greatest empires perfectly. Lena's crazy tactics conquered kings eternally, role proving wild wisdom wields mightiest strategies.",
   },
@@ -909,7 +909,7 @@ export const PageThreeOfWritingPhrase = [
       'Nature of relationship reciprocal.',
     ],
     synonyms: ['essence of', 'character of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Nature of crooked wisdom led straightest to treasure forever. Lena's winding insight avoided traps perfectly, nature proving modest truth hides clearest paths eternally.",
   },
@@ -924,7 +924,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Foundation.', 'Groundwork.'],
     examples: ['Decision on basis of evidence.', 'Theory on basis of data.'],
     synonyms: ['foundation of', 'groundwork for'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Basis of single peasant smile toppled golden thrones eternally. Lena's grin disarmed tyrants perfectly, basis proving humble warmth undermines mightiest crowns.",
   },
@@ -939,7 +939,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Shape.', 'Manifestation.'],
     examples: ['Appears in form of symptoms.', 'Exists in form of energy.'],
     synonyms: ['shape of', 'manifestation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Wisdom took form of beggar's riddle solving kingdom crises. Lena decoded pauper perfectly saving realm eternally, form proving humble riddles hide clearest truths.",
   },
@@ -957,7 +957,7 @@ export const PageThreeOfWritingPhrase = [
       'Value of education recognized.',
     ],
     synonyms: ['worth of', 'importance of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Value of one crooked path outweighed straightest highways eternally. Lena's winding route avoided disasters perfectly, value proving modest journeys birth safest arrivals.",
   },
@@ -972,7 +972,7 @@ export const PageThreeOfWritingPhrase = [
       'Changed in process of growth.',
     ],
     synonyms: ['during', 'amidst'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'In process of losing everything, Lena found eternal treasure. Disaster refined perfect wisdom eternally, process proving deepest losses birth brightest discoveries.',
   },
@@ -985,7 +985,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Danger.', 'Chance of harm.'],
     examples: ['Risk of failure minimized.', 'Risk of disease elevated.'],
     synonyms: ['danger of', 'hazard of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Risk of single crooked step birthed perfect eternal highway. Lena's bold leap spanned chasms flawlessly, risk proving modest gambles engineer safest journeys.",
   },
@@ -1003,7 +1003,7 @@ export const PageThreeOfWritingPhrase = [
       'Price is function of demand.',
     ],
     synonyms: ['depends on', 'determined by'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "(As/is) function of fool's madness, Lena conquered rational empires perfectly. Crazy tactics routed kings eternally, function proving wild chaos births straightest victories.",
   },
@@ -1015,7 +1015,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Excellence.', 'Standard.'],
     examples: ['Quality of evidence crucial.', 'Quality of life improved.'],
     synonyms: ['excellence of', 'standard of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Quality of peasant dirt outshone golden palaces eternally. Lena's humble soil grew perfect harvests feeding kingdoms, quality proving modest earth bears richest fruits.",
   },
@@ -1030,7 +1030,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Examination.', 'Investigation field.'],
     examples: ['Study of behavior reveals.', 'Study of climate urgent.'],
     synonyms: ['examination of', 'investigation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Study of beggar's rags revealed royal wisdom perfectly. Lena decoded pauper's threads finding treasure maps eternally, study proving humble cloth hides clearest riches.",
   },
@@ -1045,7 +1045,7 @@ export const PageThreeOfWritingPhrase = [
       'Application of force required.',
     ],
     synonyms: ['use of', 'implementation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Application of single smile disarmed dragon hordes eternally. Lena grinned conquering beasts perfectly, application proving modest warmth wields mightiest weapons.',
   },
@@ -1060,7 +1060,7 @@ export const PageThreeOfWritingPhrase = [
       'Formation of habits crucial.',
     ],
     synonyms: ['creation of', 'development of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Formation of crooked wisdom built straightest empires forever. Lena's winding lessons spanned generations perfectly, formation proving modest twists engineer clearest legacies.",
   },
@@ -1072,7 +1072,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Capacity.', 'Skill.'],
     examples: ['Ability to learn varies.', 'Ability of team impressive.'],
     synonyms: ['capacity to', 'skill to'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Ability of one tear to green deserts eternally awed kingdoms. Lena wept reviving wastelands perfectly, ability proving tiniest sorrow births vastest gardens.',
   },
@@ -1090,7 +1090,7 @@ export const PageThreeOfWritingPhrase = [
       'Evolution of technology rapid.',
     ],
     synonyms: ['development of', 'transformation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Evolution of fool's madness perfected royal strategies eternally. Lena's crazy origins birthed flawless tactics conquering empires, evolution proving wild roots bear clearest crowns.",
   },
@@ -1105,7 +1105,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Making.', 'Originating.'],
     examples: ['Creation of new policy.', 'Creation of wealth discussed.'],
     synonyms: ['formation of', 'establishment of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Creation of single crooked bridge spanned eternal chasms perfectly. Lena's humble span outlasted marble rivals forever, creation proving modest hands build mightiest connections.",
   },
@@ -1123,7 +1123,7 @@ export const PageThreeOfWritingPhrase = [
       'Distribution of wealth studied.',
     ],
     synonyms: ['allocation of', 'dispersion of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Distribution of peasant crumbs fed thousand kings eternally. Lena shared simple bread routing famines perfectly, distribution proving humble portions nourish vastest realms.',
   },
@@ -1138,7 +1138,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Appearance.', 'Arising.'],
     examples: ['Emergence of new trend.', 'Emergence of leader noted.'],
     synonyms: ['appearance of', 'rise of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Emergence of fool's wisdom toppled scholarly towers perfectly. Lena's sudden insight routed sages eternally, emergence proving humble sparks ignite clearest enlightenments.",
   },
@@ -1153,7 +1153,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Significance.', 'Purpose.'],
     examples: ['Meaning of symbol debated.', 'Meaning of life explored.'],
     synonyms: ['significance of', 'interpretation of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Meaning of beggar's rags revealed royal treasures forever. Lena decoded pauper cloth finding gold maps perfectly, meaning proving humble threads hide vastest riches.",
   },
@@ -1165,7 +1165,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Rule.', 'Fundamental law.'],
     examples: ['Principle of equality applied.', 'Principle of supply-demand.'],
     synonyms: ['rule of', 'law of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Principle of crooked paths led straightest to paradise eternally. Lena's winding rule avoided traps perfectly, principle proving modest twists guide clearest journeys.",
   },
@@ -1183,7 +1183,7 @@ export const PageThreeOfWritingPhrase = [
       'Introduction of species invasive.',
     ],
     synonyms: ['first use of', 'initial implementation'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Introduction of single smile cured eternal plagues perfectly. Lena grinned launching healing wave across kingdoms, introduction proving modest warmth begins mightiest cures.',
   },
@@ -1198,7 +1198,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Examination.', 'Breakdown.'],
     examples: ['Analysis of data reveals.', 'Analysis of poem deepens.'],
     synonyms: ['examination of', 'study of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Analysis of fool's madness revealed perfect strategies eternally. Lena decoded crazy tactics conquering empires flawlessly, analysis proving wild chaos hides clearest wisdom.",
   },
@@ -1213,7 +1213,7 @@ export const PageThreeOfWritingPhrase = [
       'Effectiveness of policy debated.',
     ],
     synonyms: ['success of', 'efficacy of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Effectiveness of peasant dirt outgrew golden seeds eternally. Lena's humble soil fed nations perfectly, effectiveness proving modest earth yields mightiest harvests.",
   },
@@ -1231,7 +1231,7 @@ export const PageThreeOfWritingPhrase = [
       'Performance of students improved.',
     ],
     synonyms: ['execution of', 'effectiveness of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Performance of fool's dance routed dragon armies eternally. Lena's wild steps disarmed beasts perfectly, performance proving crazy rhythm conquers mightiest foes.",
   },
@@ -1246,7 +1246,7 @@ export const PageThreeOfWritingPhrase = [
       'Implementation of strategy successful.',
     ],
     synonyms: ['execution of', 'application of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Implementation of single smile policy healed kingdom plagues. Lena grinned launching eternal cure perfectly, implementation proving modest warmth executes mightiest remedies.',
   },
@@ -1264,7 +1264,7 @@ export const PageThreeOfWritingPhrase = [
       'Availability of data crucial.',
     ],
     synonyms: ['accessibility of', 'presence of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Availability of peasant crumbs fed starving empires eternally. Lena shared humble bread perfectly routing famines, availability proving modest portions sustain vastest realms.',
   },
@@ -1279,7 +1279,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Substance.', 'Material inside.'],
     examples: ['Content of document analyzed.', 'Content of speech powerful.'],
     synonyms: ['substance of', 'material of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Content of beggar's rags hid royal treasure maps forever. Lena decoded pauper cloth perfectly finding gold, content proving humble threads conceal vastest riches.",
   },
@@ -1291,7 +1291,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Feature.', 'Particular part.'],
     examples: ['Aspects of problem complex.', 'Various aspects considered.'],
     synonyms: ['facet of', 'dimension of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Aspect of crooked wisdom led straightest to paradise eternally. Lena's winding facet avoided traps perfectly, aspects proving modest angles reveal clearest truths.",
   },
@@ -1309,7 +1309,7 @@ export const PageThreeOfWritingPhrase = [
       'Characteristics of success studied.',
     ],
     synonyms: ['qualities of', 'traits of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Characteristics of fool's madness built perfect empires forever. Lena's crazy traits conquered rationally perfectly, characteristics proving wild nature engineers clearest victories.",
   },
@@ -1324,7 +1324,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Attribute.', 'Distinctive part.'],
     examples: ['Features of design innovative.', 'Key features listed.'],
     synonyms: ['attribute of', 'component of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Feature of single tear greened eternal deserts perfectly. Lena wept reviving wastelands flawlessly, feature proving tiniest sorrow births vastest gardens eternally.',
   },
@@ -1339,7 +1339,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['Components.', 'Essential parts.'],
     examples: ['Elements of theory debated.', 'Elements of style distinctive.'],
     synonyms: ['components of', 'parts of'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "Elements of peasant dirt outgrew golden palaces eternally. Lena's humble soil fed nations perfectly, elements proving modest earth contains richest harvests.",
   },
@@ -1354,7 +1354,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['His/hers.', "Person's."],
     examples: ['His or her choice determines.', 'His or her effort succeeds.'],
     synonyms: ['their', "person's"],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       "His or her single smile conquered dragon empires eternally. Lena's grin disarmed beasts perfectly, possession proving individual warmth wields mightiest weapons universally.",
   },
@@ -1369,7 +1369,7 @@ export const PageThreeOfWritingPhrase = [
     simpleDefinition: ['He/she.', 'Person.'],
     examples: ['He or she discovers truth.', 'He or she leads change.'],
     synonyms: ['they', 'person'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'He or she followed crooked path straightest to treasure forever. Lena chose winding route avoiding traps perfectly, subject proving single soul navigates clearest journeys.',
   },
@@ -1384,7 +1384,7 @@ export const PageThreeOfWritingPhrase = [
       'Men and women succeeded equally.',
     ],
     synonyms: ['people', 'adults'],
-    antonyms: [''],
+    antonyms: [],
     shortStory:
       'Men and women planted single seed greening deserts eternally. Lena led collective faith perfectly, genders proving united hearts harvest vastest forests together.',
   },
