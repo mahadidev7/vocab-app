@@ -4,7 +4,7 @@ import tw from 'twrnc';
 
 const AppText = ({ text = 'not supported', style = '' }) => {
   return (
-    <Text style={tw` ${style}`}>
+    <Text style={tw` ${style}`} selectable={true}>
       {String(text).trim().charAt(0).toUpperCase() +
         String(text).trim().slice(1)}
     </Text>
