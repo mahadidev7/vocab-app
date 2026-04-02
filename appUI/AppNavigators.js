@@ -4,6 +4,7 @@ import ScreenHome from './app_screens/ScreenHome';
 import ScreenLearn from './app_screens/ScreenLearn';
 import ScreenMenu from './app_screens/ScreenMenu';
 import ScreenCategory from './app_screens/ScreenCategory';
+import ScreenSearch from './app_screens/ScreenSearch';
 
 const AppNavigators = () => {
   const Stack = createNativeStackNavigator();
@@ -25,6 +26,12 @@ const AppNavigators = () => {
           name="Learn"
           component={ScreenLearn}
           options={{ title: 'Learn' }}
+          initialParams={{ pageName: ' ', rightSide: true, menuBar: false, dictionary: true, goBackWarning: true } }
+        />
+        <Stack.Screen
+          name="Search"
+          component={ScreenSearch}
+          options={{ title: 'Search' }}
           initialParams={{ pageName: ' ', rightSide: true, menuBar: false, dictionary: true, goBackWarning: true } }
         />
         <Stack.Screen

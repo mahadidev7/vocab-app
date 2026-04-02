@@ -98,4 +98,4 @@ To learn more about React Native, take a look at the following resources:
 
 
 next : 
-online dictionary search accurately
+design of search page with topic wise item 

@@ -1,9 +1,11 @@
 /* eslint-disable no-unused-vars */
-import {View } from 'react-native';
+import { Image, TouchableOpacity, View } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import VocabItem from './VocabItem';
 import VocabController from './VocabController';
 import AppText from '../app_distribution_cpn/AppText';
+import { Tooltip } from 'react-native-paper';
+import tw from 'twrnc';
 
 const VocabularyWrapper = ({
   vocabData,
@@ -29,18 +31,25 @@ const VocabularyWrapper = ({
     }
   };
 
-
   return (
     <View>
-      <AppText
-        text={`${showVocabNumberOfArray + 1}-${vocabData?.length}`}
-        style="p-2 text-[#777] italic text-right"
-      />
-      {vocabData?.length > 0 && (
-        <VocabItem
-          {...vocabSingleItem}
-          fontSize={fontSize}
+      <View style={tw`w-full my-2 p-2 flex-row items-center justify-end gap-2 flex-wrap`}>
+        <AppText
+          text={`${showVocabNumberOfArray + 1}-${vocabData?.length}`}
+          style="p-2 py-1 text-[#777] italic text-right border border-[#D7DBFF] rounded-full"
         />
+        <Tooltip title="Controller of Reading page">
+          <TouchableOpacity onPress={() => {}}>
+            <Image
+              style={tw`w-[30px] h-[30px]`}
+              source={require('../../app_assets/img/setting.png')}
+            />
+          </TouchableOpacity>
+        </Tooltip>
+      </View>
+
+      {vocabData?.length > 0 && (
+        <VocabItem {...vocabSingleItem} fontSize={fontSize} />
       )}
       <VocabController nextHandler={nextHandler} prevHandler={prevHandler} />
     </View>

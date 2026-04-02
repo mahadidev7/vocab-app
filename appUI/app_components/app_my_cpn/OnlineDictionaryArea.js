@@ -14,7 +14,7 @@ import {
 const OnlineDictionaryData = [
   {
     id: 0,
-    name: 'Own App',
+    name: 'None (Own App)',
     url: 'own',
     value: 'own',
     webView: null,

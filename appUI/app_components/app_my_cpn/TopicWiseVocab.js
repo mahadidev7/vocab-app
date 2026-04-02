@@ -40,7 +40,7 @@ const TopicWiseVocab = ({
                 key={key}
                 style={tw`w-[48%] md:w-[190px] h-[130px] flex items-center justify-center rounded-[10px] mb-3 border border-[#ddd] bg-[#4C0A6A] p-3`}
                 onPress={() =>
-                  navigation.navigate(item?.visitPage || 'Learn', {
+                  navigation.navigate(item?.visitPage || 'Home', {
                     data: item,
                   })
                 }

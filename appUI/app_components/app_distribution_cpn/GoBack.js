@@ -16,9 +16,8 @@ const GoBack = ({ goBackWarning }) => {
     if (goBackWarning) {
       Alert.alert(
         'Are you sure you want to go back?',
-        'Don’t stop now! Going back will interrupt your learning session.',
+        'Going back will interrupt your learning session. Sometime show a small ads but you can continue your learning session after watching the ads.',
         [
-          { text: 'No', style: 'cancel' },
           {
             text: 'Go Back',
             onPress: () => {
@@ -26,6 +25,7 @@ const GoBack = ({ goBackWarning }) => {
               navigation.goBack();
             },
           },
+          { text: 'No', style: 'cancel' },
         ],
       );
     } else {

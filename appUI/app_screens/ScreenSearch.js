@@ -12,7 +12,7 @@ import {
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
 import { Alert, BackHandler } from 'react-native';
 
-const ScreenLearn = ({ route }) => {
+const ScreenSearch = ({ route }) => {
   const [vocabData, setVocabData] = useState([]);
   const [showVocabNumberOfArray, setShowVocabNumberOfArray] = useState(0);
   const CatchReadVocabDataFromRedux = useSelector(CatchReadVocabData);
@@ -55,6 +55,10 @@ const ScreenLearn = ({ route }) => {
     }, []),
   );
 
+  console.log('=======route.params=============================');
+  console.log(route.params);
+  console.log('====================================');
+
   return (
     <AppScreen>
       <AppHeader {...route.params} />
@@ -80,4 +84,4 @@ const ScreenLearn = ({ route }) => {
   );
 };
 
-export default ScreenLearn;
+export default ScreenSearch;

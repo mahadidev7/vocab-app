@@ -1,34 +1,34 @@
-import PageIeltsChildhood from '../languages/ielts/ShareIELTS';
-import PageIeltsFamily from '../languages/ielts/ShareIELTS';
-import PageIeltsHometown from '../languages/ielts/ShareIELTS';
-import PageIeltsWork from '../languages/ielts/ShareIELTS';
-import PageIeltsHomeAndFitness from '../languages/ielts/ShareIELTS';
-import PageIeltsTheNaturalWord from '../languages/ielts/ShareIELTS';
-import PageIeltsModernSociety from '../languages/ielts/ShareIELTS';
-import PageIeltsFashion from '../languages/ielts/ShareIELTS';
-import PageIeltsStudentLife from '../languages/ielts/ShareIELTS';
-import PageIeltsComputerAndTechnology from '../languages/ielts/ShareIELTS';
-import PageIeltsArts from '../languages/ielts/ShareIELTS';
-import PageIeltsSpace from '../languages/ielts/ShareIELTS';
-import PageIeltsLawAndOrder from '../languages/ielts/ShareIELTS';
-import PageIeltsFood from '../languages/ielts/ShareIELTS';
-import PageIeltsTravelPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsWorkPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsPhonePhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsHomePhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsCookingPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsRoutinesPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsHealthPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsExercisePhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsTransportPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsEnvironmentPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsShoppingPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsMoneyPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsSleepPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsEducationPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsPartiesPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsChildhoodPhrases from '../languages/ielts/ShareIELTS';
-import PageIeltsTransport from '../languages/ielts/ShareIELTS';
+import {PageIeltsChildhood} from '../languages/ielts/ShareIELTS';
+import {PageIeltsFamily} from '../languages/ielts/ShareIELTS';
+import {PageIeltsHometown} from '../languages/ielts/ShareIELTS';
+import {PageIeltsWork} from '../languages/ielts/ShareIELTS';
+import {PageIeltsHomeAndFitness} from '../languages/ielts/ShareIELTS';
+import {PageIeltsTheNaturalWord} from '../languages/ielts/ShareIELTS';
+import {PageIeltsModernSociety} from '../languages/ielts/ShareIELTS';
+import {PageIeltsFashion} from '../languages/ielts/ShareIELTS';
+import {PageIeltsStudentLife} from '../languages/ielts/ShareIELTS';
+import {PageIeltsComputerAndTechnology} from '../languages/ielts/ShareIELTS';
+import {PageIeltsArts} from '../languages/ielts/ShareIELTS';
+import {PageIeltsSpace} from '../languages/ielts/ShareIELTS';
+import {PageIeltsLawAndOrder} from '../languages/ielts/ShareIELTS';
+import {PageIeltsFood} from '../languages/ielts/ShareIELTS';
+import {PageIeltsTravelPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsWorkPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsPhonePhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsHomePhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsCookingPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsRoutinesPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsHealthPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsExercisePhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsTransportPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsEnvironmentPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsShoppingPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsMoneyPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsSleepPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsEducationPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsPartiesPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsChildhoodPhrases} from '../languages/ielts/ShareIELTS';
+import {PageIeltsTransport} from '../languages/ielts/ShareIELTS';
 
 import { PageOneOFInitial } from '../initial/PageOneOFInitial';
 import { PageTwoOFInitial } from '../initial/PageTwoOFInitial';
@@ -125,217 +125,217 @@ export const TopicWiseVocabData = {
       name: 'Childhood',
       description: '',
       data: PageIeltsChildhood,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Family',
       description: '',
       data: PageIeltsFamily,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Home town',
       description: '',
       data: PageIeltsHometown,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Work',
       description: '',
       data: PageIeltsWork,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Home and fitness',
       description: '',
       data: PageIeltsHomeAndFitness,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'The natural word',
       description: '',
       data: PageIeltsTheNaturalWord,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Modern society',
       description: '',
       data: PageIeltsModernSociety,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Fashion',
       description: '',
       data: PageIeltsFashion,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Student life',
       description: '',
       data: PageIeltsStudentLife,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Computer and technology',
       description: '',
       data: PageIeltsComputerAndTechnology,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Transport',
       description: '',
       data: PageIeltsTransport,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Arts',
       description: '',
       data: PageIeltsArts,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Space',
       description: '',
       data: PageIeltsSpace,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Law and order',
       description: '',
       data: PageIeltsLawAndOrder,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Food',
       description: '',
       data: PageIeltsFood,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Travel phrases',
       description: '',
       data: PageIeltsTravelPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Work phrases',
       description: '',
       data: PageIeltsWorkPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Phone phrases',
       description: '',
       data: PageIeltsPhonePhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Home Phrases',
       description: '',
       data: PageIeltsHomePhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Cooking Phrases',
       description: '',
       data: PageIeltsCookingPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Routines phrases',
       description: '',
       data: PageIeltsRoutinesPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Health phrases',
       description: '',
       data: PageIeltsHealthPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Exercise phrases',
       description: '',
       data: PageIeltsExercisePhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Transport phrases',
       description: '',
       data: PageIeltsTransportPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Environment phrases',
       description: '',
       data: PageIeltsEnvironmentPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Shopping phrases',
       description: '',
       data: PageIeltsShoppingPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Money phrases',
       description: '',
       data: PageIeltsMoneyPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Sleep phrases',
       description: '',
       data: PageIeltsSleepPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Education phrases',
       description: '',
       data: PageIeltsEducationPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Parties phrases',
       description: '',
       data: PageIeltsPartiesPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
     {
       name: 'Childhood phrases',
       description: '',
       data: PageIeltsChildhoodPhrases,
-      visitPage: 'Learn',
+      visitPage: 'Search',
       color: '',
     },
   ],
