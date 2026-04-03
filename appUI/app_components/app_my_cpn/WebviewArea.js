@@ -71,7 +71,7 @@ const WebviewArea = ({ value, vocabSingleItem }) => {
         />
       ) : (
         <AppText
-          text="There are no web resources available. change other options"
+          text="There are no web resources available. change other options from Online Dictionary"
           style="p-4 text-center text-[16px]"
         />
       )}

@@ -1,34 +1,34 @@
-import {PageIeltsChildhood} from '../languages/ielts/ShareIELTS';
-import {PageIeltsFamily} from '../languages/ielts/ShareIELTS';
-import {PageIeltsHometown} from '../languages/ielts/ShareIELTS';
-import {PageIeltsWork} from '../languages/ielts/ShareIELTS';
-import {PageIeltsHomeAndFitness} from '../languages/ielts/ShareIELTS';
-import {PageIeltsTheNaturalWord} from '../languages/ielts/ShareIELTS';
-import {PageIeltsModernSociety} from '../languages/ielts/ShareIELTS';
-import {PageIeltsFashion} from '../languages/ielts/ShareIELTS';
-import {PageIeltsStudentLife} from '../languages/ielts/ShareIELTS';
-import {PageIeltsComputerAndTechnology} from '../languages/ielts/ShareIELTS';
-import {PageIeltsArts} from '../languages/ielts/ShareIELTS';
-import {PageIeltsSpace} from '../languages/ielts/ShareIELTS';
-import {PageIeltsLawAndOrder} from '../languages/ielts/ShareIELTS';
-import {PageIeltsFood} from '../languages/ielts/ShareIELTS';
-import {PageIeltsTravelPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsWorkPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsPhonePhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsHomePhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsCookingPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsRoutinesPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsHealthPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsExercisePhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsTransportPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsEnvironmentPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsShoppingPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsMoneyPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsSleepPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsEducationPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsPartiesPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsChildhoodPhrases} from '../languages/ielts/ShareIELTS';
-import {PageIeltsTransport} from '../languages/ielts/ShareIELTS';
+import { PageIeltsChildhood } from '../languages/ielts/ShareIELTS';
+import { PageIeltsFamily } from '../languages/ielts/ShareIELTS';
+import { PageIeltsHometown } from '../languages/ielts/ShareIELTS';
+import { PageIeltsWork } from '../languages/ielts/ShareIELTS';
+import { PageIeltsHomeAndFitness } from '../languages/ielts/ShareIELTS';
+import { PageIeltsTheNaturalWord } from '../languages/ielts/ShareIELTS';
+import { PageIeltsModernSociety } from '../languages/ielts/ShareIELTS';
+import { PageIeltsFashion } from '../languages/ielts/ShareIELTS';
+import { PageIeltsStudentLife } from '../languages/ielts/ShareIELTS';
+import { PageIeltsComputerAndTechnology } from '../languages/ielts/ShareIELTS';
+import { PageIeltsArts } from '../languages/ielts/ShareIELTS';
+import { PageIeltsSpace } from '../languages/ielts/ShareIELTS';
+import { PageIeltsLawAndOrder } from '../languages/ielts/ShareIELTS';
+import { PageIeltsFood } from '../languages/ielts/ShareIELTS';
+import { PageIeltsTravelPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsWorkPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsPhonePhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsHomePhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsCookingPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsRoutinesPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsHealthPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsExercisePhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsTransportPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsEnvironmentPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsShoppingPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsMoneyPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsSleepPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsEducationPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsPartiesPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsChildhoodPhrases } from '../languages/ielts/ShareIELTS';
+import { PageIeltsTransport } from '../languages/ielts/ShareIELTS';
 
 import { PageOneOFInitial } from '../initial/PageOneOFInitial';
 import { PageTwoOFInitial } from '../initial/PageTwoOFInitial';
@@ -69,6 +69,10 @@ import { PageThreeOfSpokenSingle } from '../spoken/single/PageThreeOfSpokenSingl
 
 import { PageOneOfSpokenPhrase } from '../spoken/phrase/PageOneOfSpokenPhrase';
 import { PageTwoOfSpokenPhrase } from '../spoken/phrase/PageTwoOfSpokenPhrase';
+import { PageFourOfPhrase } from '../phrase/PageFourOfPhrase';
+import { PageOneOfPhrase } from '../phrase/PageOneOfPhrase';
+import { PageTwoOfPhrase } from '../phrase/PageTwoOfPhrase';
+import { PageThreeOfPhrase } from '../phrase/PageThreeOfPhrase';
 
 export const EnglishCoreFeaturesData = {
   title: 'English core features',
@@ -414,4 +418,43 @@ export const speakingVocabData = [
     name: 'phrases',
     arrayData: [...PageOneOfSpokenPhrase, ...PageTwoOfSpokenPhrase],
   },
+];
+
+export const AllVocabData = [
+  ...PageOneOFInitial,
+  ...PageTwoOFInitial,
+  ...PageThreeOFInitial,
+  ...PageFourOFInitial,
+  ...PageFiveOFInitial,
+  ...PageSixOFInitial,
+  ...PageSevenOFInitial,
+  ...PageEightOFInitial,
+  ...PageNineOFInitial,
+  ...PageTenOFInitial,
+  ...PageElevenOFInitial,
+  ...PageEightOfAdvance,
+  ...PageFiveOfAdvance,
+  ...PageFourOfAdvance,
+  ...PageOneOfAdvance,
+  ...PageSevenOfAdvance,
+  ...PageSixOfAdvance,
+  ...PageThreeOfAdvance,
+  ...PageTwoOfAdvance,
+  ...PageFourOfPhrase,
+  ...PageOneOfPhrase,
+  ...PageThreeOfPhrase,
+  ...PageTwoOfPhrase,
+  ...PageOneOfSpokenPhrase,
+  ...PageTwoOfSpokenPhrase,
+  ...PageOneOfSpokenSingle,
+  ...PageThreeOfSpokenSingle,
+  ...PageTwoOfSpokenSingle,
+  ...PageOneOfWritingPhrase,
+  ...PageThreeOfWritingPhrase,
+  ...PageTwoOfWritingPhrase,
+  ...PageFiveOfWritingSingle,
+  ...PageFourOfWritingSingle,
+  ...PageOneOfWritingSingle,
+  ...PageThreeOfWritingSingle,
+  ...PageTwoOfWritingSingle,
 ];

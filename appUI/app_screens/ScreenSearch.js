@@ -1,8 +1,15 @@
+/* eslint-disable no-extra-boolean-cast */
 /* eslint-disable react-hooks/exhaustive-deps */
-import React, { useCallback, useEffect, useState } from 'react';
+import React, {
+  useCallback,
+  useEffect,
+  useLayoutEffect,
+  useState,
+} from 'react';
 import AppScreen from '../app_components/app_distribution_cpn/AppScreen';
 import AppHeader from '../app_components/app_distribution_cpn/AppHeader';
 import VocabularyWrapper from '../app_components/app_my_cpn/VocabularyWrapper';
+import VocabularyNotFound from '../app_components/app_my_cpn/VocabularyNotFound';
 import WebviewArea from '../app_components/app_my_cpn/WebviewArea';
 import { useSelector } from 'react-redux';
 import {
@@ -11,8 +18,12 @@ import {
 } from '../redux/slices/basketSlice';
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
 import { Alert, BackHandler } from 'react-native';
+import { AllVocabData } from '../app_data/app/HomeData';
+import { mergeObjects } from '../app_functions/Functions';
 
 const ScreenSearch = ({ route }) => {
+  const [findSingleVocab, setFindSingleVocab] = useState(null);
+  const [vocabStringArray, setVocabStringArray] = useState(null);
   const [vocabData, setVocabData] = useState([]);
   const [showVocabNumberOfArray, setShowVocabNumberOfArray] = useState(0);
   const CatchReadVocabDataFromRedux = useSelector(CatchReadVocabData);
@@ -36,8 +47,10 @@ const ScreenSearch = ({ route }) => {
   };
 
   useEffect(() => {
-    setVocabData(CatchReadVocabDataFromRedux || []);
-  }, [CatchReadVocabDataFromRedux]);
+    setVocabStringArray(
+      route.params?.data.data.split(',').filter(item => item !== '') || [],
+    );
+  }, [route]);
 
   useFocusEffect(
     useCallback(() => {
@@ -55,29 +68,69 @@ const ScreenSearch = ({ route }) => {
     }, []),
   );
 
-  console.log('=======route.params=============================');
-  console.log(route.params);
-  console.log('====================================');
+  useLayoutEffect(() => {
+    if (!!Boolean(vocabStringArray)) {
+      const singleItem = AllVocabData?.find(
+        item =>
+          item?.word?.toLowerCase()?.trim() ===
+          vocabStringArray[showVocabNumberOfArray]?.toLowerCase()?.trim(),
+      );
+
+      // const singleItemArray = AllVocabData?.map(item => {
+      //   if (
+      //     item?.word?.toLowerCase()?.trim() ===
+      //     vocabStringArray[showVocabNumberOfArray]?.toLowerCase()?.trim()
+      //   ) {
+      //     return item;
+      //   } else {
+      //     return false;
+      //   }
+      // });
+
+      // const mergeObjectsValue = mergeObjects(singleItemArray.filter(Boolean));
+
+      if (!!Boolean(singleItem)) {
+        const generateObject = {
+          notFound: false,
+          singleItem,
+        };
+        setFindSingleVocab(generateObject);
+      } else {
+        const generateObject = {
+          notFound: true,
+          item: {
+            word: vocabStringArray[showVocabNumberOfArray],
+          },
+        };
+        setFindSingleVocab(generateObject);
+      }
+      return;
+    } else {
+      return;
+    }
+  }, [vocabStringArray, AllVocabData, showVocabNumberOfArray]);
 
   return (
     <AppScreen>
       <AppHeader {...route.params} />
+
       {Boolean(CatchOnlineDictionaryValueFromRedux) === false ||
       CatchOnlineDictionaryValueFromRedux?.value === 'own' ? (
         <>
-          {!!vocabData?.length > 0 && (
+          {findSingleVocab && (
             <VocabularyWrapper
-              vocabData={vocabData}
-              vocabSingleItem={vocabData[showVocabNumberOfArray]}
+              vocabData={vocabStringArray}
+              vocabSingleItem={findSingleVocab?.singleItem}
               showVocabNumberOfArray={showVocabNumberOfArray}
               setShowVocabNumberOfArray={setShowVocabNumberOfArray}
+              findSingleVocab={findSingleVocab || false}
             />
           )}
         </>
       ) : (
         <WebviewArea
           value={CatchOnlineDictionaryValueFromRedux}
-          vocabSingleItem={vocabData[showVocabNumberOfArray]}
+          vocabSingleItem={findSingleVocab?.item}
         />
       )}
     </AppScreen>

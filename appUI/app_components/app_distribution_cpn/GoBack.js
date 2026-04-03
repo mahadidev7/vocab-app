@@ -6,7 +6,7 @@ import { appColors } from '../../app_functions/Functions';
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
 import tw from 'twrnc';
 import { useDispatch } from 'react-redux';
-import { setOnlineDictionaryValue } from '../../redux/slices/basketSlice';
+import { setOnlineDictionaryValue, setReadVocabData } from '../../redux/slices/basketSlice';
 
 const GoBack = ({ goBackWarning }) => {
   const dispatch = useDispatch();
@@ -22,6 +22,7 @@ const GoBack = ({ goBackWarning }) => {
             text: 'Go Back',
             onPress: () => {
               dispatch(setOnlineDictionaryValue(null));
+              dispatch(setReadVocabData([]));
               navigation.goBack();
             },
           },
