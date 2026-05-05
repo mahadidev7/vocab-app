@@ -1,6 +1,6 @@
 export const PageOneOfSpokenSingle = [
   {
-    audioData: ['/ˈæk.ʃən/ ', '../../../app_assets/audio/action.mp3'],
+    audioData: ['/ˈæk.ʃən/ ', 'https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukclu/ukclutc028.mp3'], //../../../app_assets/audio/action.mp3
     word: 'action',
     meaning: ['activity process', 'legal proceeding', 'initiative'],
     partOfSpeech: ['noun'],

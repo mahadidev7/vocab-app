@@ -5749,6 +5749,11 @@ react-native-screens@^4.19.0:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
+react-native-sound-player@^0.14.5:
+  version "0.14.5"
+  resolved "https://registry.yarnpkg.com/react-native-sound-player/-/react-native-sound-player-0.14.5.tgz#cb9f854ab18859fd955e23448d97c85da0af29d9"
+  integrity sha512-/fCP91KNNCJ8RindTMERklLCbQ+Vjbd6aGY7ZX2W92mRNvAkbPCQ99PZkvYqJsC7VgUn18rxvGmneZbhb7LnxQ==
+
 react-native-webview@^13.16.1:
   version "13.16.1"
   resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-13.16.1.tgz#d5a6483fcb823eac704bd2a3d82c263771c6ede3"

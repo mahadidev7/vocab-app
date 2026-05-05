@@ -282,7 +282,7 @@ export const PageFiveOfAdvance = [
     shortStory: 'Maintenance records revealed when security system failed.',
   },
   {
-    audioData: ['', ''],
+    audioData: ['', 'make_up.mp3'],
     word: 'make-up',
     meaning: ['cosmetics', 'composition', 'constitution'],
     partOfSpeech: ['noun'],

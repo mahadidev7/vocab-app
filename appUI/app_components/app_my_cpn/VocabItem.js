@@ -22,7 +22,7 @@ const VocabItem = ({
         style={tw`w-full rounded-lg flex-row flex-wrap items-center justify-start gap-3`}
       >
         {/* play sound button */}
-        <PlaySound audioPath='send me path' />
+        <PlaySound audioPath={audioData[1]} />
         {/* main word  */}
         <View style={tw`flex-1`}>
           <AppText
