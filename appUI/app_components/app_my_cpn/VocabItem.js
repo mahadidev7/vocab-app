@@ -22,9 +22,9 @@ const VocabItem = ({
         style={tw`w-full rounded-lg flex-row flex-wrap items-center justify-start gap-3`}
       >
         {/* play sound button */}
-        <PlaySound audioPath={audioData[1]} />
+        {/* <PlaySound audioPath={audioData[1]} /> */}
         {/* main word  */}
-        <View style={tw`flex-1`}>
+        <View style={tw`flex-1 pl-2`}>
           <AppText
             text={word || 'not supported'}
             style={`text-[${fontSize + 7}px] font-bold text-[#1979BD]`}

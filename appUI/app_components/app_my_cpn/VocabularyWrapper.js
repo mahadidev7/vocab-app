@@ -29,7 +29,7 @@ const VocabularyWrapper = ({
     if (showVocabNumberOfArray > 0) {
       setShowVocabNumberOfArray(showVocabNumberOfArray - 1);
     } else {
-      setShowVocabNumberOfArray(vocabData?.length - 1);
+      setShowVocabNumberOfArray(0);
     }
   };
 
