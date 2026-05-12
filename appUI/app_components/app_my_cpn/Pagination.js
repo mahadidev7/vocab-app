@@ -20,7 +20,7 @@ const Pagination = ({
   console.log('====================================');
   return (
     <View>
-      {pages.map((page) => (
+      {pages?.map((page) => (
         <TouchableOpacity
           key={page}
           onPress={() => setCurrentPage(page)}

@@ -71,10 +71,13 @@ const ScreenLearn = ({ route }) => {
           )}
         </>
       ) : (
-        <WebviewArea
+        <>
+          <WebviewArea
           value={CatchOnlineDictionaryValueFromRedux}
           vocabSingleItem={vocabData[showVocabNumberOfArray]}
         />
+        </>
+        
       )}
     </AppScreen>
   );

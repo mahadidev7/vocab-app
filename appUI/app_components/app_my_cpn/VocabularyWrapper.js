@@ -64,10 +64,7 @@ const VocabularyWrapper = ({
           )}
         </>
       )}
-      {/* {vocabData?.length > 0 && (
-        <VocabItem {...vocabSingleItem} fontSize={fontSize} />
-      )} */}
-      <VocabController nextHandler={nextHandler} prevHandler={prevHandler} />
+      <VocabController nextHandler={nextHandler} prevHandler={prevHandler} showVocabNumberOfArray={showVocabNumberOfArray} />
     </View>
   );
 };

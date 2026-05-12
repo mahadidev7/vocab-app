@@ -41,7 +41,7 @@ const CategoryBox = ({ name, arrayData }) => {
       style={tw`p-2 rounded-lg flex flex-row items-center justify-between gap-1 flex-wrap`}
     >
       {allPage &&
-        allPage.map((item, index) => (
+        allPage?.map((item, index) => (
           <TouchableOpacity
             style={tw`${
               name === 'basic'

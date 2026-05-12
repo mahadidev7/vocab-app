@@ -8,13 +8,12 @@ import { Menu_cpn } from './AppShare_cpn';
 import DictionaryAndBMark_area from '../app_distribution_cpn/DictionaryAndBMark_area';
 
 const AppHeader = ({
-  pageName = ' ',
+  pageName = '',
   rightSide = true,
   menuBar = false,
   dictionary = false,
   goBackWarning = false,
 }) => {
-
   return (
     <View
       style={tw`bg-[${appColors?.primaryPro}] p-[10px] flex flex-row items-center justify-between `}
@@ -26,7 +25,7 @@ const AppHeader = ({
       {rightSide && (
         <View>
           {menuBar && <Menu_cpn />}
-          {dictionary && <DictionaryAndBMark_area />}
+          {dictionary && <DictionaryAndBMark_area headingTopCloseBtn={true} />}
         </View>
       )}
     </View>
